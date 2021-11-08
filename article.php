@@ -106,24 +106,23 @@
             <div id="navbar_menu">
               <ul class="first-ul border">
                 
-                <li> <a class="active" href="index.html">Acceuil</a> </li>
+                <li> <a class="active" href="index.php">Acceuil</a> </li>
                   
                
                 <li><a href="#">Section</a>
                   <ul>
-                    <li><a href="Agadir.html">Agadir</a></li>
-                    <li><a href="Casablanca.html">Casablanca </a></li>
-                    <li><a href="Eljadida.html">El jadida</a></li>
-                    <li><a href="Fes.html">FES</a></li>
-                    <li><a href="Kenitra.html">Kenitra </a></li>
-                    <li><a href="Marrakech.html">Marrakech</a></li>
-                    <li><a href="Meknes.html">Meknes</a></li>
-                    <li><a href="Mohamedia.html">Mohamedia </a></li>
-                    <li><a href="Oujda.html">Oujda </a></li>
-                    <li><a href="Rabat_sale.html">Rabat-Salé</a></li>
-                    <li><a href="Settat.html">Settat</a></li>
-                    <li><a href="Tanger_Tetouan.html">Tanger-Tetouan </a></li>
-                   
+                    <li><a href="Agadir.php">Agadir</a></li>
+                    <li><a href="Casablanca.php">Casablanca </a></li>
+                    <li><a href="Eljadida.php">El jadida</a></li>
+                    <li><a href="Fes.php">FES</a></li>
+                    <li><a href="Kenitra.php">Kenitra </a></li>
+                    <li><a href="Marrakech.php">Marrakech</a></li>
+                    <li><a href="Meknes.php">Meknes</a></li>
+                    <li><a href="Mohamedia.php">Mohamedia </a></li>
+                    <li><a href="Oujda.php">Oujda </a></li>
+                    <li><a href="Rabat_sale.php">Rabat-Salé</a></li>
+                    <li><a href="Settat.php">Settat</a></li>
+                    <li><a href="Tanger_Tetouan.php">Tanger-Tetouan </a></li>               
                   </ul>
 
                 </li>
