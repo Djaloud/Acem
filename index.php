@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
 <!-- basic -->
 <meta charset="utf-8">
@@ -13,6 +13,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
+
 <!-- site metas -->
 <title>Site officiel ACEM</title>
 <meta name="keywords" content="">
@@ -44,149 +45,129 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
       <![endif]-->
 </head>
+
 <body id="default_theme" class="it_service">
 <!---<div class="bg_load"> <img class="loader_animation" src="images/fevicon/log_acem.png" /> </div>-->
+
 <!-- header -->
-<header id="default_header" class="header_style_1">
-  <!-- header top -->
-  <div class="header_top">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <div class="full">
-            <div class="topbar-left">
-              <ul class="list-inline">
-                <li> <span class="topbar-label"><i class="fa  fa-home"></i></span> <span class="topbar-hightlight">Rabat-Salé-Zemmour-Zaer</span> </li>
-                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:acemaroc@gmail.com">acemaroc@gmail.com</a></span> </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 right_section_header_top">
-          <div class="float-left">
-            <div class="social_icon">
-              <ul class="list-inline">
-                <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook" target="_blank"></a></li>
-                <li><a class="fa fa-google-plus" href="#" title="Google+" target="_blank"></a></li>
-                <li><a class="fa fa-twitter" href="#" title="Twitter" target="_blank"></a></li>
-                <li><a class="fa fa-linkedin" href="#" title="LinkedIn" target="_blank"></a></li>
-                <li><a class="fa fa-instagram" href="#" title="Instagram" target="_blank"></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="float-right">
-            <div class="make_appo"> 
-              <a class="btn white_btn" href="make_appointment.html">Contact</a> 
-
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- end header top -->
-  <!-- header bottom -->
-  <div class="header_bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-          <!-- logo start -->
-          <div class="logo"> <a href="index.html"><img src="images/fevicon/log_acem.png" alt="logo" /></a>
-            
-           </div>
-          
-          <!-- logo end -->
-        </div>
-
-        <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
-          <!-- menu start -->
-          <div class="menu_side">
-            <div id="navbar_menu">
-              <ul class="first-ul">
-                
-                <li> <a class="active" href="index.html">Acceuil</a> </li>
-                  
-               
-                <li><a href="#">Section</a>
-                  <ul>
-                    <li><a href="Agadir.html">Agadir</a></li>
-                    <li><a href="Casablanca.html">Casablanca </a></li>
-                    <li><a href="Eljadida.html">El jadida</a></li>
-                    <li><a href="Fes.html">FES</a></li>
-                    <li><a href="Kenitra.html">Kenitra </a></li>
-                    <li><a href="Marrakech.html">Marrakech</a></li>
-                    <li><a href="Meknes.html">Meknes</a></li>
-                    <li><a href="Mohamedia.html">Mohamedia </a></li>
-                    <li><a href="Oujda.html">Oujda </a></li>
-                    <li><a href="Rabat_sale.html">Rabat-Salé</a></li>
-                    <li><a href="Settat.html">Settat</a></li>
-                    <li><a href="Tanger_Tetouan.html">Tanger-Tetouan </a></li>
-                   
-                  </ul>
-
-                </li>
-               
-                <li> <a href="#">Nos activités</a>
-                  <ul>
-                    <li><a href="#">W-S et culturel</a></li>
-                    <li><a href="#">Mini-JC</a></li>
-                  </ul>
-                </li>
-
-                <li> <a href="#">Vies estudiantines</a>
-                  <ul>
-                    <li><a href="#">Les etablissements</a></li>
-                    <li><a href="#">Les ENSA</a></li>
-                    <li><a href="#">Orientations</a></li>
-                    
-                  </ul>
-                </li>
-
-                 <li> <a href="#">Bibliothèque</a>
-                  <ul>
-                    <li><a href="#">Articles</a></li>
-                    <li><a href="#">Conventions</a></li>
-                    <li><a href="#">Documents</a></li>
-                  </ul>
-                </li>
-
-                
-              </ul>
-            </div>
-           
-          </div>
-          <!-- menu end -->
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- header bottom end -->
-</header>
+  <?php include('Header.php');  ?>
 <!-- end header -->
 
-<!-- inner page banner -->
-<div id="inner_banner" class="section inner_banner_section">
+
+<!--- section de Image--->
+  <?php include('sectionImage.php'); ?>
+<!---- end section------>
+
+<div class="section padding_layout_1">
   <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="full">
-          <div class="title-holder">
-            <div class="title-holder-cell text-left">
-              <h1 class="page-title">SECTION</h1>
-              <ol class="breadcrumb">
-                <li><a href="index.html">Acceuil</a></li>
-                <li class="active">Settat</li>
-              </ol>
+ <div class="row ">
+  <div class="col-md-4 ">
+         <div class="logo1"> <a href="index.html"><img src="images\it_service\pesident.jpg" alt="logo" /></a>
+                       </div>
+        <div class="full" style="margin-top: 2px;">
+          <h3 class="border-bottom">MOT DU PRESIDENT </h3>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et 
+            quasi architecto beatae vitae dicta sunt explicabo..</p>
+          
+        </div>
+      </div>
+
+
+
+
+
+      <div class="col-md-8 border-left">
+        <div class="full margin_bottom_30">
+          <div class="accordion border_circle">
+            <div class="bs-example">
+              <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
+                  </div>
+                  <div id="collapseOne" class="panel-collapse collapse in show">
+                    <div class="panel-body">
+                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
+                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
+                        consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+                          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
+                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, loo
+                      </p>
+                    </div>
+                  </div>
+                </div>                
+              </div>
             </div>
           </div>
         </div>
       </div>
+      
     </div>
   </div>
 </div>
-<!-- end inner page banner -->
 
+<!-- end section -->
+ 
+
+
+
+
+<!-- fin president -->
+<!-- section -->
+<div class="section padding_layout_1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full ">
+          <div class="main_heading text_align_center border-bottom">
+            <h2>NOS OBJECTIFS</h2>
+            <p class="large">Meilleur avenir pour les etudiants !</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30">
+          <div class="center">
+            <div class="icon"> <img src="images/it_service/i1.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">SOLIDARITE</h4>
+          <p>Convaincus de la nécessité d’une organisation pour la défense des intérêts matériaux et
+moraux de notre communauté</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30">
+          <div class="center">
+            <div class="icon"> <img src="images/it_service/i2.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">DEFENDRE NOS DROITS</h4>
+          <p>Considérant le nombre croissant des comoriens étudiant et le manque d’une mission
+diplomatique permanente comorienne au Maroc</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30">
+          <div class="center">
+            <div class="icon"> <img src="images/it_service/i3.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">FRATERNITE</h4>
+          <p>Considérant la nécessité d’une action commune efficace qui puisse impliquer les processus de
+développement intellectuel de notre communauté</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30 margin_0">
+          <div class="center">
+            <div class="icon"> <img src="images/it_service/i4.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">UNION</h4>
+          <p>Conscients des potentialités intellectuelles et culturelles dont recèle la communauté
+comorienne</p>
+        </div>
+      </div>
+    </div>
 
   <!--section 1 membre-->
  
@@ -197,7 +178,7 @@
           <div class="col-md-12">
             <div class="full">
               <div class="main_heading text_align_left">
-                <h2>SECTION Settat</h2>
+                <h2>MEMBRES DU BUREAU EXECUTIF D'A.C.E.M</h2>
                 <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
               </div>
             </div>
@@ -205,6 +186,8 @@
         </div>
 
     <div class="row rowX">
+
+
     <!--- deuxieme ligne-->
       <div class="row">
 
@@ -212,9 +195,19 @@
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
-          </div>  
+            <h4>Dean Michael</h4>
+          </div>
+          <div class="team_feature_social">
+            <div class="social_icon">
+              <ul class="list-inline">
+                <li><a class="fa fa-facebook" href="https://www.facebook.com/" title="Facebook" target="_blank"></a></li>
+                <li><a class="fa fa-google-plus" href="https://plus.google.com/" title="Google+" target="_blank"></a></li>
+                <li><a class="fa fa-twitter" href="https://twitter.com" title="Twitter" target="_blank"></a></li>
+                <li><a class="fa fa-linkedin" href="https://www.linkedin.com" title="LinkedIn" target="_blank"></a></li>
+                <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -222,51 +215,40 @@
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
-          </div>  
+            <h4>Ruby Jake</h4>
+          </div>
+          <div class="team_feature_social">
+            <div class="social_icon">
+              <ul class="list-inline">
+                <li><a class="fa fa-facebook" href="https://www.facebook.com/" title="Facebook" target="_blank"></a></li>
+                <li><a class="fa fa-google-plus" href="https://plus.google.com/" title="Google+" target="_blank"></a></li>
+                <li><a class="fa fa-twitter" href="https://twitter.com" title="Twitter" target="_blank"></a></li>
+                <li><a class="fa fa-linkedin" href="https://www.linkedin.com" title="LinkedIn" target="_blank"></a></li>
+                <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
+              </ul>
+            </div>
+          </div>
         </div>
-      </div> 
-
+      </div>
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
-          </div>  
+            <h4>David Hussay</h4>
+          </div>
+          <div class="team_feature_social">
+            <div class="social_icon">
+              <ul class="list-inline">
+                <li><a class="fa fa-facebook" href="https://www.facebook.com/" title="Facebook" target="_blank"></a></li>
+                <li><a class="fa fa-google-plus" href="https://plus.google.com/" title="Google+" target="_blank"></a></li>
+                <li><a class="fa fa-twitter" href="https://twitter.com" title="Twitter" target="_blank"></a></li>
+                <li><a class="fa fa-linkedin" href="https://www.linkedin.com" title="LinkedIn" target="_blank"></a></li>
+                <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
-   
-    </div>
-  </div>
-
-  <div class="row rowX">
-
-
-    <!--- deuxieme ligne-->
-      <div class="row">
-
-      <div class="col-md-4 col-sm-6">
-        <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
-          <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
-          </div>  
-        </div>
-      </div>
-
-      <div class="col-md-4 col-sm-6">
-        <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
-          <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
-          </div>  
-        </div>
-      </div>
-      
    
     </div>
   </div>
@@ -278,7 +260,68 @@
 
 
 
-
+<!-- section BLoG-->
+<div class="section padding_layout_1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="main_heading text_align_left">
+            <h2>Quelques Evenements</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="full blog_colum">
+          <div class="blog_feature_img"> <img src="images/it_service/post-01.jpg" alt="#" /> </div>
+          <div class="post_time">
+            <p><i class="fa fa-clock-o"></i> Le 16 Decembre 2020</p>
+          </div>
+          <div class="blog_feature_head">
+            <h4>Premier anniversaire du consulat General </h4>
+          </div>
+          <div class="blog_feature_cont">
+            <p> Cette manifestation se decline sous forme de webinaire auquel prennent part des personnalités politiques , des associations et des entrepreneurs.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="full blog_colum">
+          <div class="blog_feature_img"> <img src="images/it_service/post-02.jpg" alt="#" /> </div>
+          <div class="post_time">
+            <p><i class="fa fa-clock-o"></i> Le 17 Novembre 2020</p>
+          </div>
+          <div class="blog_feature_head">
+            <h4>Journée internationale de l'Etudiant</h4>
+          </div>
+          <div class="blog_feature_cont">
+            <p>A l'occasion de la journée internationale de l'Etudiant; l'ACEM, à travers son bureau exécutif, souhaite un excellent parcours académique à tous ses membres. Elle saisit de cette même opportunité pour réitérer sa volonté d'accompagner inlassablement les étudiants Comoriens dans leurs démarches administratives, académiques et autres.
+Cordialement !</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="full blog_colum">
+          <div class="blog_feature_img"> <img src="images/it_service/post-03.jpg" alt="#" /> </div>
+          <div class="post_time">
+            <p><i class="fa fa-clock-o"></i> Le 18 novembre ( 1955-1956 )</p>
+          </div>
+          <div class="blog_feature_head">
+            <h4>Fête de l'independance du maroc</h4>
+          </div>
+          <div class="blog_feature_cont">
+            <p>Joyeuse fête d'indépendance au peuple Marocain.
+              C'est une immense fierté de vivre dans un pays d'une hospitalité exemplaire, d'une générosité sans faille.
+              Vive le Maroc, Vive la fraternité Maroco-Comorienne., ...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section BLOG -->
 <!-- section -->
 <div class="section padding_layout_1 testmonial_section white_fonts">
   <div class="container">
@@ -346,9 +389,48 @@
   </div>
 </div>
 <!-- end section -->
+<!-- section -->
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="contact_us_section">
+            <div class="call_icon"> <img src="images/it_service/phone_icon.png" alt="#" /> </div>
+            <div class="inner_cont">
+              <h2>NOS SPONSORS ET PARTENAIRES</h2>
+              <p>Aujourd’hui, des partenaires nous ont déjà rejoints dans notre projet et nous soutiennent en nous proposant un soutien financier, des avantages en nature ou des réductions sur le matériel.</p>
+            </div>
+           <!-- <div class="button_Section_cont"> <a class="btn dark_gray_bt" href="it_contact.html">Contact </a>--> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+<!-- section -->
+<div class="section padding_layout_1" style="padding: 50px 0;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <ul class="brand_list">
+            <li><img src="images/it_service/brand_icon1.png" alt="#" /></li>
+            <li><img src="images/it_service/brand_icon2.png" alt="#" /></li>
+            <li><img src="images/it_service/brand_icon3.png" alt="#" /></li>
+            <li><img src="images/it_service/brand_icon4.png" alt="#" /></li>
+            <li><img src="images/it_service/brand_icon5.png" alt="#" /></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+<!-- Modal -->
 
-
-
+<!-- End Model search bar -->
 <!-- footer -->
 <footer class="footer_style_2">
   <div class="container-fuild">
