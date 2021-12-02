@@ -243,6 +243,18 @@
     </div>  
 </div>
 
+
+<div class="row rowX">
+    <div class="col-md-4 col-sm-6">
+        <div class="full team_blog_colum1">
+          <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Benimellal.jpeg" alt="#"> </div>
+          <div class="team_feature_head">         
+            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+          </div>  
+        </div>
+    </div>  
+</div>
+
 <!---liens vers les ensa-->
 <div class="section row rowX" >   
     <div class="col-md-12">
