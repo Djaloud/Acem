@@ -120,7 +120,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Agadir.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://www.ensa-agadir.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
    </div>
@@ -130,7 +130,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Marrakech.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="https://www.ensa.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>
@@ -139,7 +139,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Oujda.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://ensao.ump.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
       </div>
@@ -153,7 +153,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Tetouan.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="https://ensa-tetouan.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>
@@ -163,7 +163,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Tanger.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://www.ensat.ac.ma/rwte/index.html" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>
@@ -173,7 +173,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Safi.jpeg" alt="#"> </div>
           <div class="team_feature_head">
            
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://www.ensas.uca.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
       </div> 
@@ -185,7 +185,7 @@
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Khouribga.jpeg" alt="#"> </div>
           <div class="team_feature_head"> 
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://ensak.usms.ac.ma/ensak/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>
@@ -195,7 +195,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/alhoceima.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="https://ensah.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>
@@ -205,7 +205,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Eljadida.jpeg" alt="#"> </div>
           <div class="team_feature_head">
            
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://www.ensaj.ucd.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
       </div>
@@ -217,7 +217,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Fes.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="https://ensaf.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>
@@ -227,7 +227,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Kenitra.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="https://ensa.uit.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>  
@@ -237,7 +237,7 @@
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/berchid.jpeg" alt="#"> </div>
           <div class="team_feature_head">
             
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="https://www.ensab.ac.ma/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>  
@@ -249,7 +249,7 @@
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="images/ImageEnsa/Benimellal.jpeg" alt="#"> </div>
           <div class="team_feature_head">         
-            <button type="button" class="btn btn-secondary"><a href="https://www.linkedin.com" style="color: #fff;">Visiter le site</a></button>
+            <button type="button" class="btn btn-secondary"><a href="http://ensabm.usms.ac.ma/new1/" style="color: #fff;">Visiter le site</a></button>
           </div>  
         </div>
     </div>  

@@ -453,7 +453,7 @@ Article 10 : Le pouvoir de l’A.C.E.M s’exerce par l’intermédiaire de ses 
 
     <div class="row" style="margin-bottom: 35px;background-color:#007bff;">
       <div class="col-md-12 cprt1">
-           <p><a href="#"><b>Telecharger tout l'article &nbsp;<b> <i class="fa fa-download"></i></a></p>
+           <p><a href="STATUTS-DE-L-ACEM-2.pdf" target="_blank"><b>Telecharger tout l'article &nbsp;<b> <i class="fa fa-download"></i></a></p>
       </div>
     </div>
 
