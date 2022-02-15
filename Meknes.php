@@ -94,30 +94,30 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Meknes/Charfia_Mohamed.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>SECRETAIRE GENERAL<br>Charfia Mohamed Cheikh </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:Charfiacheikh99@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Meknes/Ali_Mfoihaya.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SOCIO-CULTUREL<br>Ali Mfoihaya Djaoid </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:alimfoihayadjaoid@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div> 
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Meknes/Saïd_rannia.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CONTROLEUSE GENERALE<br>Saïd rannia  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:rannia140699@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -133,20 +133,20 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Meknes/Ali_kole.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>TRESORERIE GENERAL<br>Nawad Ali kole</h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:Saidnasur3459@gmail.com ">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Meknes/Hatem_Mohamed.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Hatem Mohamed Ali  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:hatemohamed01@gmail.com ">Contacter</a></button>
           </div>  
         </div>
       </div>

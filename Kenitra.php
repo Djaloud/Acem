@@ -95,30 +95,30 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/kenitra/1.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>SECRETAIRE GENERAL<br>Youssouf Mohamed Mhoma MAHAMOUD </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:mahamoudissa20@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/kenitra/2.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SOCIO-CULTUREL<br>Aboubacar Omar soueffou  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:Aboubacaromar1999@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div> 
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/kenitra/3.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CONTROLEUR GENERAL<br>Yassem Youssouf Abdillah </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:yastyga@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -134,20 +134,20 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/kenitra/4.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>TRESORERIE GENERAL<br>Said Abdallah Rifki said Mohamed </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:saidrifki96@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/kenitra/5.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SPORTIF ET COMMUNICATION<br>ABDEREMANE MAHAMDOU BOINA  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:boina.abdereman@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>

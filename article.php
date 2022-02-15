@@ -177,7 +177,7 @@
           <h3 style="text-align: center;">PREAMBULE :</h3>
           <div class="blog_feature_cont"><p style="font-size:19px;">Nous, élèves, étudiants et stagiaires comoriens au Maroc:<br></p></div>
           <ul>
-            <li><i class="fa fa-check-circle"></i>Considérant les problèmes et les difficultés que nous rencontrons ;</li>
+            <li><i class="fa fa-check-circle"></i>- Considérant les problèmes et les difficultés que nous rencontrons ;</li>
             <li><i class="fa fa-check-circle"></i>- Considérant le nombre croissant des comoriens étudiant et le manque d’une mission diplomatique permanente comorienne au Maroc ;</li>
             <li><i class="fa fa-check-circle"></i>- Conscients des potentialités intellectuelles et culturelles dont recèle la communauté comorienne ;</li>
             <li><i class="fa fa-check-circle"></i>- Considérant la nécessité d’une action commune efficace qui puisse impliquer les processus de développement intellectuel de notre communauté ;</li>

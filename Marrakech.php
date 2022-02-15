@@ -95,30 +95,30 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Marrakech/NASSEAU_MOÏSE.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>SECRETAIRE GENERAL<br>NASSEAU MOÏSE </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:moisenasseau05@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Marrakech/Houmais_Said.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SOCIO-CULTUREL<br>Houmais Said Mchinda </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:houmaissaidmchinda@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div> 
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Marrakech/Hikmat_C.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CONTROLEUSE GENERALE<br>Hikmat said Ali Abasse   </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:saidalihikmat18@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -134,20 +134,20 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Marrakech/Noura_ahmed.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>TRESORIERE GENERAL<br>Noura Ahmed  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:zenaya18@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Marrakech/Alhadad_Moussa.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Alhadad Moussa </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:hadade360@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>

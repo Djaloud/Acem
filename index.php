@@ -87,12 +87,30 @@
                   </div>
                   <div id="collapseOne" class="panel-collapse collapse in show">
                     <div class="panel-body">
-                      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, 
-                        consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
-                          Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it 
-                        over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, loo
-                      </p>
+                      <p>
+                      L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise : <strong>Egalité - Solidarité - Excellence.</strong>
+                    </br>
+                      Ainsi, chaque ville universitaire, où résident des Comoriens, constitue une Section Régionale (S.R) de l’ACEM. Lorsque les membres de cette dernière atteignent un nombre supérieur à 20, ils élisent un Bureau de la S.R, qui sera constitué de 5 membres : </p>
+
+                      <div>
+                         <ul>
+                            <li><p><i class="fa fa-check-circle"></i> Le Secrétaire Général (SG)</p></li>
+                            <li><p><i class="fa fa-check-circle"></i> Le Chargé des affaires socioculturelles et estudiantines</p></li>
+                            <li><p><i class="fa fa-check-circle"></i> Le Chargé sportifs et de la communication </p></li>
+                            <li></p><p><i class="fa fa-check-circle"></i> Le Trésorier Général</li>
+                            <li></p><p><i class="fa fa-check-circle"></i> Le Contrôleur Générale.
+                        </li>
+                            
+                         </ul>
+                      </div>
+
+                      <p>Ensuite pour subvenir à ces besoins, l’association subsiste par :
+ Des cotisations des membres ;
+ Des subventions des organisations nationales et internationales ;
+ Des recettes des activités socioculturelles ;
+ Toutes autres ressources autorisées par la loi.
+</p>
+
                     </div>
                   </div>
                 </div>                

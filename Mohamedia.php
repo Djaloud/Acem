@@ -96,9 +96,9 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/1.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
+            <h4>SECRETAIRE GENERAL<br>Aousse yahaya mohamed iliassa </h4>
             <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
           </div>  
         </div>
@@ -106,9 +106,9 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/2.png" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
+            <h4>CHARGE SOCIO-CULTUREL<br>Nafion Icham</h4>
             <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
           </div>  
         </div>
@@ -116,9 +116,9 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/3.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
+            <h4>CONTROLEUR GENERAL<br>Moussa Ismail </h4>
             <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
           </div>  
         </div>
@@ -135,9 +135,9 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/4.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
+            <h4>TRESORERIE GENERAL<br>Rayssa Mohamady souleh Ahmed </h4>
             <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
           </div>  
         </div>
@@ -145,9 +145,9 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/5.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
+            <h4>CHARGE SPORTIF ET COMMUNICATION<br>NASSOR SAID NASSOR </h4>
             <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
           </div>  
         </div>

@@ -317,6 +317,7 @@ a.btn.white_btn {
 
 .img-responsive {
 	max-width: 100%;
+	height: 350px;
 }
 
 .color_black p,
