@@ -7,8 +7,8 @@
           <div class="full">
             <div class="topbar-left">
               <ul class="list-inline">
-                <li> <span class="topbar-label"><i class="fa  fa-home"></i></span> <span class="topbar-hightlight">Rabat-Salé-Zemmour-Zaer</span> </li>
-                <li> <span class="topbar-label"><i class="fa fa-envelope-o"></i></span> <span class="topbar-hightlight"><a href="mailto:acemaroc@gmail.com">acemaroc@gmail.com</a></span> </li>
+                <li style="font-size:25px;"> <span class="topbar-label"></span> <span class="topbar-hightlight">Association des Comoriens Étudiant au Maroc</span> </li>
+                
               </ul>
             </div>
           </div>
@@ -18,10 +18,9 @@
             <div class="social_icon">
               <ul class="list-inline">
                 <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook" target="_blank"></a></li>
-                <li><a class="fa fa-google-plus" href="#" title="Google+" target="_blank"></a></li>
-                <li><a class="fa fa-twitter" href="#" title="Twitter" target="_blank"></a></li>
-                <li><a class="fa fa-linkedin" href="#" title="LinkedIn" target="_blank"></a></li>
-                <li><a class="fa fa-instagram" href="#" title="Instagram" target="_blank"></a></li>
+                
+                <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="ACEM FAQ" target="_blank"></a></li>
+                <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram" target="_blank"></a></li>
               </ul>
             </div>
           </div>
@@ -72,36 +71,40 @@
                     <li><a href="Oujda.php">Oujda </a></li>
                     <li><a href="Rabat_sale.php">Rabat-Salé</a></li>
                     <li><a href="Settat.php">Settat</a></li>
-                    <li><a href="Tanger_Tetouan.php">Tanger-Tetouan </a></li>
+                    <li><a href="Tanger_Tetouan.php">Tetouan </a></li>
+                    <li><a href="#">Tanger </a></li>
                    
                   </ul>
 
                 </li>
                
-                <li> <a href="#">Nos activités</a>
-                  <ul>
-                    <li><a href="#">W-S et culturel</a></li>
-                    <li><a href="#">Mini-JC</a></li>
+
+                <li> <a href="#">Vies estudiantines</a>
+                  <ul>         
+                    <li><a href="Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
+                    <li><a href="LesEnsa.php">ENSA</a></li>
+                    <li><a href="amci.php">Bourse AMCI</a></li>
+                    <li><a href="assurence.php">Assurance AMCI</a></li>
                   </ul>
                 </li>
 
-                <li> <a href="#">Vies estudiantines</a>
+                 <li> <a href="#">Annexe</a>
                   <ul>
-                    <li><a href="#">Les etablissements</a></li>
-                    <li><a href="LesEnsa.php">Les ENSA</a></li>
-                    <li><a href="#">Orientations</a></li>
-                    
+                    <li><a href="http://acem.tech/apropos" target="_blank">Acem Tech</a></li>
+                    <li> <a href="#">C.Scientifique</a> </li>
                   </ul>
                 </li>
 
                  <li> <a href="#">Bibliothèque</a>
                   <ul>
                     <li><a href="article.php">Articles</a></li>
-                    <li><a href="#">Conventions</a></li>
-                    <li><a href="#">Documents</a></li>
+                    <li><a href="document.php">Documents</a></li>    
                   </ul>
                 </li>
 
+                
+
+                 
                 
               </ul>
             </div>

@@ -61,22 +61,7 @@
 <div class="section padding_layout_1">
   <div class="container">
  <div class="row ">
-  <div class="col-md-4 ">
-         <div class="logo1"> <a href="index.html"><img src="images\it_service\pesident.jpg" alt="logo" /></a>
-                       </div>
-        <div class="full" style="margin-top: 2px;">
-          <h3 class="border-bottom">MOT DU PRESIDENT </h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et 
-            quasi architecto beatae vitae dicta sunt explicabo..</p>
-          
-        </div>
-      </div>
-
-
-
-
-
-      <div class="col-md-8 border-left">
+      <div class="col-md-12 border-left">
         <div class="full margin_bottom_30">
           <div class="accordion border_circle">
             <div class="bs-example">
@@ -86,9 +71,9 @@
                     <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
                   </div>
                   <div id="collapseOne" class="panel-collapse collapse in show">
-                    <div class="panel-body">
-                      <p>
-                      L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise : <strong>Egalité - Solidarité - Excellence.</strong>
+                    <div class="panel-body" >
+                      <p >
+                      L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
                     </br>
                       Ainsi, chaque ville universitaire, où résident des Comoriens, constitue une Section Régionale (S.R) de l’ACEM. Lorsque les membres de cette dernière atteignent un nombre supérieur à 20, ils élisent un Bureau de la S.R, qui sera constitué de 5 membres : </p>
 
@@ -104,13 +89,20 @@
                          </ul>
                       </div>
 
-                      <p>Ensuite pour subvenir à ces besoins, l’association subsiste par :
- Des cotisations des membres ;
- Des subventions des organisations nationales et internationales ;
- Des recettes des activités socioculturelles ;
- Toutes autres ressources autorisées par la loi.
-</p>
+                      <p>Et enfin, l’ACEM est constitué par deux organes principaux :             </p>   
+                            Les organes exécutifs :
+                          <ul>
+                           <li> <p><i class="fa fa-check-circle"> </i> Assemblée Générale ; </li></p>
+                            <li><p><i class="fa fa-check-circle"></i> Comité Elargi : constitué du Président, du VP, du Coordinateur ainsi qu’aux SG des différentes S.R. </li></p>
 
+                            <li><p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice Président (V.P) et du Commissaire aux comptes (C.C).</li></p>
+                               <li><p><i class="fa fa-check-circle"></i>Section Régionale : dirigé et représenté par le Bureau de la S.R.</li></p>
+
+                          </ul>
+                          Les organes non-exécutifs : 
+                      <ul>
+                           <li> <p><i class="fa fa-check-circle"></i> Le Comité Scientifique (C.S) : composé de 15 membres, le C.S est chargé de proposer, planifier et organiser toutes les activités à caractères scientifique. Il assure le rôle d’information, d’orientation et de conseil à tous organes, commission ou membres de l’ACEM. </li></p>
+                            
                     </div>
                   </div>
                 </div>                
@@ -138,53 +130,44 @@
       <div class="col-md-12">
         <div class="full ">
           <div class="main_heading text_align_center border-bottom">
-            <h2>NOS OBJECTIFS</h2>
-            <p class="large">Meilleur avenir pour les etudiants !</p>
+            <h2>NOTRE DEVISE</h2>
+           
           </div>
         </div>
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i1.png" alt="#" /> </div>
+            <div class="icon"> <img src="images/it_service/egalite2.png" alt="#" /> </div>
           </div>
-          <h4 class="theme_color">SOLIDARITE</h4>
+          <h4 class="theme_color">EGALITE</h4>
           <p>Convaincus de la nécessité d’une organisation pour la défense des intérêts matériaux et
 moraux de notre communauté</p>
         </div>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i2.png" alt="#" /> </div>
+            <div class="icon"> <img src="images/it_service/sol.png" alt="#" /> </div>
           </div>
-          <h4 class="theme_color">DEFENDRE NOS DROITS</h4>
+          <h4 class="theme_color">SOLIDARITE</h4>
           <p>Considérant le nombre croissant des comoriens étudiant et le manque d’une mission
 diplomatique permanente comorienne au Maroc</p>
         </div>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i3.png" alt="#" /> </div>
+            <div class="icon"> <img src="images/it_service/ex.png" alt="#" /> </div>
           </div>
-          <h4 class="theme_color">FRATERNITE</h4>
+          <h4 class="theme_color">EXCELLENCE</h4>
           <p>Considérant la nécessité d’une action commune efficace qui puisse impliquer les processus de
 développement intellectuel de notre communauté</p>
         </div>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-        <div class="full text_align_center margin_bottom_30 margin_0">
-          <div class="center">
-            <div class="icon"> <img src="images/it_service/i4.png" alt="#" /> </div>
-          </div>
-          <h4 class="theme_color">UNION</h4>
-          <p>Conscients des potentialités intellectuelles et culturelles dont recèle la communauté
-comorienne</p>
-        </div>
-      </div>
+    
     </div>
 
   <!--section 1 membre-->
@@ -196,7 +179,7 @@ comorienne</p>
           <div class="col-md-12">
             <div class="full">
               <div class="main_heading text_align_left">
-                <h2>MEMBRES DU BUREAU EXECUTIF D'A.C.E.M</h2>
+                <h2>MEMBRES DU BUREAU EXECUTIF DE L'A.C.E.M</h2>
                 <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
               </div>
             </div>
@@ -210,61 +193,31 @@ comorienne</p>
       <div class="row">
 
       <div class="col-md-4 col-sm-6">
-        <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+         <div class="full team_blog_colum">
+          <div class="it_team_img"> <img class="img-responsive" src="photo/BE/1.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>Dean Michael</h4>
-          </div>
-          <div class="team_feature_social">
-            <div class="social_icon">
-              <ul class="list-inline">
-                <li><a class="fa fa-facebook" href="https://www.facebook.com/" title="Facebook" target="_blank"></a></li>
-                <li><a class="fa fa-google-plus" href="https://plus.google.com/" title="Google+" target="_blank"></a></li>
-                <li><a class="fa fa-twitter" href="https://twitter.com" title="Twitter" target="_blank"></a></li>
-                <li><a class="fa fa-linkedin" href="https://www.linkedin.com" title="LinkedIn" target="_blank"></a></li>
-                <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
-              </ul>
-            </div>
-          </div>
+            <h4>PRESIDENT<br>Toihere Dachiroudine </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:toiherdachiroudine@gmail.com">Contacter</a></button>
+          </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
-        <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+         <div class="full team_blog_colum">
+          <div class="it_team_img"> <img class="img-responsive" src="photo/BE/3.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>Ruby Jake</h4>
-          </div>
-          <div class="team_feature_social">
-            <div class="social_icon">
-              <ul class="list-inline">
-                <li><a class="fa fa-facebook" href="https://www.facebook.com/" title="Facebook" target="_blank"></a></li>
-                <li><a class="fa fa-google-plus" href="https://plus.google.com/" title="Google+" target="_blank"></a></li>
-                <li><a class="fa fa-twitter" href="https://twitter.com" title="Twitter" target="_blank"></a></li>
-                <li><a class="fa fa-linkedin" href="https://www.linkedin.com" title="LinkedIn" target="_blank"></a></li>
-                <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
-              </ul>
-            </div>
-          </div>
+            <h4>VICE PRESIDENT<br>Sidi Ahmed Djawad  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:djaoidahmedsidi@gmail.com">Contacter</a></button>
+          </div>  
         </div>
       </div>
       <div class="col-md-4 col-sm-6">
-        <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+         <div class="full team_blog_colum">
+          <div class="it_team_img"> <img class="img-responsive" src="photo/BE/2.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>David Hussay</h4>
-          </div>
-          <div class="team_feature_social">
-            <div class="social_icon">
-              <ul class="list-inline">
-                <li><a class="fa fa-facebook" href="https://www.facebook.com/" title="Facebook" target="_blank"></a></li>
-                <li><a class="fa fa-google-plus" href="https://plus.google.com/" title="Google+" target="_blank"></a></li>
-                <li><a class="fa fa-twitter" href="https://twitter.com" title="Twitter" target="_blank"></a></li>
-                <li><a class="fa fa-linkedin" href="https://www.linkedin.com" title="LinkedIn" target="_blank"></a></li>
-                <li><a class="fa fa-instagram" href="https://www.instagram.com" title="Instagram" target="_blank"></a></li>
-              </ul>
-            </div>
-          </div>
+            <h4>COMISSAIRE AUX COMPTES<br>Attoumane Abou Bacar </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:attoumaneaboubacar@gmail.com">Contacter</a></button>
+          </div>  
         </div>
       </div>
    
@@ -293,7 +246,7 @@ comorienne</p>
     <div class="row">
       <div class="col-md-4">
         <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="images/it_service/post-01.jpg" alt="#" /> </div>
+          <div class="blog_feature_img"> <img src="images/it_service/consules.jpg" alt="Mr le consule" /> </div>
           <div class="post_time">
             <p><i class="fa fa-clock-o"></i> Le 16 Decembre 2020</p>
           </div>
@@ -309,7 +262,7 @@ comorienne</p>
         <div class="full blog_colum">
           <div class="blog_feature_img"> <img src="images/it_service/post-02.jpg" alt="#" /> </div>
           <div class="post_time">
-            <p><i class="fa fa-clock-o"></i> Le 17 Novembre 2020</p>
+            <p><i class="fa fa-clock-o"></i> Le 17 Novembre 20221</p>
           </div>
           <div class="blog_feature_head">
             <h4>Journée internationale de l'Etudiant</h4>
@@ -322,17 +275,16 @@ Cordialement !</p>
       </div>
       <div class="col-md-4">
         <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="images/it_service/post-03.jpg" alt="#" /> </div>
+          <div class="blog_feature_img"> <img src="images/it_service/Housni_MOHAMED_ABDOU.jpeg" alt="#" /> </div>
           <div class="post_time">
-            <p><i class="fa fa-clock-o"></i> Le 18 novembre ( 1955-1956 )</p>
+            <p><i class="fa fa-clock-o"></i> LUNDI 26 OCTOBRE 2020</p>
           </div>
           <div class="blog_feature_head">
-            <h4>Fête de l'independance du maroc</h4>
+            <h4>Inauguration de l'ambassade des comores à Rabat</h4>
           </div>
           <div class="blog_feature_cont">
-            <p>Joyeuse fête d'indépendance au peuple Marocain.
-              C'est une immense fierté de vivre dans un pays d'une hospitalité exemplaire, d'une générosité sans faille.
-              Vive le Maroc, Vive la fraternité Maroco-Comorienne., ...</p>
+            <p>Rabat, (MAEC) - L'Ambassade de l’Union des Comores au Maroc a été inaugurée, lundi 26 octobre, lors d’une cérémonie organisée à Rabat.
+Cette cérémonie a été présidée par le Ministre des Affaires Etrangères, de la Coopération Africaine et des Marocains Résidant à l'Etranger, M. Nasser Bourita et son homologue comorien, M. Dhoihir Dhoulkamal.</p>
           </div>
         </div>
       </div>
@@ -367,11 +319,11 @@ Cordialement !</p>
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <div class="testimonial-container">
-                  <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#fff; font-size:" target="_blank">Bourse d’études Allemagne 2021: programme de licence et de master à l’Université de Stuttgart.</a> </div>
-                  <div class="testimonial-photo"> <img src="images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                  <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#fff; font-size:" target="_blank">L’ Association des Comoriens Etudiant au Maroc, vous ouvre les portes de son univers à travers ce compte YouTube..</a> </div>
+                  <div class="testimonial-photo"> <img src="images/it_service/acem.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
-                    <h4>7 janvier 2021</h4>
-                    <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#ffcccc;" target="_blank">En savoir plus.</a></span> </div>
+                    <h4>11 fevrier 2022</h4>
+                    <span class="testimonial-position"><a href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw/featured" style="color:#ffcccc;" target="_blank">En savoir plus.</a></span> </div>
                 </div>
               </div>
 
@@ -428,88 +380,45 @@ Cordialement !</p>
 </div>
 <!-- end section -->
 <!-- section -->
-<div class="section padding_layout_1" style="padding: 50px 0;">
+<div class="section padding_layout_1" style="padding: 30px 0;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="full">
           <ul class="brand_list">
-            <li><img src="images/it_service/brand_icon1.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon2.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon3.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon4.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon5.png" alt="#" /></li>
+            <li><a href="https://www.amci.ma/"><img class="img-resp" src="images/sponsors/AMCI.png" alt="#" /></a></li>
+            <li><a href="https://www.attijariwafabank.com/fr"><img class="img-resp" src="images/sponsors/Attijari.png" alt="#" /></a></li>
+            <li><a href="https://cesam-centrale.ma/"><img class="img-resp" src="images/sponsors/CESAM.jpg" alt="#" /></a></li>
+            <li><a href="https://incodev.org/"><img class="img-resp" src="images/sponsors/INCODEV.png" alt="#" /></a></li>
+            <li><a href="https://inwi.ma/"><img class="img-resp" src="images/sponsors/Inwi.png" alt="#" /></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <ul class="brand_list">
+            <li><a href="https://www.iam.ma/index.aspx"><img class="img-resp" src="images/sponsors/mt.png" alt="#" /></a></li>
+            <li><a href="https://www.oncf-voyages.ma/"><img class="img-resp" src="images/sponsors/ONCF.png" alt="#" /></a></li>
+            <li><a href="https://www.royalairmaroc.com/fr-fr"><img class="img-resp" src="images/sponsors/Rair.png" alt="#" /></a></li>
+            <li><a href="https://beit-salam.km/symboles-de-letat/"><img class="img-resp" src="images/sponsors/SC.png" alt="#" /></a></li>
+            <li><a href="https://supmti.ac.ma/"><img class="img-resp" src="images/sponsors/SUP-MTI.png" alt="#" /></a></li>
+            <li><a href="https://www.wafaassurance.ma/fr"><img class="img-resp" src="images/sponsors/Wfs.png" alt="#" /></a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
 </div>
+
+
 <!-- end section -->
 <!-- Modal -->
 
 <!-- End Model search bar -->
-<!-- footer -->
-<footer class="footer_style_2">
-  <div class="container-fuild">
-      <div class="footer_blog">
-        <div class="row">
-          <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>NOS ACTIVITES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> W-S ET CULTUREL</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Mini-JC</a></li>
-                </ul>
-              </div>
-
-              <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>VIES ESTUDIANTINES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> Formations</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Les ENSA</a></li>
-                  <li><a href="it_privacy_policy.html"><i class="fa fa-angle-right"></i> Orientation</a></li>
-                 
-                </ul>
-              </div>
-        
-
-        
-
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>BIBLIOTHEQUE</h2>
-            </div>
-            <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Articles</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Conventions</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Documents</a></li>
-           </ul>
-          </div>
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>CONTACT</h2>
-            </div>
-            <p>123 Second Street Fifth Avenue,<br>
-              Manhattan, New York<br>
-              <span style="font-size:18px;"><a href="tel:+9876543210">+987 654 3210</a></span></p>
-            
-          </div>
-          
-        
-      </div>
-
-      <div class="cprt">
-        <p >A.C.E.M © Copyrights 2021</p>
-      </div>
-
-
-    
-  </div>
-</footer>
+<?php include("footer.php") ?>
 <!-- end footer -->
 <!-- js section -->
 <script src="js/jquery.min.js"></script>

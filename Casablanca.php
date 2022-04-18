@@ -96,30 +96,30 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/1.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>SECRETAIRE GENERAL<br>Mohamed Soilihi Houdhoif </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:msoilihi747@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/2.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SOCIO-CULTUREL<br>Ghalid Mohamed Bacar  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:mohamedbacarghalid@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div> 
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/3.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CONTROLEUR GENERAL<br>Djasma Ahamada Bedja  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:djasmaa2019@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -135,20 +135,20 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/4.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>TRESORERIE GENERAL<br>Ghaniya Mohamadi  </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:ghaniyamohamadi3@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/5.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SPORTIF ET COMMUNICATION<br> AMIR DINE Chamir </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:chamiramirdine@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -236,66 +236,7 @@
 
 
 <!-- footer -->
-<footer class="footer_style_2">
-  <div class="container-fuild">
-      <div class="footer_blog">
-        <div class="row">
-          <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>NOS ACTIVITES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> W-S ET CULTUREL</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Mini-JC</a></li>
-                </ul>
-              </div>
-
-              <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>VIES ESTUDIANTINES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> Formations</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Les ENSA</a></li>
-                  <li><a href="it_privacy_policy.html"><i class="fa fa-angle-right"></i> Orientation</a></li>
-                 
-                </ul>
-              </div>
-        
-
-        
-
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>BIBLIOTHEQUE</h2>
-            </div>
-            <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Articles</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Conventions</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Documents</a></li>
-           </ul>
-          </div>
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>CONTACT</h2>
-            </div>
-            <p>123 Second Street Fifth Avenue,<br>
-              Manhattan, New York<br>
-              <span style="font-size:18px;"><a href="tel:+9876543210">+987 654 3210</a></span></p>
-            
-          </div>
-          
-        
-      </div>
-
-      <div class="cprt">
-        <p >A.C.E.M © Copyrights 2021</p>
-      </div>
-
-
-    
-  </div>
-</footer>
+<?php include("footer.php") ?>
 <!-- end footer -->
 <!-- js section -->
 <script src="js/jquery.min.js"></script>

@@ -396,6 +396,7 @@
 	}
 	body {
 		overflow-x: hidden;
+		
 	}
 	.container {
 		width: 750px;
@@ -1454,9 +1455,7 @@
 	.logo img {
 		width: 80px;
 		position: relative;
-   		left: -50px;
-
-       
+   		       
 	}
 	.logo1 img {
 		width: 80px;

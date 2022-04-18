@@ -83,7 +83,14 @@
             <div class="full">
               <div class="main_heading text_align_left">
                 <h2>SECTION Kenitra</h2>
-                <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
+                <p class="large">Le 16 novembre 2008 a été mise en place l’ACEM  section régionale de Kenitra, celle – ci à montrer depuis sa création son dévouement, son amour, son efficacité et sa sollicité envers l’étudiant comorien. Elle a eu comme premier secrétaire général Mr Mouandhoime Zahahe Oulame, il a eu sa licence en Chimie à la Faculté des sciences de l’Université Ibn Tofail de Kenitra, titulaire de PHD Chimie à l’Université Paris Saclay en 2007 il est  actuellement chercheur à l’institut I2E3 en même temps Chargé de cours au département de chimie, biochimie et physique de l’Université du Québec à Trois-Rivières (UQTR), Canada.</p>
+
+                <p class="large"> Soucieux de vouloir créer l’harmonie sociale de tout natif comorien résidant à  Kenitra. Compte tenu de la nécessité d’avoir une structure associative au sein de la communauté estudiantine comorienne à Kenitra, sous la base du respect mutuel, de l’honneur, et de la dignité. L’ACEM (Association Comorienne des Etudiants au Maroc) a su mobiliser l’intérêt d’un vaste groupe des jeunes étudiant Comoriens au Maroc.</p>
+
+                <p class="large">En 2012, l’ACEM-Kenitra a accueilli la 10ème édition de la journée scientifique et culturelle de  l’étudiant comorien au Maroc et puis en 2018 la 16ème édition. En 2017, l’ACEM-Kenitra a initié un colloque sur l’étudiant comorien au Maroc dont la première Edition est organisé à Kenitra du 02 au 3 sept 2017 sous le thème : «Le devenir de l’étudiant comorien au Maroc » à l’Université Ibn Tofail.   
+</p>
+                <p class="large">Aujourd’hui l’ACEM-Kenitra a pu créer une harmonie au sein de la communauté comorienne au Royaume Chérifien du Maroc à Kenitra. Elle rassemble plus de 150 adhérents bénévoles résidants à Kenitra.
+</p>
               </div>
             </div>
           </div>
@@ -234,67 +241,7 @@
 
 
 
-<!-- footer -->
-<footer class="footer_style_2">
-  <div class="container-fuild">
-      <div class="footer_blog">
-        <div class="row">
-          <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>NOS ACTIVITES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> W-S ET CULTUREL</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Mini-JC</a></li>
-                </ul>
-              </div>
-
-              <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>VIES ESTUDIANTINES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> Formations</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Les ENSA</a></li>
-                  <li><a href="it_privacy_policy.html"><i class="fa fa-angle-right"></i> Orientation</a></li>
-                 
-                </ul>
-              </div>
-        
-
-        
-
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>BIBLIOTHEQUE</h2>
-            </div>
-            <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Articles</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Conventions</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Documents</a></li>
-           </ul>
-          </div>
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>CONTACT</h2>
-            </div>
-            <p>123 Second Street Fifth Avenue,<br>
-              Manhattan, New York<br>
-              <span style="font-size:18px;"><a href="tel:+9876543210">+987 654 3210</a></span></p>
-            
-          </div>
-          
-        
-      </div>
-
-      <div class="cprt">
-        <p >A.C.E.M © Copyrights 2021</p>
-      </div>
-
-
-    
-  </div>
-</footer>
+<?php include("footer.php") ?>
 <!-- end footer -->
 <!-- js section -->
 <script src="js/jquery.min.js"></script>

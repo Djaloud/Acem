@@ -95,30 +95,30 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/settat/1.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>SECRETAIRE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>SECRETAIRE GENERAL<br>Djamaldine youssouf abdou</h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:djamalysf@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/settat/2.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SOCIO-CULTUREL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SOCIO-CULTUREL<br>Soule abdou bedja </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:souleabdoubedja18@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div> 
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-3.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/settat/3.jpeg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CONTROLEUR GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CONTROLEUR GENERAL<br>Ayouba Mbae Saïd </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:aayouba717@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -134,20 +134,20 @@
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-2.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/settat/4.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>TRESORERIE GENERAL<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>TRESORERIE GENERAL<br>Soilihi Noura </h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:nourasoilihi00@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
 
       <div class="col-md-4 col-sm-6">
         <div class="full team_blog_colum">
-          <div class="it_team_img"> <img class="img-responsive" src="images/it_service/team-member-1.jpg" alt="#"> </div>
+          <div class="it_team_img"> <img class="img-responsive" src="photo/settat/5.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>CHARGE SPORTIF ET COMMUNICATION<br>Dean Michael </h4>
-            <button type="button" class="btn btn-primary"><a href="https://www.linkedin.com">Contacter</a></button>
+            <h4>CHARGE SPORTIF ET COMMUNICATION<br>MOHAMED SOILIHI ALI</h4>
+            <button type="button" class="btn btn-primary"><a href="mailto:aliboinamohamed@gmail.com">Contacter</a></button>
           </div>  
         </div>
       </div>
@@ -235,66 +235,8 @@
 
 
 <!-- footer -->
-<footer class="footer_style_2">
-  <div class="container-fuild">
-      <div class="footer_blog">
-        <div class="row">
-          <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>NOS ACTIVITES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> W-S ET CULTUREL</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Mini-JC</a></li>
-                </ul>
-              </div>
+<?php include("footer.php") ?>
 
-              <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>VIES ESTUDIANTINES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> Formations</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Les ENSA</a></li>
-                  <li><a href="it_privacy_policy.html"><i class="fa fa-angle-right"></i> Orientation</a></li>
-                 
-                </ul>
-              </div>
-        
-
-        
-
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>BIBLIOTHEQUE</h2>
-            </div>
-            <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Articles</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Conventions</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Documents</a></li>
-           </ul>
-          </div>
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>CONTACT</h2>
-            </div>
-            <p>123 Second Street Fifth Avenue,<br>
-              Manhattan, New York<br>
-              <span style="font-size:18px;"><a href="tel:+9876543210">+987 654 3210</a></span></p>
-            
-          </div>
-          
-        
-      </div>
-
-      <div class="cprt">
-        <p >A.C.E.M © Copyrights 2021</p>
-      </div>
-
-
-    
-  </div>
-</footer>
 <!-- end footer -->
 <!-- js section -->
 <script src="js/jquery.min.js"></script>

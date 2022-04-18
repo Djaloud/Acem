@@ -82,7 +82,20 @@
             <div class="full">
               <div class="main_heading text_align_left">
                 <h2>SECTION Meknes</h2>
-                <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
+                <p class="large">L’Association des Comoriens Etudiant au Maroc fut créée le 31 décembre 1981 à Casablanca, puis en suite une idée de décentralisation en section régionale a vu le jour telle est le cas de la ville de Meknès. Le 25 février 2005 fut ouverte la section régionale de Meknès dont elle a connu comme premier secrétaire général, Mr DINI IBRAHIM ALI, et en suite 18 autres étudiants ont brigué ce poste dont 6 coordinateurs de l’ACEM-mère.
+</p>
+                <p class="large">La ville de Meknès est une des anciennes et grandes villes du pays comprenant le plus d’étudiants comoriens où plusieurs activités nationales ont été réalisées, à savoir : 
+                  <ul>
+<li>- En 2006, la 4ème édition de la journée scientifique et culturelle de l’ l’étudiant comorien au Maroc. </li>
+<li>- En 2011, la 9ème édition de la journée scientifique et culturelle de l’ l’étudiant comorien au Maroc.</li>
+
+<li>- En 2013, célébration du 32ème anniversaire de l’ACEM.
+</li>
+<li>- En 2015, la 13ème édition de la journée scientifique et culturelle de l’ l’étudiant comorien au Maroc.</li>
+
+</ul> 
+ </p>
+                <p class="large"> </p>
               </div>
             </div>
           </div>
@@ -231,67 +244,8 @@
 
 
 
-<!-- footer -->
-<footer class="footer_style_2">
-  <div class="container-fuild">
-      <div class="footer_blog">
-        <div class="row">
-          <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>NOS ACTIVITES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> W-S ET CULTUREL</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Mini-JC</a></li>
-                </ul>
-              </div>
+<?php include("footer.php") ?>
 
-              <div class="col-md-3 ">
-                <div class="main-heading left_text">
-                  <h2>VIES ESTUDIANTINES</h2>
-                </div>
-                <ul class="footer-menu">
-                  <li><a href="it_about.html"><i class="fa fa-angle-right"></i> Formations</a></li>
-                  <li><a href="it_term_condition.html"><i class="fa fa-angle-right"></i> Les ENSA</a></li>
-                  <li><a href="it_privacy_policy.html"><i class="fa fa-angle-right"></i> Orientation</a></li>
-                 
-                </ul>
-              </div>
-        
-
-        
-
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>BIBLIOTHEQUE</h2>
-            </div>
-            <ul class="footer-menu">
-              <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Articles</a></li>
-              <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Conventions</a></li>
-              <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Documents</a></li>
-           </ul>
-          </div>
-          <div class="col-md-3 ">
-            <div class="main-heading left_text">
-              <h2>CONTACT</h2>
-            </div>
-            <p>123 Second Street Fifth Avenue,<br>
-              Manhattan, New York<br>
-              <span style="font-size:18px;"><a href="tel:+9876543210">+987 654 3210</a></span></p>
-            
-          </div>
-          
-        
-      </div>
-
-      <div class="cprt">
-        <p >A.C.E.M © Copyrights 2021</p>
-      </div>
-
-
-    
-  </div>
-</footer>
 <!-- end footer -->
 <!-- js section -->
 <script src="js/jquery.min.js"></script>

@@ -70,6 +70,8 @@
 
 html,
 body {
+	margin: 0;
+	padding: 0;
 	background-color:#F2F3F4;
 	font-size: 15px;
 	font-family: 'Raleway', sans-serif;
@@ -108,6 +110,8 @@ body.demos .service-widget {
 body.demos .container-fluid {
 	max-width: 1080px
 }
+
+
 
 a {
 	color: #1f1f1f;
@@ -320,6 +324,12 @@ a.btn.white_btn {
 	height: 350px;
 }
 
+.img-resp{
+  width: 100%;
+  height: 100px;
+}
+
+
 .color_black p,
 .color_black ul,
 .color_black ul li {
@@ -366,6 +376,7 @@ h2 {
 	margin-top: 15px;
 }
 
+
 h3 {
 	font-size: 24px;
 	color: #006ba1;
@@ -396,8 +407,8 @@ h5 {
 
 p {
 	color: #707070;
-	font-size: 15px;
-	line-height: 21px;
+    font-size: 16px;
+    line-height: 28px;
 }
 
 p.large {
@@ -793,6 +804,7 @@ hr.dottad_border {
 
 .icon img {
 	width: 100px;
+	height: 100px;
 }
 
 
@@ -3220,13 +3232,13 @@ span.skill {
 	-------------------------------------------------------------------*/
 
 .testmonial_section {
-	background-image: url('../images/it_service/test_bg.png');
+	background-image: url('../images/it_service/ttt.jpg');
 	background-size: cover;
 	padding-bottom: 185px;
 }
 
 .cleaning .testmonial_section {
-	background-image: url('../images/cleaning_service/test_bg.png');
+	background-image: url('../images/cleaning_service/ttt.jpg');
 	background-size: cover;
 	padding-bottom: 185px;
 }
