@@ -2889,6 +2889,8 @@ span.skill {
 	width: 100%;
 }
 
+
+
 .blog_feature_cantant li {
 	font-weight: 500;
 	font-size: 14px;
@@ -3672,6 +3674,96 @@ footer ul.social_icons {
 
 .inner_banner_section {
 	background: url('../images/it_service/inner_page_banner.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.inner_banner_section_agadir {
+	background: url('../images/it_service/photo/agadir.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_faq {
+	background: url('../images/it_service/acemFaq.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.inner_banner_section_casa {
+	background: url('../images/it_service/photo/CASA.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.inner_banner_section_fes {
+	background: url('../images/it_service/photo/FES.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.inner_banner_section_jadida {
+	background: url('../images/it_service/photo/jadida.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.inner_banner_section_kenitra {
+	background: url('../images/it_service/photo/Kenitra.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.inner_banner_section_marrakech {
+	background: url('../images/it_service/photo/marrakech.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_meknes {
+	background: url('../images/it_service/photo/MEKNES.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_mohamedia {
+	background: url('../images/it_service/photo/mohammedia.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_oujda {
+	background: url('../images/it_service/photo/OUJDA.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_rabat {
+	background: url('../images/it_service/photo/RABAT.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_settat {
+	background: url('../images/it_service/photo/settat.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_tetouan {
+	background: url('../images/it_service/photo/tetouan.jpg');
+	min-height: 245px;
+	background-size: cover;
+	background-position: center center;
+}
+.inner_banner_section_tanger {
+	background: url('../images/it_service/photo/tanger.jpg');
 	min-height: 245px;
 	background-size: cover;
 	background-position: center center;

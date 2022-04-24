@@ -17,10 +17,10 @@
           <div class="float-left">
             <div class="social_icon">
               <ul class="list-inline">
-                <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook" target="_blank"></a></li>
+                <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook ACEM" target="_blank"></a></li>
                 
-                <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="ACEM FAQ" target="_blank"></a></li>
-                <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram" target="_blank"></a></li>
+                <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="Youtube ACEM" target="_blank"></a></li>
+                <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"></a></li>
               </ul>
             </div>
           </div>
@@ -44,7 +44,7 @@
           <!-- logo start -->
           <div class="logo"> <a href="index.php"><img src="images/fevicon/log_acem.png" alt="logo" /></a>
             
-           </div>
+          </div>
           
           <!-- logo end -->
         </div>
@@ -55,9 +55,9 @@
             <div id="navbar_menu">
               <ul class="first-ul">
                 
-                <li> <a class="active" href="index.php">Acceuil</a> </li>
-                  
-               
+                <li> <a href="index.php">Acceuil</a> </li>
+                <li> <a href="comite.php">C.Scientifique</a> </li>
+                
                 <li><a href="#">Section</a>
                   <ul>
                     <li><a href="Agadir.php">Agadir</a></li>
@@ -73,12 +73,12 @@
                     <li><a href="Settat.php">Settat</a></li>
                     <li><a href="Tanger_Tetouan.php">Tetouan </a></li>
                     <li><a href="#">Tanger </a></li>
-                   
+                    
                   </ul>
 
                 </li>
-               
-
+                
+                
                 <li> <a href="#">Vies estudiantines</a>
                   <ul>         
                     <li><a href="Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
@@ -88,27 +88,22 @@
                   </ul>
                 </li>
 
-                 <li> <a href="#">Annexe</a>
+                <li> <a href="#">Annexe</a>
                   <ul>
                     <li><a href="http://acem.tech/apropos" target="_blank">Acem Tech</a></li>
-                    <li> <a href="#">C.Scientifique</a> </li>
+                    <li> <a href="AcemfaQ.php">ACEM faQ</a> </li>
                   </ul>
                 </li>
 
-                 <li> <a href="#">Bibliothèque</a>
+                <li> <a href="#">Bibliothèque</a>
                   <ul>
                     <li><a href="article.php">Articles</a></li>
                     <li><a href="document.php">Documents</a></li>    
                   </ul>
                 </li>
-
-                
-
-                 
-                
               </ul>
             </div>
-           
+            
           </div>
           <!-- menu end -->
         </div>
