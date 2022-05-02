@@ -137,7 +137,7 @@
                 <div class="full team_blog_colum">
                   <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/4.jpg" alt="#"> </div>
                   <div class="team_feature_head">
-                    <h4>TRESORERIE GENERAL<br>Ghaniya Mohamadi  </h4>
+                    <h4>TRESORIERE GENERALE<br>Ghaniya Mohamadi  </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:ghaniyamohamadi3@gmail.com">Contacter</a></button>
                   </div>  
                 </div>
@@ -147,7 +147,7 @@
                 <div class="full team_blog_colum">
                   <div class="it_team_img"> <img class="img-responsive" src="photo/casablanca/5.jpeg" alt="#"> </div>
                   <div class="team_feature_head">
-                    <h4>CHARGE SPORTIF ET COMMUNICATION<br> AMIR DINE Chamir </h4>
+                    <h4>CHARGE SPORTIF ET COMMUNICATION<br> Amir Dine Chamir </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:chamiramirdine@gmail.com">Contacter</a></button>
                   </div>  
                 </div>
