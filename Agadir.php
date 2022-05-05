@@ -79,16 +79,92 @@
       <div class="section padding_layout_1">
         <div class="container">
 
-          <div class="row">
-            <div class="col-md-12">
-              <div class="full">
-                <div class="main_heading text_align_left">
-                  <h2>SECTION Agadir</h2>
-                  <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
+          
+
+          <div class="full margin_bottom_30">
+           <div class="accordion border_circle">
+             <div class="info_section">
+              <i class="fa fa-users" aria-hidden="true"> Membres</i> : ? <br>
+              <a class="fa fa-instagram" href="https://www.instagram.com/acem_agadir/?hl=fr" title="Instagram ACEM" target="_blank"> acem_agadir</a> <br>
+              <i class="fa fa-envelope-o"> acemagadir@gmail.com</i>
+            </div>
+            <div class="bs-example">
+              <div class="panel-group" id="accordion">
+               <div class="panel panel-default">
+                <div class="panel-heading">
+                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION D'AGADIR <i class="fa fa-angle-down"></i></a> </p>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse in show">
+                  <div class="panel-body">
+                    <p class="large"> L’Association des Comoriens Etudiants au Maroc (ACEM) fut créée le 31 décembre
+                      1981 à Casablanca, puis en suite une idée de décentralisation en section régionale
+                      a vu le jour telle est le cas de la ville d’Agadir. En 2018 fut ouverte la section
+                      régionale d’Agadir dont elle a connu comme premier secrétaire général, Mr AMRI
+                      SALIM HOUMADI ; et en suite 3 autres étudiants ont brigué ce poste dont :</p>
+
+                    
+                            <table class="table" style="margin-top:20px;">
+                              <thead>
+                                <tr>
+                                  <th scope="col"> N°</th>
+                                  <th scope="col">Noms et prénoms</th>
+                                  <th scope="col">Mandat</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <th scope="row">1</th>
+                                  <td>Amri Salim Houmadi</td>
+                                  <td>2017-2018</td>
+                                  
+                                </tr>
+                                <tr>
+                                  <th scope="row">2</th>
+                                  <td>Dhoubidane Said Boussry</td>
+                                  <td>2018-2019</td>
+                                 
+                                </tr>
+                                <tr>
+                                  <th scope="row">3</th>
+                                  <td>Amri Salim Houmadi</td>
+                                  <td>2019-2020</td>
+                                  
+                                </tr>
+                                <tr>
+                                  <th scope="row">4</th>
+                                  <td>Faissoil M’madi Ali</td>
+                                  <td>2020-2021</td>
+                                  
+                                </tr>
+                                <tr>
+                                  <th scope="row">5</th>
+                                  <td>Tadjiddine Mohamed</td>
+                                  <td>2021-2022</td>
+                                  
+                                </tr>
+                              </tbody>
+                            </table>
+
+
+                    <p class="large"> A part les journées d’intégration qui est toujours faite, Deux activités ont été organisé sous le mandat de Mr Dhoubidane Said Boussry et sous le second mandat de Mr Amri Salim Houmadi à savoir :
+
+                        <ul style="margin-left: 10px;">
+                        <li style="margin-top:10px;"><p><i class="fa fa-check-circle"></i> En 2018, la mini journée culturelle des comoriens d’Agadir.</p> </li>
+                        <li><p><i class="fa fa-check-circle"></i>En 2019, la mini journée culturelle des comoriens d’Agadir.</p></li>
+
+                        
+
+
+                      </ul> 
+
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
+        </div>
+      </div>
 
           <div class="row rowX">
             <!--- deuxieme ligne-->

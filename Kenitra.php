@@ -72,7 +72,7 @@
       </div>
       <!-- end inner page banner -->
 
-
+      
       <!--section 1 membre-->
       
       <div class="section padding_layout_1">
@@ -80,11 +80,16 @@
 
           <div class="full margin_bottom_30">
            <div class="accordion border_circle">
-             <div class="bs-example">
+             <div class="info_section">
+              <i class="fa fa-users" aria-hidden="true"> Membres</i> : 120 <br>
+              <a class="fa fa-instagram" href="https://www.instagram.com/acem_kenitra/?hl=fr" title="Instagram ACEM" target="_blank"> acem_kenitra</a> <br>
+              <i class="fa fa-envelope-o"> acemkenitra@gmail.com</i>
+            </div>
+            <div class="bs-example">
               <div class="panel-group" id="accordion">
                <div class="panel panel-default">
                 <div class="panel-heading">
-                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">SECTION KENITRA Membre 20 <i class="fa fa-angle-down"></i></a> </p>
+                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION DE KENITRA <i class="fa fa-angle-down"></i></a> </p>
                 </div>
                 <div id="collapseOne" class="panel-collapse collapse in show">
                   <div class="panel-body">

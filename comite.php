@@ -166,6 +166,20 @@
                     </div>
                   </div>
                 </div>
+
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOneDF">DOCUMENT CADRE DU COMITE SCIENTIFIQUE<i class="fa fa-angle-down"></i></a> </p>
+                  </div>
+                  <div id="collapseOneDF" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                      <p> <a href="Statut_CS.pdf"><span style="color:red;font-size:20px;font-style: italic;">Cliquez pour consulter le document cadre du comité scientifique</span></a>  
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+
               </div>
             </div>
           </div>

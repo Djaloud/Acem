@@ -74,22 +74,27 @@
 
       <!--section 1 membre-->
       
-      <div class="section padding_layout_1">
-        <div class="container">
+
+<div class="section padding_layout_1">
+<div class="container">
           
 
           <div class="full margin_bottom_30">
            <div class="accordion border_circle">
-             <div class="bs-example">
+             <div class="info_section">
+              <i class="fa fa-users" aria-hidden="true"> Membres</i> : ? <br>
+              <a class="fa fa-instagram" href="https://www.instagram.com/acemmeknes/?hl=fr" title="Instagram ACEM" target="_blank"> acemmeknes</a> <br>
+              <i class="fa fa-envelope-o"> acemmeknes2022@gmail.com</i>
+            </div>
+            <div class="bs-example">
               <div class="panel-group" id="accordion">
                <div class="panel panel-default">
                 <div class="panel-heading">
-                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> SECTION MEKNES <i class="fa fa-angle-down"></i></a> </p>
+                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION DE MEKNES <i class="fa fa-angle-down"></i></a> </p>
                 </div>
                 <div id="collapseOne" class="panel-collapse collapse in show">
                   <div class="panel-body">
-
-                    <p class="large">L’Association des Comoriens Etudiant au Maroc fut créée le 31 décembre 1981 à Casablanca, puis en suite une idée de décentralisation en section régionale a vu le jour telle est le cas de la ville de Meknès. Le 25 février 2005 fut ouverte la section régionale de Meknès dont elle a connu comme premier secrétaire général, Mr DINI IBRAHIM ALI, et en suite 18 autres étudiants ont brigué ce poste dont 6 coordinateurs de l’ACEM-mère.
+                      <p class="large">L’Association des Comoriens Etudiant au Maroc fut créée le 31 décembre 1981 à Casablanca, puis en suite une idée de décentralisation en section régionale a vu le jour telle est le cas de la ville de Meknès. Le 25 février 2005 fut ouverte la section régionale de Meknès dont elle a connu comme premier secrétaire général, Mr DINI IBRAHIM ALI, et en suite 18 autres étudiants ont brigué ce poste dont 6 coordinateurs de l’ACEM-mère.
                     </p>
                     <p class="large">La ville de Meknès est une des anciennes et grandes villes du pays comprenant le plus d’étudiants comoriens où plusieurs activités nationales ont été réalisées, à savoir :</br> 
                       <ul style="margin-left: 10px;">
@@ -107,14 +112,12 @@
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
-</div>
+
+
+
 
 <div class="row rowX">
   <!--- deuxieme ligne-->

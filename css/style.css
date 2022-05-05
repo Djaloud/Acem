@@ -1606,6 +1606,21 @@ body.light_blue #full_slider.full_slider_inner {
 .rowX{
 	padding-bottom:30px;
 }
+
+.info_section{
+	font-family: system-ui;
+	font-size: 18px;
+	color: #008080;
+	padding:10px;
+	border-color: #17a5e9;
+	border-left: 4px solid #005a87;
+}
+
+.info_section a{
+	color: #008080;
+}
+
+
 .presi{
 		width: 90%;
 		margin:auto;
@@ -3687,7 +3702,7 @@ footer ul.social_icons {
 }
 .inner_banner_section_faq {
 	background: url('../images/it_service/acemFaq.jpg');
-	min-height: 245px;
+	min-height: 280px;
 	background-size: cover;
 	background-position: center center;
 }

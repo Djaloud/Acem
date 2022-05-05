@@ -96,7 +96,7 @@
 
               <div class="col-md-4 col-sm-6">
                 <div class="full team_blog_colum">
-                  <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/1.jpeg" alt="#"> </div>
+                  <div class="it_team_img"> <img class="img-responsive" src="photo/mohammedia/1.jpeg" alt="#"> </div>
                   <div class="team_feature_head">
                     <h4>SECRETAIRE GENERAL<br>Aousse yahaya mohamed iliassa </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:aousseyahaya@gmail.com">Contacter</a></button>
@@ -106,7 +106,7 @@
 
               <div class="col-md-4 col-sm-6">
                 <div class="full team_blog_colum">
-                  <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/2.png" alt="#"> </div>
+                  <div class="it_team_img"> <img class="img-responsive" src="photo/mohammedia/2.png" alt="#"> </div>
                   <div class="team_feature_head">
                     <h4>CHARGE SOCIO-CULTUREL<br>Nafion Icham</h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:Nafionichamcsc@gmail.com">Contacter</a></button>
@@ -116,7 +116,7 @@
 
               <div class="col-md-4 col-sm-6">
                 <div class="full team_blog_colum">
-                  <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/3.jpeg" alt="#"> </div>
+                  <div class="it_team_img"> <img class="img-responsive" src="photo/mohammedia/3.jpeg" alt="#"> </div>
                   <div class="team_feature_head">
                     <h4>CONTROLEUR GENERAL<br>Moussa Ismail </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:moussaismail96@gmail.com">Contacter</a></button>
@@ -135,7 +135,7 @@
 
               <div class="col-md-4 col-sm-6">
                 <div class="full team_blog_colum">
-                  <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/4.jpg" alt="#"> </div>
+                  <div class="it_team_img"> <img class="img-responsive" src="photo/mohammedia/4.jpg" alt="#"> </div>
                   <div class="team_feature_head">
                     <h4>TRESORERIE GENERAL<br>Rayssa Mohamady souleh Ahmed </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:rayssasolof@gmail.com ">Contacter</a></button>
@@ -145,7 +145,7 @@
 
               <div class="col-md-4 col-sm-6">
                 <div class="full team_blog_colum">
-                  <div class="it_team_img"> <img class="img-responsive" src="photo/Mohammedia/5.jpg" alt="#"> </div>
+                  <div class="it_team_img"> <img class="img-responsive" src="photo/mohammedia/5.jpg" alt="#"> </div>
                   <div class="team_feature_head">
                     <h4>CHARGE SPORTIF ET COMMUNICATION<br>NASSOR SAID NASSOR </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:Nsaidnassor2@gmail.com">Contacter</a></button>

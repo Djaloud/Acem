@@ -54,14 +54,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="full">
-                <div class="title-holder">
-                  <div class="title-holder-cell text-left">
-                    <h1 class="page-title">ANNEXE</h1>
-                    <ol class="breadcrumb">
-                      <li><a href="AcemfaQ.php">ACEM faQ</a></li>
-                    </ol>
-                  </div>
-                </div>
+              
               </div>
             </div>
           </div>

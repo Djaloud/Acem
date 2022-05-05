@@ -46,7 +46,7 @@
     <![endif]-->
     </head>
     <body id="default_theme" class="it_service about">
-      <?php include("header.php"); ?>
+      <?php include("Header.php"); ?>
       <!-- inner page banner -->
       <div id="inner_banner" class="section inner_banner_section">
         <div class="container">
@@ -88,16 +88,8 @@
       <!--  section documents-->
       <div class="container">
         <div class="row" >
-          <div class="col-sm-4" style="margin-bottom: 20px;">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">Assurance</h5>
-                <p class="card-text">Ensemble des documents descriptifs de WafaAssurance.</p>
-                <a href="https://drive.google.com/drive/folders/1lAlRx3QblXqqbxTkOnzmFkxhCVQo0BPR?usp=sharing" class="btn btn-primary">Consulter</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-4" style="margin-bottom: 20px;">
+          
+          <div class="col-sm-6" style="margin-bottom: 20px;">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title">Acem</h5>
@@ -107,7 +99,7 @@
             </div>
           </div>
 
-          <div class="col-sm-4" style="margin-bottom: 20px;">
+          <div class="col-sm-6" style="margin-bottom: 20px;">
             <div class="card">
               <div class="card-body">
                 <h5 class="card-title">Comite Scientifique</h5>
