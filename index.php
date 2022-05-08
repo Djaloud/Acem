@@ -61,7 +61,21 @@
       <div class="section padding_layout_1">
         <div class="container">
          <div class="row ">
-          <div class="col-md-12 border-left">
+           <div class="col-md-4 ">
+             <div class="logo1"> 
+              <a href="index.php"><img src="photo/BE/1.jpg" alt="logo" /></a>
+            </div>
+            <div class="full" style="margin-top:10px;">
+              <h3 class="border-bottom">MOT DU PRESIDENT </h3>
+              <p>Chers étudiants, chers partenaires, chers collaborateurs, chers membres ;</p>
+              <p>C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relevé en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
+
+              <p>Nous comptons énormément sur les représentants actuels ainsi qu’au futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
+              </p>
+
+            </div>
+          </div>
+          <div class="col-md-8 border-left">
             <div class="full margin_bottom_30">
               <div class="accordion border_circle">
                 <div class="bs-example">
@@ -262,7 +276,7 @@
         <div class="full blog_colum">
           <div class="blog_feature_img"> <img src="images/it_service/post-02.jpg" alt="#" /> </div>
           <div class="post_time">
-            <p><i class="fa fa-clock-o"></i> Le 17 Novembre 20221</p>
+            <p><i class="fa fa-clock-o"></i> Le 17 Novembre 2021</p>
           </div>
           <div class="blog_feature_head">
             <h4>Journée internationale de l'Etudiant</h4>

@@ -84,7 +84,7 @@
           <div class="full margin_bottom_30">
            <div class="accordion border_circle">
              <div class="info_section">
-              <i class="fa fa-users" aria-hidden="true"> Membres</i> : ? <br>
+              <i class="fa fa-users" aria-hidden="true"> Membres</i> : 41 (4 Sidifni) <br>
               <a class="fa fa-instagram" href="https://www.instagram.com/acem_agadir/?hl=fr" title="Instagram ACEM" target="_blank"> acem_agadir</a> <br>
               <i class="fa fa-envelope-o"> acemagadir@gmail.com</i>
             </div>

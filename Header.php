@@ -83,7 +83,7 @@
                   <ul>         
                     <li><a href="Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
                     <li><a href="LesEnsa.php">ENSA</a></li>
-                    <li><a href="amci.php">Bourse AMCI</a></li>
+                    <li><a href="https://cesam-centrale.ma/amci/bourse-search#">Bourse AMCI</a></li>
                     <li><a href="assurence.php">Assurance AMCI</a></li>
                   </ul>
                 </li>
