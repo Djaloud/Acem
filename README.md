@@ -27,3 +27,7 @@
         ├── favico.ico(png)
         ├── .htaccess(optional)
         └── README.md
+        
+   
+
+**Licence**: Le projet est disponible en open source selon les termes de la [licence MIT](https://opensource.org/licenses/MIT).
