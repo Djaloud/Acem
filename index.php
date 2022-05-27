@@ -1,4 +1,4 @@
-<?php require_once 'bootstrap.php'; ?>
+<?php require 'bootstrap.php'; ?>
 <body id="default_theme" class="it_service">
       <!---<div class="bg_load"> <img class="loader_animation" src="images/fevicon/log_acem.png" /> </div>-->
 
@@ -379,4 +379,4 @@
           </div>
         </div>
       </div>
-<?php require_once APPROOT . '/includes/footer.php'; ?>
+<?php require 'includes/footer.php'; ?>
