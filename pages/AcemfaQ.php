@@ -1,11 +1,4 @@
-<?php 
-  require  '../bootstrap.php'; 
-?>
-    <body id="default_theme" class="it_service">
-      <!---<div class="bg_load"> <img class="loader_animation" src="images/fevicon/log_acem.png" /> </div>-->
-      <!-- header -->
-      <?php require APPROOT . "/includes/body_header.php";?>
-      <!-- end header -->
+<?php require  '../bootstrap.php'; ?>
       <div id="inner_banner" class="section inner_banner_section_faq">
         <div class="container">
           <div class="row">

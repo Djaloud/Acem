@@ -50,3 +50,9 @@
   TO DO LIST
     - adding open graph tags
 -->
+
+<body id="default_theme" class="it_service">
+      <!---<div class="bg_load"> <img class="loader_animation" src="images/fevicon/log_acem.png" /> </div>-->
+
+      <!-- header -->
+      <?php require APPROOT . "/includes/body_header.php";?>      <!-- end header -->
