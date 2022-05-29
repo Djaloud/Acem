@@ -10,7 +10,7 @@
                   <div class="title-holder-cell text-left">
                     <h1 class="page-title">SECTION</h1>
                     <ol class="breadcrumb">
-                      <li><a href="index.html">Acceuil</a></li>
+                      <li><a href="<?php echo URLROOT; ?>">Acceuil</a></li>
                       <li class="active">Casablanca</li>
                     </ol>
                   </div>
@@ -142,7 +142,7 @@
                   <div class="carousel-item active">
                     <div class="testimonial-container">
                       <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#fff; font-size:" target="_blank">Bourse d’études Allemagne 2021: programme de licence et de master à l’Université de Stuttgart.</a> </div>
-                      <div class="testimonial-photo"> <img src="images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                      <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                       <div class="testimonial-meta">
                         <h4>7 janvier 2021</h4>
                         <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#ffcccc;" target="_blank">En savoir plus.</a></span> </div>
@@ -152,7 +152,7 @@
                     <div class="carousel-item ">
                       <div class="testimonial-container">
                         <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color:#fff;" target="_blank">Bourse de Recherche Zurich 2021: Programme postdoctoral à l'Ecole polytechnique fédérale de Zurich.</a> </div>
-                        <div class="testimonial-photo"> <img src="images/it_service/bourse-suisse.png" class="img-responsive" alt="#" width="150" height="150"> </div>
+                        <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-suisse.png" class="img-responsive" alt="#" width="150" height="150"> </div>
                         <div class="testimonial-meta">
                           <h4>7 janvier 2021</h4>
                           <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color:#ffcccc;" target="_blank">En savoir plus.</a></span> </div>
