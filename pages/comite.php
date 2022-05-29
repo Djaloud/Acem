@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <!-- basic -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <!-- mobile metas -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
-  <!-- site metas -->
-  <title>Site officiel ACEM</title>
-  <meta name="keywords" content="">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <!-- site icons -->
-  <link rel="icon" href="images/fevicon/log_acem.png" type="image/gif" />
-  <!-- bootstrap css -->
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <!-- Site css -->
-  <link rel="stylesheet" href="css/style.css" />
-  <!-- responsive css -->
-  <link rel="stylesheet" href="css/responsive.css" />
-  <!-- colors css -->
-  <link rel="stylesheet" href="css/colors1.css" />
-  <!-- custom css -->
-  <link rel="stylesheet" href="css/custom.css" />
-  <!-- wow Animation css -->
-  <link rel="stylesheet" href="css/animate.css" />
-
-
-  <!-- revolution slider css -->
-  <link rel="stylesheet" type="text/css" href="revolution/css/settings.css" />
-  <link rel="stylesheet" type="text/css" href="revolution/css/layers.css" />
-  <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css" />
-
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    </head>
-    <body id="default_theme" class="it_service">
-      <!---<div class="bg_load"> <img class="loader_animation" src="images/fevicon/log_acem.png" /> </div>-->
-
-      <!-- header -->
-      <?php include('Header.php');  ?>
-      <!-- end header -->
+<?php require '../bootstrap.php'; ?>
       <!-- inner page banner -->
       <div id="inner_banner" class="section inner_banner_section">
         <div class="container">
@@ -58,7 +9,7 @@
                   <div class="title-holder-cell text-left">
                     <h1 class="page-title">COMMITE SCIENTIFIQUE</h1>
                     <ol class="breadcrumb">
-                      <li><a href="comite.php">Comité Scientifique (CS)</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/comite.php">Comité Scientifique (CS)</a></li>
 
                     </ol>
                   </div>
@@ -204,7 +155,7 @@
         <div class="row">
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/1.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/1.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>Toihere Dachiroudine </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:toiherdachiroudine@gmail.com">Contacter</a></button>
@@ -214,7 +165,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/3.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/3.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>HICHEM ABOUBACAR</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:aboubacarhichem@gmail.com">Contacter</a></button>
@@ -224,7 +175,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/6.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/6.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>MAHAMOUD Abdallah </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:amc1997mbeni@gmail.com">Contacter</a></button>
@@ -234,7 +185,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/7.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/7.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Ambassadeur<br>Moussa Nafly Affandi I.</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:naims269@gmail.com">Contacter</a></button>
@@ -246,7 +197,7 @@
         <div class="row" style="margin-top:40px;">
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/2.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/2.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Coordinateur par interim <br>Mohamed issihaka </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:Issihaka96@gmail.com ">Contacter</a></button>
@@ -256,7 +207,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/8.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/8.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>Heikal Afraitane</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:heikalafraitane@gmail.com">Contacter</a></button>
@@ -266,7 +217,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/9.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/9.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>Housseni Houmrak</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:houmrak@gmail.com">Contacter</a></button>
@@ -276,7 +227,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/10.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/10.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>ALIHAMIDI Imam </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:imam.alihamidi@uit.ac.ma">Contacter</a></button>
@@ -289,7 +240,7 @@
         <div class="row" style="margin-top:40px;">
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/4.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/4.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>Sidi Ahmed Djawad </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:djaoidahmedsidi@gmail.com">Contacter</a></button>
@@ -299,7 +250,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/5.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/5.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>Mounir Mohamed</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:Mouniiryss09@gmail.com">Contacter</a></button>
@@ -309,7 +260,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/15.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/15.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>YOUSSOUF Ismael</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:Mouniiryss09@gmail.com">Contacter</a></button>
@@ -319,7 +270,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/11.jpeg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/11.jpeg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>AHZER BIANRIF TARMIDI</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:abianrifa@hotmail.fr">Contacter</a></button>
@@ -332,7 +283,7 @@
         <div class="row" style="margin-top:40px;">
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/12.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/12.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Membre actif<br>SAANYANE MOUSSA OMAR  </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:saanta2020@hotmail.com">Contacter</a></button>
@@ -342,7 +293,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/13.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/13.jpg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Ambassadeur <br>Djohar Irna</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:irnadjo@gmail.com">Contacter</a></button>
@@ -352,7 +303,7 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="photo/cs/14.jpeg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/14.jpeg" alt="#"> </div>
               <div class="team_feature_head">
                 <h4>Ambassadeur <br>Amri Salim Houmadi </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:salimamri95@gmail.com">Contacter</a></button>
@@ -368,22 +319,4 @@
 </div>
 <!-- end section -->
 
-
-
-<!-- End Model search bar -->
-<!-- footer -->
-<?php include("footer.php") ?>
-
-<!-- js section -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<!-- menu js -->
-<script src="js/menumaker.js"></script>
-<!-- wow animation -->
-<script src="js/wow.js"></script>
-<!-- custom js -->
-<script src="js/custom.js"></script>
-
-
-</body>
-</html>
+<?php require APPROOT . '/includes/footer.php'; ?>
