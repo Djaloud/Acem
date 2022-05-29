@@ -3,7 +3,7 @@
 
 La branche "original" contient les fichiers avant la restructuration du dossier et la l'amélioration de certaines fonctionalités.
  
- Structure du dossier
+ Arborescence du site
  
     ├── acem
         ├── assets/
