@@ -1,0 +1,8 @@
+# Hiding '.php' from url
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Hiding '.html' from url
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
