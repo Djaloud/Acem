@@ -97,7 +97,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
           <!-- logo start -->
-          <div class="logo"> <a href="index.php"><img src="<?php echo URLROOT; ?>/assets/images/acem-logo.png" alt="logo" /></a>
+          <div class="logo"> <a href="<?php echo URLROOT; ?>"><img src="<?php echo URLROOT; ?>/assets/images/acem-logo.png" alt="logo" /></a>
             
           </div>
           
@@ -110,22 +110,22 @@
               <ul class="first-ul">
                 
                 <li> <a href="<?php echo URLROOT; ?>">Acceuil</a> </li>
-                <li> <a href="<?php echo URLROOT; ?>/pages/comite.php">C.Scientifique</a> </li>
+                <li> <a href="<?php echo URLROOT; ?>/pages/comite">C.Scientifique</a> </li>
                 
                 <li><a href="#">Section</a>
                   <ul>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir.php">Agadir</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca.php">Casablanca </a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Eljadida.php">El jadida</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Fes.php">FES</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Kenitra.php">Kenitra </a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Marrakech.php">Marrakech</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Meknes.php">Meknes</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Mohamedia.php">Mohamedia </a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Oujda.php">Oujda </a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Rabat_sale.php">Rabat-Salé</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Settat.php">Settat</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Tanger_Tetouan.php">Tanger/Tetouan </a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir">Agadir</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca">Casablanca </a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Eljadida">El jadida</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Fes">FES</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Kenitra">Kenitra </a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Marrakech">Marrakech</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Meknes">Meknes</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Mohamedia">Mohamedia </a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Oujda">Oujda </a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Rabat_sale">Rabat-Salé</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Settat">Settat</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Tanger_Tetouan">Tanger/Tetouan </a></li>
                    
                     
                   </ul>
@@ -135,21 +135,21 @@
                 <li> <a href="#">Vies estudiantines</a>
                   <ul>         
                     <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa.php">ENSA</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa">ENSA</a></li>
                     <li><a href="https://cesam-centrale.ma/amci/bourse-search#">Bourse AMCI</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/assurance.php">Assurance AMCI</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
                   </ul>
                 </li>
                 <li> <a href="#">Annexe</a>
                   <ul>
                     <li><a href="http://acem.tech/apropos" target="_blank">Acem Tech</a></li>
-                    <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ.php">ACEM faQ</a> </li>
+                    <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM faQ</a> </li>
                   </ul>
                 </li>
                 <li> <a href="#">Bibliothèque</a>
                   <ul>
-                    <li><a href="<?php echo URLROOT; ?>/pages/article.php">Articles</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/documents.php">Documents</a></li>    
+                    <li><a href="<?php echo URLROOT; ?>/pages/article">Articles</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/documents">Documents</a></li>    
                   </ul>
                 </li>
               </ul>

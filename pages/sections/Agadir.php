@@ -10,7 +10,7 @@
                   <div class="title-holder-cell text-left">
                     <h1 class="page-title">SECTION</h1>
                     <ol class="breadcrumb">
-                      <li><a href="<?php echo URLROOT; ?>/index.php">Acceuil</a></li>
+                      <li><a href="<?php echo URLROOT; ?>">Acceuil</a></li>
                       <li class="active">Agadir</li>
                     </ol>
                   </div>
