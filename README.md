@@ -1,7 +1,7 @@
  
 ## Code du site officel de l'ACEM Maroc
 
-La branche "original" contient les fichiers avant la restructuration et la correction.
+La branche "original" contient les fichiers avant la restructuration du dossier et la l'amélioration de certaines fonctionalités.
  
  Structure du dossier
  
@@ -12,12 +12,18 @@ La branche "original" contient les fichiers avant la restructuration et la corre
         │   └── fonts/
         |   └── images/
         |
+        ├── config/
+        │   └── config.php
+        |   └── librairies/
+        |           └── PHPMailer/
+        |
         ├── includes/
         │   ├── helpers/
         |   |   └── general_helpers.php
         │   └── header.php
         │   └── footer.php
-        │   └── body_header.php
+        │   └── sectionImage.php
+        |   └── actualite_section.php
         |
         ├── pages/
         │   ├── page1.php
@@ -26,8 +32,9 @@ La branche "original" contient les fichiers avant la restructuration et la corre
         │   └── ...
         |
         ├── index.php
-        ├── favico.ico(png)
-        ├── .htaccess(optional)
+        ├── favico.ico
+        ├── bootstrap.php
+        ├── .htaccess
         └── README.md
         
    
