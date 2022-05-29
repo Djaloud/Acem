@@ -1,56 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <!-- basic -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <!-- mobile metas -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
-  <!-- site metas -->
-  <title>Site officiel ACEM</title>
-  <meta name="keywords" content="">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <!-- site icons -->
-  <link rel="icon" href="images/fevicon/log_acem.png" type="image/gif" />
-  <!-- bootstrap css -->
-  <link rel="stylesheet" href="css/bootstrap.min.css" />
-  <!-- Site css -->
-  <link rel="stylesheet" href="css/style.css" />
-  <!-- responsive css -->
-  <link rel="stylesheet" href="css/responsive.css" />
-  <!-- colors css -->
-  <link rel="stylesheet" href="css/colors1.css" />
-  <!-- custom css -->
-  <link rel="stylesheet" href="css/custom.css" />
-  <!-- wow Animation css -->
-  <link rel="stylesheet" href="css/animate.css" />
-
-
-  <!-- revolution slider css -->
-  <link rel="stylesheet" type="text/css" href="revolution/css/settings.css" />
-  <link rel="stylesheet" type="text/css" href="revolution/css/layers.css" />
-  <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css" />
-
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    </head>
-    <body id="default_theme" class="it_service">
-      <!---<div class="bg_load"> <img class="loader_animation" src="images/fevicon/log_acem.png" /> </div>-->
-      <!-- header -->
-      <?php include("Header.php");?>
-      <!-- end header -->
-
-
+<?php require '../bootstrap.php'; ?>
 
       <!-- section -->
       <div class="section padding_layout_1">
@@ -339,44 +287,11 @@
 
     <div class="row" style="margin-bottom: 35px;background-color:#007bff;">
       <div class="col-md-12 cprt1">
-       <p><a href="STATUTS-DE-L-ACEM-2.pdf" target="_blank"><b>Telecharger l'article &nbsp;<b> <i class="fa fa-download"></i></a></p>
+       <p><a href="<?php echo URLROOT; ?>/docs/pdfs/STATUTS-DE-L-ACEM-2.pdf" target="_blank"><b>Telecharger l'article &nbsp;<b> <i class="fa fa-download"></i></a></p>
        </div>
      </div>
 
      
    </div>
 
- </div>
- <!-- end section -->
-
- <?php include("footer.php") ?>
-
- <!-- end footer -->
- <!-- js section -->
- <script src="js/jquery.min.js"></script>
- <script src="js/bootstrap.min.js"></script>
- <!-- menu js -->
- <script src="js/menumaker.js"></script>
- <!-- wow animation -->
- <script src="js/wow.js"></script>
- <!-- custom js -->
- <script src="js/custom.js"></script>
- <!-- revolution js files -->
- <script src="revolution/js/jquery.themepunch.tools.min.js"></script>
- <script src="revolution/js/jquery.themepunch.revolution.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
- <script src="revolution/js/extensions/revolution.extension.video.min.js"></script>
- <!-- map js -->
-
- <!-- google map js -->
-
- <!-- end google map js -->
-</body>
-</html>
+ <?php require APPROOT . '/includes/footer.php'; ?>
