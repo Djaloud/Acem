@@ -162,7 +162,7 @@
                       <div class="carousel-item ">
                         <div class="testimonial-container">
                           <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color:#fff;" target="_blank">Bourse d’études Belgique 2021: Masters et formations à la Fédération Wallonie-Bruxelles.</a> </div>
-                          <div class="testimonial-photo"> <img src="images/it_service/bourse-belgique.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                          <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-belgique.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                           <div class="testimonial-meta">
                             <h4>7 janvier 2021</h4>
                             <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #ffcccc;"target="_blank">En savoir plus.</a></span> </div>
