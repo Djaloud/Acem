@@ -11,7 +11,7 @@
 
 // APP ROOT
 define('APPROOT', dirname(dirname(__FILE__)));
-define ('SITE_ROOT', dirname(dirname(dirname(__FILE__))));
+define ('SITE_ROOT', dirname(__FILE__));
 
 
 // URL ROOT
