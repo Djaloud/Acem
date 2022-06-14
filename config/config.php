@@ -15,7 +15,7 @@ define ('SITE_ROOT', dirname(__FILE__));
 
 
 // URL ROOT
-define('URLROOT', 'http://localhost/acem');
+define('URLROOT', 'http://acem-officiel.com');
 
 // SITENAME
 define('SITENAME', 'ACEM MAROC');
