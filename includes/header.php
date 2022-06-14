@@ -135,7 +135,7 @@
                 <li> <a href="#">Vies estudiantines</a>
                   <ul>         
                     <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
-                    <li><a href="<?php echo URLROOT; target="_blank" ?>/pages/LesEnsa">ENSA</a></li>
+                    <li><a href="<?php echo URLROOT;?>/pages/LesEnsa" target="_blank">ENSA</a></li>
                     <li><a href="https://cesam-centrale.ma/amci/bourse-search#">Bourse AMCI</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
                   </ul>
