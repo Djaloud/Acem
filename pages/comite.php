@@ -146,7 +146,7 @@
           <div class="col-md-12">
             <div class="full">
               <div class="main_heading text_align_left">
-                <h2>MEMBRE DE LA COMMITE SCIENTIFIQUE</h2>
+                <h2>MEMBRE DU COMMITE SCIENTIFIQUE</h2>
               </div>
             </div>
           </div>

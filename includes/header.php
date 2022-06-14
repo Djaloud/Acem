@@ -112,7 +112,7 @@
                 <li> <a href="<?php echo URLROOT; ?>">Acceuil</a> </li>
                 <li> <a href="<?php echo URLROOT; ?>/pages/comite">C.Scientifique</a> </li>
                 
-                <li><a href="#">Section</a>
+                <li><a href="#">Sections</a>
                   <ul>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir">Agadir</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca">Casablanca </a></li>
@@ -135,7 +135,7 @@
                 <li> <a href="#">Vies estudiantines</a>
                   <ul>         
                     <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa">ENSA</a></li>
+                    <li><a href="<?php echo URLROOT; target="_blank" ?>/pages/LesEnsa">ENSA</a></li>
                     <li><a href="https://cesam-centrale.ma/amci/bourse-search#">Bourse AMCI</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
                   </ul>

@@ -16,7 +16,7 @@
               <p>Chers étudiants, chers partenaires, chers collaborateurs, chers membres ;</p>
               <p>C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relevé en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
 
-              <p>Nous comptons énormément sur les représentants actuels ainsi qu’au futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
+              <p>Nous comptons énormément sur les représentants actuels ainsi qu’aux futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
               </p>
 
             </div>
@@ -56,7 +56,7 @@
                          <li><p><i class="fa fa-check-circle"></i> Comité Elargi : constitué du Président, du VP, du Coordinateur ainsi qu’aux SG des différentes S.R. </li></p>
 
                          <li><p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice Président (V.P) et du Commissaire aux comptes (C.C).</li></p>
-                         <li><p><i class="fa fa-check-circle"></i>Section Régionale : dirigé et représenté par le Bureau de la S.R.</li></p>
+                         <li><p><i class="fa fa-check-circle"></i>Section Régionale : dirigée et représentée par le Bureau de la S.R.</li></p>
 
                        </ul>
                        Les organes non-exécutifs : 
