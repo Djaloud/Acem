@@ -23,6 +23,7 @@
   <link rel="icon" href="favicon.ico" type="image/gif" />
   <!-- bootstrap css -->
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/bootstrap.min.css" />
+
   <!-- Site css -->
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/style.css" />
   <!-- responsive css -->
@@ -33,6 +34,7 @@
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/custom.css" />
   <!-- wow Animation css -->
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/animate.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/main.css" />
 
 
   <!-- revolution slider css -->
@@ -136,7 +138,7 @@
                   <ul>         
                     <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
                     <li><a href="<?php echo URLROOT;?>/pages/LesEnsa" target="_blank">ENSA</a></li>
-                    <li><a href="https://cesam-centrale.ma/amci/bourse-search#">Bourse AMCI</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/amci.php">Bourse AMCI</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
                   </ul>
                 </li>

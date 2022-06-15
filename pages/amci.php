@@ -1,4 +1,8 @@
-<?php require APPROOT . '/bootstrap.php'; ?>
+<?php 
+require 'connectDB.php';
+require '../bootstrap.php'; 
+?>
+
 <!-- section -->
      <div class="section padding_layout_1 " style="border-top: 2mm solid #ededed;">
       <div class="container">   
@@ -41,7 +45,7 @@
               if(isset($_POST["btn"])){                         
                try {
                 $con=Connect();
-                $stmt=$con->prepare("SELECT * FROM etudiant_code  where  matricule_amci='".$_POST["search"]."'") ;
+                $stmt=$con->prepare("SELECT * FROM etudiant_matricule_amci  where  matricule_amci='".$_POST["search"]."'") ;
                 $stmt->execute();
                 $ligne=$stmt->fetch();
               }catch(PDOException $e)
@@ -54,7 +58,7 @@
               echo '<tr class="bg-success"> <th>Nom et Prenom</th><th>Code</th></tr>';
               echo "<tr>";
               echo "<td>".$ligne["nom_prenom"]."</td>";
-              echo "<td>".$ligne["code_amci"]."</td>"; 
+              echo "<td>".$ligne["cd1"]." | ".$ligne["cd2"]."</td>";  
               echo "</tr>";
               echo "<tr>";
               echo "<td>Suivez-nous sur les réseaux sociaux et abonnez-vous à nos pages.</td>";
