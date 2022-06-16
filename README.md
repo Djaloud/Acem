@@ -1,7 +1,8 @@
- 
 ## Code du site officel de l'ACEM Maroc
+
+La branche "original" contient les fichiers avant la restructuration du dossier et la l'amélioration de certaines fonctionalités.
  
- Structure du dossier
+ Arborescence du site
  
     ├── acem
         ├── assets/
@@ -10,12 +11,18 @@
         │   └── fonts/
         |   └── images/
         |
+        ├── config/
+        │   └── config.php
+        |   └── librairies/
+        |           └── PHPMailer/
+        |
         ├── includes/
         │   ├── helpers/
         |   |   └── general_helpers.php
         │   └── header.php
         │   └── footer.php
-        │   └── body_header.php
+        │   └── sectionImage.php
+        |   └── actualite_section.php
         |
         ├── pages/
         │   ├── page1.php
@@ -24,6 +31,11 @@
         │   └── ...
         |
         ├── index.php
-        ├── favico.ico(png)
-        ├── .htaccess(optional)
+        ├── favico.ico
+        ├── bootstrap.php
+        ├── .htaccess
         └── README.md
+        
+   
+
+**Licence**: Le projet est disponible en open source selon les termes de la [licence MIT](https://opensource.org/licenses/MIT).

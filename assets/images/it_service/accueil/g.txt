@@ -1,0 +1,26 @@
+
+                 <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> OBJECTIFS ET MISSIONS  <i class="fa fa-angle-down"></i></a> </p>
+                  </div>
+
+                  <div id="collapseOne" class="panel-collapse collapse in">
+                    <div class="panel-body">
+
+                     <p class="large">Le Comité Scientifique est chargé, notamment : </p> 
+                      <ul style="margin-left: 10px;">
+
+                        <li style="margin-top:10px;"><p><i class="fa fa-check-circle"></i> - d’établir et soumettre au Bureau Exécutif (BE) un programme annuel ; </p> </li>
+                        <li><p><i class="fa fa-check-circle"></i> De prendre des initiatives pour encourager l’excellence scientifique ;   </p> </li>
+
+                        <li><p><i class="fa fa-check-circle"></i> D’accompagner l’étudiant comorien dans la réussite académique ;  </p> </li>
+
+                        <li><p><i class="fa fa-check-circle"></i> D’encourager la réflexion, le débat et les échanges constructifs ;   </p> </li>
+                        <li><p><i class="fa fa-check-circle"></i> De proposer et diversifier les activités à caractère scientifique ;  </p> </li>
+                        <li><p><i class="fa fa-check-circle"></i> D’organiser ou de coordonner les activités à caractère scientifique ;</p> </li>
+                        <li><p><i class="fa fa-check-circle"></i> De dresser un rapport au Bureau Exécutif après chaque activité ;   </p> </li>
+                        <li><p><i class="fa fa-check-circle"></i>  d’établir un bilan annuel à la fin de chaque année académique.  </p> </li>
+                      </ul>
+                      </div>
+                    </div>
+                  </div>
