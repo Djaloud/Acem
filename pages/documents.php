@@ -26,7 +26,7 @@
           <h5 class="card-title">Acem</h5>
           <p class="card-text">L'ensemble des documents liés à l'ACEM (Presentation et article de l'ACEM).</p>
           <!-- <a href="https://drive.google.com/drive/folders/1GTpR33u5S1gWhqyWm4wYPJu2Sh3Oh08C?usp=sharing" class="btn btn-primary">Consulter</a> -->
-          <a href="<?php echo URLROOT; ?>/assets/docs/pdfs/STATUTS-DE-L-ACEM-2.pdf" target="_blank" class="btn btn-primary">Consulter</a>
+          <a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Statut_ACEM.pdf" target="_blank" class="btn btn-primary">Consulter</a>
         </div>
       </div>
     </div>
