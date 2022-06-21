@@ -143,8 +143,8 @@
                   </li>
                   <li> <a href="#">Annexe</a>
                     <ul>
-                      <li><a href="http://www.acemtech.org/apropos" target="_blank">Acem Tech</a></li>
-                      <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM faQ</a> </li>
+                      <li><a href="http://www.acemtech.org/apropos" target="_blank">ACEM Tech</a></li>
+                      <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM FaQ</a> </li>
                     </ul>
                   </li>
                   <li> <a href="#">Bibliothèque</a>
