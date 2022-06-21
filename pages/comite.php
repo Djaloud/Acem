@@ -295,7 +295,7 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/13.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Ambassadeur <br>Djohar Irna</h4>
+                <h4>Ambassadrice <br>Djohar Irna</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:irnadjo@gmail.com">Contacter</a></button>
               </div>  
             </div>

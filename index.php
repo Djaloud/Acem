@@ -14,7 +14,7 @@
         <div class="full" style="margin-top:10px;">
           <h3 class="border-bottom">MOT DU PRESIDENT </h3>
           <p>Chers étudiants, chers partenaires, chers collaborateurs, chers membres ;</p>
-          <p>C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relevé en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
+          <p>C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relever en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
 
           <p>Nous comptons énormément sur les représentants actuels ainsi qu’aux futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
           </p>
@@ -47,7 +47,7 @@
                             <p><i class="fa fa-check-circle"></i> Le Chargé des affaires socioculturelles et estudiantines</p>
                           </li>
                           <li>
-                            <p><i class="fa fa-check-circle"></i> Le Chargé sportifs et de la communication </p>
+                            <p><i class="fa fa-check-circle"></i> Le Chargé sportif et de la communication </p>
                           </li>
                           <li>
                             </p>
@@ -61,7 +61,7 @@
                         </ul>
                       </div>
 
-                      <p>Et enfin, l’ACEM est constitué par deux organes principaux : </p>
+                      <p>Et enfin, l’ACEM est constituée par deux organes principaux : </p>
                       Les organes exécutifs :
                       <ul>
                         <li>
@@ -86,7 +86,7 @@
                       Les organes non-exécutifs :
                       <ul>
                         <li>
-                          <p><i class="fa fa-check-circle"></i> Le Comité Scientifique (C.S) : composé de 15 membres, le C.S est chargé de proposer, planifier et organiser toutes les activités à caractères scientifique. Il assure le rôle d’information, d’orientation et de conseil à tous organes, commission ou membres de l’ACEM.
+                          <p><i class="fa fa-check-circle"></i> Le Comité Scientifique (C.S) : composé de 15 membres, le C.S est chargé de proposer, planifier et organiser toutes les activités à caractères scientifique. Il assure le rôle d’information, d’orientation et de conseil à tous organes, commissions ou membres de l’ACEM.
                         </li>
                         </p>
 
@@ -140,8 +140,7 @@
             <div class="icon"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/sol.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">SOLIDARITE</h4>
-          <p>Considérant le nombre croissant des comoriens étudiant et le manque d’une mission
-            diplomatique permanente comorienne au Maroc</p>
+          <p>Considérant le nombre croissant des comoriens étudiant</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
@@ -312,10 +311,12 @@
         <div class="full">
           <ul class="brand_list">
             <li><a href="https://www.amci.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/AMCI.png" alt="#" /></a></li>
-            <li><a href="https://www.attijariwafabank.com/fr"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Attijari.png" alt="#" /></a></li>
+            
             <li><a href="https://cesam-centrale.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/CESAM.jpg" alt="#" /></a></li>
             <li><a href="https://incodev.org/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/INCODEV.png" alt="#" /></a></li>
-            <li><a href="https://inwi.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Inwi.png" alt="#" /></a></li>
+           
+            <li><a href="https://beit-salam.km/symboles-de-letat/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SC.png" alt="#" /></a></li>
+             <li><a href="https://supmti.ac.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SUP-MTI.png" alt="#" /></a></li>
           </ul>
         </div>
       </div>
@@ -325,11 +326,8 @@
       <div class="col-md-12">
         <div class="full">
           <ul class="brand_list">
-            <li><a href="https://www.iam.ma/index.aspx"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/mt.png" alt="#" /></a></li>
-            <li><a href="https://www.oncf-voyages.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/ONCF.png" alt="#" /></a></li>
-            <li><a href="https://www.royalairmaroc.com/fr-fr"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Rair.png" alt="#" /></a></li>
-            <li><a href="https://beit-salam.km/symboles-de-letat/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SC.png" alt="#" /></a></li>
-            <li><a href="https://supmti.ac.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SUP-MTI.png" alt="#" /></a></li>
+            
+          
             <li><a href="https://www.wafaassurance.ma/fr"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Wfs.png" alt="#" /></a></li>
           </ul>
         </div>
