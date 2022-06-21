@@ -19,7 +19,7 @@
           <p>Nous comptons énormément sur les représentants actuels ainsi qu’aux futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
           </p>
 
-<<<<<<< HEAD
+
             </div>
           </div>
           <div class="col-md-8 border-left">
@@ -36,24 +36,6 @@
                           <p >
                             L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
                           </br>
-=======
-        </div>
-      </div>
-      <div class="col-md-8 border-left">
-        <div class="full margin_bottom_30">
-          <div class="accordion border_circle">
-            <div class="bs-example">
-              <div class="panel-group" id="accordion">
-                <div class="panel panel-default">
-                  <div class="panel-heading">
-                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
-                  </div>
-                  <div id="collapseOne" class="panel-collapse collapse in show">
-                    <div class="panel-body">
-                      <p>
-                        L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
-                        </br>
->>>>>>> 162f6b9a9c39ec9748e4dfe32edd455514843bb1
                         Ainsi, chaque ville universitaire, où résident des Comoriens, constitue une Section Régionale (S.R) de l’ACEM. Lorsque les membres de cette dernière atteignent un nombre supérieur à 20, ils élisent un Bureau de la S.R, qui sera constitué de 5 membres : </p>
 
                       <div>

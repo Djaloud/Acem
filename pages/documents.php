@@ -23,9 +23,8 @@
     <div class="col-sm-6" style="margin-bottom: 20px;">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">Acem</h5>
-          <p class="card-text">L'ensemble des documents liés à l'ACEM (Presentation et article de l'ACEM).</p>
-          <!-- <a href="https://drive.google.com/drive/folders/1GTpR33u5S1gWhqyWm4wYPJu2Sh3Oh08C?usp=sharing" class="btn btn-primary">Consulter</a> -->
+          <h5 class="card-title">ACEM</h5>
+          <p class="card-text">Le Statut de l'ACEM (Présentation et articles).</p>
           <a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Statut_ACEM.pdf" target="_blank" class="btn btn-primary">Consulter</a>
         </div>
       </div>
@@ -34,9 +33,8 @@
     <div class="col-sm-6" style="margin-bottom: 20px;">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">Comite Scientifique</h5>
-          <p class="card-text">Objectifs , Missions , domaine d'actions , qualité de membre du comité scientifique.</p>
-          <!-- <a href="https://drive.google.com/drive/folders/1qWeDICWgzX6Tt-F6v8PTfryxsaRnJVB5?usp=sharing" class="btn btn-primary">Consulter</a> -->
+          <h5 class="card-title">Comité Scientifique Central</h5>
+          <p class="card-text">Document cadre du CSC (Objectifs, Missions, domaine d'actions, ...).</p>
           <a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Statut_CS.pdf" target="_blank" class="btn btn-primary">Consulter</a>
         </div>
       </div>
