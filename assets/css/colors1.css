@@ -31,7 +31,7 @@ a.btn.dark_gray_bt:focus,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover,
 .icon_feature {
-	background: #005a87;
+	background: #098409;
     background-size: 100% 100%;
     border: none;
 }
@@ -67,7 +67,7 @@ footer ul.social_icons li a:focus,
 footer h2::after,
 .footer_mail-section .field button.button_custom,
 .cprt,.contact_us_section {
-	background: #005a87;
+	background: #098409;
 }
 
 .tp-caption.tp-shape.tp-shapewrapper.tp-resizeme.rs-parallaxlevel-0 {

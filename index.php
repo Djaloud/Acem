@@ -28,7 +28,7 @@
                   <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                       <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
+                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href=""><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
                       </div>
                       <div id="collapseOne" class="panel-collapse collapse in show">
                         <div class="panel-body" >

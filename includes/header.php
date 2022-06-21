@@ -119,11 +119,11 @@
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir">Agadir</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca">Casablanca </a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Eljadida">El jadida</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Fes">FES</a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Fes">Fes</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Kenitra">Kenitra </a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Marrakech">Marrakech</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Meknes">Meknes</a></li>
-                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Mohamedia">Mohamedia </a></li>
+                    <li><a href="<?php echo URLROOT; ?>/pages/sections/Mohamedia">Mohammedia </a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Oujda">Oujda </a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Rabat_sale">Rabat-Salé</a></li>
                     <li><a href="<?php echo URLROOT; ?>/pages/sections/Settat">Settat</a></li>

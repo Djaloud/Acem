@@ -40,7 +40,7 @@
           <div class="main-heading left_text">
             <h2>CONTACT</h2>
           </div>
-            <p><i class="fa fa-map-marker" aria-hidden="true"> Rabat -Maroc </i> <br>
+            <p><i class="fa fa-map-marker" aria-hidden="true"> Avenue Des FAR - Hay Riad - Rabat Maroc</i> <br>
             <i class="fa fa-envelope-o"> acemaroc@gmail.com</i><br>
             <span style="font-size:18px;"><a href="+212 632 75 99 77"><i class="fa fa-phone"> +212 632 75 99 77</i> </a></span></p>
             

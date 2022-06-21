@@ -45,7 +45,7 @@
                 </div>
                 <div id="collapseOne" class="panel-collapse collapse in show">
                   <div class="panel-body">
-                    <p class="large"> L’Association des Comoriens Etudiants au Maroc (ACEM) fut créée le 31 décembre
+                    <p class="large"> L’Association des Comoriens Etudiant au Maroc (ACEM) fut créée le 31 décembre
                       1981 à Casablanca, puis en suite une idée de décentralisation en section régionale
                       a vu le jour telle est le cas de la ville d’Agadir. En 2018 fut ouverte la section
                       régionale d’Agadir dont elle a connu comme premier secrétaire général, Mr AMRI

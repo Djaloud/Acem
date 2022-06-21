@@ -22,7 +22,7 @@ require '../bootstrap.php';
                 <form method="post">
                   <div class="inner-form"> 
                     <div class="input-field second-wrap">
-                      <input name="search" type="text" placeholder="tester avec: 20170961 " required />
+                      <input name="search" type="text" placeholder="Saisissez votre matricule " required />
                     </div>
                     <div class="input-field third-wrap">
                       <button class="btn-search" type="submit" name="btn">

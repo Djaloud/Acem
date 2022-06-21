@@ -225,7 +225,7 @@ a.btn,
 button.btn {
 	min-width: 170px;
 	height: 50px;
-	border-radius: 100px;
+	border-radius: 30px;
 	padding: 0;
 	text-align: center;
 	line-height: 52px;
@@ -366,8 +366,8 @@ blockquote {
 }
 
 h2 {
-	font-size: 35px;
-	color: #005a87;
+	font-size: 25px;
+	color: #098409;
 	line-height: 36px;
 	font-weight: 600;
 	position: relative;
@@ -378,7 +378,7 @@ h2 {
 
 
 h3 {
-	font-size: 24px;
+	font-size: 20px;
 	color: #006ba1;
 	line-height: normal;
 	font-weight: 500;
@@ -389,7 +389,7 @@ h3 {
 
 h4 {
 	font-size: 18px;
-	color:#007cba;
+	color:#098409;
 	line-height: 21px;
 	font-weight: 600;
 	text-transform: none;
@@ -2460,8 +2460,8 @@ span.skill {
 
 #accordion .panel.panel-default .panel-heading p a[aria-expanded="true"],
 #accordion .panel.panel-default:nth-child(1) .panel-heading p a {
-	background: #005a87;
-	border-color: #17a5e9;
+	background: #098409;
+	border-color: #098409;
 	color: #fff;
 }
 
