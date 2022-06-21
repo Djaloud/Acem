@@ -14,17 +14,17 @@ define('DB_NAME', 'db_name');
 //define('DB_USER', 'db_user');
 //define('DB_PASS', 'db_pass');
 //define('DB_NAME', 'db_name');
-    
+
 
 // APP ROOT
 define('APPROOT', dirname(dirname(__FILE__)));
-define ('SITE_ROOT', dirname(__FILE__));
+define('SITE_ROOT', dirname(__FILE__));
 
 
 // URL ROOT
- define('URLROOT', 'http://acem-officiel.com');
-//define('URLROOT', 'http://localhost/Acem/Acem');
- 
+//define('URLROOT', 'http://acem-officiel.com');
+define('URLROOT', 'http://localhost/Acem');
+
 // SITENAME
 define('SITENAME', 'ACEM MAROC');
 define('APPNAME', 'ACEM MAROC');
