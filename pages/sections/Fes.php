@@ -142,6 +142,7 @@ de Moutanlim Hassani en 2017-2018
         </div>
       </div>
     </div>
+    </div>
     <!-- end section1 Membre-->
 
 

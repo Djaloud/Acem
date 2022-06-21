@@ -7,7 +7,7 @@
             <h2>ANNEXE</h2>
           </div>
           <ul class="footer-menu">
-            <li><a href="http://acem.tech/apropos" target="_blank"><i class="fa fa-angle-right"></i> Acem Tech</a></li>
+            <li><a href="http://acemtech.org/apropos" target="_blank"><i class="fa fa-angle-right"></i> Acem Tech</a></li>
             <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ.php"><i class="fa fa-angle-right"></i> Acem faQ</a> </li>
           </ul>
         </div>
@@ -17,7 +17,7 @@
             <h2>VIES ESTUDIANTINES</h2>
           </div>
           <ul class="footer-menu">
-            <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank"><i class="fa fa-angle-right"></i> Enseignement suprieur</a></li>
+            <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank"><i class="fa fa-angle-right"></i> Enseignement superieur</a></li>
             <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa.php"><i class="fa fa-angle-right"></i> ENSA</a></li>
             <li><a href="<?php echo URLROOT; ?>/pages/amci.php"><i class="fa fa-angle-right"></i> Bourse AMCI</a></li>
             <li><a href="<?php echo URLROOT; ?>/pages/assurance.php"><i class="fa fa-angle-right"></i> Assurance AMCI</a></li>

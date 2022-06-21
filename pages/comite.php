@@ -7,7 +7,7 @@
               <div class="full">
                 <div class="title-holder">
                   <div class="title-holder-cell text-left">
-                    <h1 class="page-title">COMMITE SCIENTIFIQUE</h1>
+                    <h1 class="page-title">COMITE SCIENTIFIQUE</h1>
                     <ol class="breadcrumb">
                       <li><a href="<?php echo URLROOT; ?>/pages/comite.php">Comité Scientifique (CS)</a></li>
 
@@ -124,7 +124,7 @@
                   </div>
                   <div id="collapseOneDF" class="panel-collapse collapse in">
                     <div class="panel-body">
-                      <p> <a href="Statut_CS.pdf"><span style="color:red;font-size:20px;font-style: italic;">Cliquez pour consulter le document cadre du comité scientifique</span></a>  
+                      <p> <a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Statut_CS.pdf"><span style="color:red;font-size:20px;font-style: italic;">Cliquez pour consulter le document cadre du comité scientifique</span></a>  
                       </p>
                     </div>
                   </div>
@@ -146,7 +146,7 @@
           <div class="col-md-12">
             <div class="full">
               <div class="main_heading text_align_left">
-                <h2>MEMBRES DU COMMITE SCIENTIFIQUE</h2>
+                <h2>MEMBRES DU COMITE SCIENTIFIQUE</h2>
               </div>
             </div>
           </div>

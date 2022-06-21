@@ -71,7 +71,7 @@ require '../bootstrap.php';
               
             }else
             {
-             echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n est pas diponible ou bien veuillez vérifier que c est le bon matricule .</h1>';
+             echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n est pas disponible ou bien veuillez vérifier que c est le bon matricule .</h1>';
            }
          }
          ?>
