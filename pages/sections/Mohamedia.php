@@ -85,7 +85,7 @@
                 <div class="full team_blog_colum">
                   <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/4.jpg" alt="#"> </div>
                   <div class="team_feature_head">
-                    <h4>TRESORERIE GENERAL<br>Rayssa Mohamady souleh Ahmed </h4>
+                    <h4>TRESORIERE GENERAL<br>Rayssa Mohamady souleh Ahmed </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:rayssasolof@gmail.com ">Contacter</a></button>
                   </div>  
                 </div>

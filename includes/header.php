@@ -77,7 +77,7 @@
             <div class="float-left">
               <div class="social_icon">
                 <ul class="list-inline">
-                  <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook ACEM" target="_blank"></a></li>
+                  <li><a class="fa fa-facebook" href="https://www.facebook.com/acemmaroc" title="Facebook ACEM" target="_blank"></a></li>
 
                   <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="Youtube ACEM" target="_blank"></a></li>
                   <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"></a></li>
@@ -143,8 +143,8 @@
                   </li>
                   <li> <a href="#">Annexe</a>
                     <ul>
-                      <li><a href="http://www.acemtech.org/apropos" target="_blank">Acem Tech</a></li>
-                      <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM faQ</a> </li>
+                      <li><a href="http://www.acemtech.org/apropos" target="_blank">ACEM Tech</a></li>
+                      <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM FaQ</a> </li>
                     </ul>
                   </li>
                   <li> <a href="#">Bibliothèque</a>

@@ -10,10 +10,10 @@ define('DB_NAME', 'u213556546_acem');
 
 
 //Configuration en local
-//define('DB_HOST', 'localhost');
-//define('DB_USER', 'root');
-//define('DB_PASS', '');
-//define('DB_NAME', 'amci');
+//define('DB_HOST', 'db_host');
+//define('DB_USER', 'db_user');
+//define('DB_PASS', 'db_pass');
+//define('DB_NAME', 'db_name');
     
 
 // APP ROOT
@@ -22,7 +22,7 @@ define ('SITE_ROOT', dirname(__FILE__));
 
 
 // URL ROOT
- define('URLROOT', 'http://acem-officiel.com');
+define('URLROOT', 'http://acem-officiel.com');
 //define('URLROOT', 'http://localhost/Acem/Acem');
  
 // SITENAME

@@ -27,16 +27,47 @@
       <div class="section padding_layout_1">
         <div class="container">
 
-          <div class="row">
-            <div class="col-md-12">
-              <div class="full">
-                <div class="main_heading text_align_left">
-                  <h2>SECTION Fès</h2>
-                  <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
+          
+      <div class="section padding_layout_1">
+        <div class="container">
+
+          <div class="full margin_bottom_30">
+           <div class="accordion border_circle">
+             <div class="info_section">
+              <i class="fa fa-users" aria-hidden="true"> Membres</i> :  <br>
+              <a class="fa fa-instagram" href="https://www.instagram.com/acem_casablanca/?hl=fr" title="Instagram ACEM" target="_blank"> acem_fes</a> <br>
+              <i class="fa fa-envelope-o">acemfes7@gmail.com</i>
+            </div>
+            <div class="bs-example">
+              <div class="panel-group" id="accordion">
+               <div class="panel panel-default">
+                <div class="panel-heading">
+                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION DE FES <i class="fa fa-angle-down"></i></a> </p>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse in show">
+                  <div class="panel-body">
+                    <p class="large"> L’ACEM section régionale de Fès est parmi les premiers sections crée(2002).
+Depuis Fès a toujours été le berceau des comoriens au Maroc.
+Il fut premier Secrétaire général de l’ACEM-FES Mr Soilahoudine Saandi
+(2002-2003)</p> 
+
+                    <p class="large">Depuis la creation de la section regionale de Fes, a été realisé comme activité
+Nationale les activités suivantes : <br>
+- Journée Culturelle sous le mandat de Soilahoudine Saandi en 2002-2003 <br>
+- Journée Culturelle sous le mandat de Mamadou Taki en 2007-2008 <br>
+- Journée Culturelle sous le mandat d’Imrane Issa en 2012-2013 <br>
+- 2
+ème Edition du colloque de l’étudiant comorien au maroc sous le mandat
+de Moutanlim Hassani en 2017-2018   
+                    </p><br>
+                 
+                  </div>
                 </div>
               </div>
             </div>
           </div>
+        </div>
+      </div>
 
           <div class="row rowX">
             <!--- deuxieme ligne-->
@@ -110,6 +141,7 @@
           </div>
         </div>
       </div>
+    </div>
     </div>
     <!-- end section1 Membre-->
 

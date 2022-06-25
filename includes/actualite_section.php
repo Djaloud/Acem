@@ -6,7 +6,7 @@
         <div class="full">
           <div class="main_heading text_align_left">
             <h2 style="text-transform: none;">ACTUALITES ET ANNONCES</h2>
-            <p class="large">Soyez au plus près de l'actualité en suivant notre fil info </p>
+            <p class="large">Soyez au plus près de l'actualité en suivant notre fil d'information </p>
           </div>
         </div>
       </div>
@@ -33,7 +33,7 @@
                   </div>
                 </div>
 
-                <div class="carousel-item ">
+               <!--  <div class="carousel-item ">
                   <div class="testimonial-container">
                     <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color:#fff;" target="_blank">Bourse de Recherche Zurich 2021: Programme postdoctoral à l'Ecole polytechnique fédérale de Zurich.</a> </div>
                     <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-suisse.png" class="img-responsive" alt="#" width="150" height="150"> </div>
@@ -41,9 +41,9 @@
                       <h4>7 janvier 2021</h4>
                       <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color:#ffcccc;" target="_blank">En savoir plus.</a></span> </div>
                     </div>
-                  </div>
+                  </div> -->
 
-                  <div class="carousel-item ">
+                  <!-- <div class="carousel-item ">
                     <div class="testimonial-container">
                       <div class="testimonial-content"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color:#fff;" target="_blank">Bourse d’études Belgique 2021: Masters et formations à la Fédération Wallonie-Bruxelles.</a> </div>
                       <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-belgique.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
@@ -51,7 +51,7 @@
                         <h4>7 janvier 2021</h4>
                         <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #ffcccc;"target="_blank">En savoir plus.</a></span> </div>
                       </div>
-                    </div>
+                    </div> -->
 
 
                   </div>

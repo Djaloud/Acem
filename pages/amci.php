@@ -22,7 +22,7 @@ require '../bootstrap.php';
                 <form method="post">
                   <div class="inner-form"> 
                     <div class="input-field second-wrap">
-                      <input name="search" type="text" placeholder="tester avec: 20170961 " required />
+                      <input name="search" type="text" placeholder="Saisissez votre matricule " required />
                     </div>
                     <div class="input-field third-wrap">
                       <button class="btn-search" type="submit" name="btn">
@@ -71,7 +71,7 @@ require '../bootstrap.php';
               
             }else
             {
-             echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n est pas diponible ou bien veuillez vérifier que c est le bon matricule .</h1>';
+             echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n est pas disponible ou bien veuillez vérifier que c est le bon matricule .</h1>';
            }
          }
          ?>
