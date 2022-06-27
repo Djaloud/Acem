@@ -24,7 +24,8 @@
   <link rel="icon" href="favicon.ico" type="image/gif" />
   <!-- bootstrap css -->
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/bootstrap.min.css" />
-
+  <!-- bootstrap icon -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
   <!-- Site css -->
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/style.css" />
   <!-- responsive css -->
@@ -36,7 +37,8 @@
   <!-- wow Animation css -->
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/animate.css" />
   <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/main.css" />
-
+  <!-- counter css -->
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/counter.css" />
 
   <!-- revolution slider css -->
   <link rel="stylesheet" type="text/css" href="<?php echo URLROOT; ?>/assets/revolution/css/settings.css" />
@@ -67,7 +69,7 @@
             <div class="full">
               <div class="topbar-left">
                 <ul class="list-inline">
-                  <li style="font-size:25px;"> <span class="topbar-label"></span> <span class="topbar-hightlight">Association des Comoriens Étudiant au Maroc</span> </li>
+                  <li style="font-size:130%;"> <span class="topbar-label"></span> <span class="topbar-hightlight">Association des Comoriens Étudiant au Maroc</span> </li>
 
                 </ul>
               </div>
@@ -78,14 +80,13 @@
               <div class="social_icon">
                 <ul class="list-inline">
                   <li><a class="fa fa-facebook" href="https://www.facebook.com/acemmaroc" title="Facebook ACEM" target="_blank"></a></li>
-
                   <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="Youtube ACEM" target="_blank"></a></li>
                   <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"></a></li>
                 </ul>
               </div>
             </div>
             <div class="float-right">
-              <div class="make_appo">
+              <div class="make_appo mt-1">
                 <a class="btn white_btn" href="mailto:acemaroc@gmail.com">Contact</a>
               </div>
             </div>
@@ -112,10 +113,10 @@
               <div id="navbar_menu">
                 <ul class="first-ul">
 
-                  <li> <a href="<?php echo URLROOT; ?>">Acceuil</a> </li>
-                  <li> <a href="<?php echo URLROOT; ?>/pages/comite">C.Scientifique</a> </li>
+                  <li> <a href="<?php echo URLROOT; ?>"><i class="bi bi-house-door-fill"></i> Accueil</a> </li>
+                  <li> <a href="<?php echo URLROOT; ?>/pages/comite"><i class="bi bi-people"></i> C.Scientifique</a> </li>
 
-                  <li><a href="#">Sections</a>
+                  <li><a href="#"><i class="bi bi-inboxes"></i> Sections</a>
                     <ul>
                       <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir">Agadir</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca">Casablanca </a></li>
@@ -133,21 +134,21 @@
                   </li>
 
 
-                  <li> <a href="#">Vies estudiantines</a>
+                  <li> <a href="#"><i class="bi bi-mortarboard"></i> Vies estudiantines</a>
                     <ul>
-                      <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement suprieur</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa" target="_blank">ENSA</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement supérieur</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa">ENSA</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/amci.php">Bourse AMCI</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
                     </ul>
                   </li>
-                  <li> <a href="#">Annexe</a>
+                  <li> <a href="#"><i class="bi bi-diagram-2"></i> Annexes</a>
                     <ul>
-                      <li><a href="http://www.acemtech.org/apropos" target="_blank">ACEM Tech</a></li>
+                      <li><a href="http://acemtech.org/" target="_blank">ACEM Tech</a></li>
                       <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM FaQ</a> </li>
                     </ul>
                   </li>
-                  <li> <a href="#">Bibliothèque</a>
+                  <li> <a href="#"><i class="bi bi-bookshelf"></i> Bibliothèque</a>
                     <ul>
                       <li><a href="<?php echo URLROOT; ?>/pages/article">Articles</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/documents">Documents</a></li>

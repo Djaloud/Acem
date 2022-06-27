@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <div class="full">
           <div class="main_heading text_align_center">
-            <h2>Quelques Documents utils.</h2>
+            <h2>Documents officiels de l'ACEM.</h2>
 
           </div>
         </div>

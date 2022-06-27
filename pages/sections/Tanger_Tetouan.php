@@ -69,7 +69,7 @@
                 <div class="full team_blog_colum">
                   <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/4.PNG" alt="#"> </div>
                   <div class="team_feature_head">
-                    <h4>TRESORIER GENERAL<br>Nousroi Daoud Abdallah </h4>
+                    <h4>TRESORERIE GENERAL<br>Nousroi Daoud Abdallah </h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:daoudnousroi@gmail.com">Contacter</a></button>
                   </div>  
                 </div>

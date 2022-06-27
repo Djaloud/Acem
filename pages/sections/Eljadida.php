@@ -27,30 +27,16 @@
       <div class="section padding_layout_1">
         <div class="container">
 
-           <div class="full margin_bottom_30">
-           <div class="accordion border_circle">
-             <div class="info_section">
-              <i class="fa fa-users" aria-hidden="true"> Membres</i> : 26  <br>
-              <a class="fa fa-instagram" href="https://www.instagram.com/acem_casablanca/?hl=fr" title="Instagram ACEM" target="_blank"> acem_eljadidaofficiel</a> <br>
-              <i class="fa fa-envelope-o"> acemeljadida@gmail.com</i>
-            </div>
-            <div class="bs-example">
-              <div class="panel-group" id="accordion">
-               <div class="panel panel-default">
-                <div class="panel-heading">
-                  <p class="panel-title" > <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">SECTION EL JADIDA <i class="fa fa-angle-down"></i></a> </p>
-                </div>
-                <div id="collapseOne" class="panel-collapse collapse in show">
-                  <div class="panel-body">
-                    
-                 
-                  </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="full">
+                <div class="main_heading text_align_left">
+                  <h2>SECTION El-jadida</h2>
+                  <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>
 
           <div class="row rowX">
             <!--- deuxieme ligne-->
@@ -99,7 +85,7 @@
                 <div class="full team_blog_colum">
                   <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/4.jpg" alt="#"> </div>
                   <div class="team_feature_head">
-                    <h4>TRESORIER GENERAL<br>Fayad halidi yahaya Naieche</h4>
+                    <h4>TRESORERIE GENERAL<br>Fayad halidi yahaya Naieche</h4>
                     <button type="button" class="btn btn-primary"><a href="mailto:fayadhalidiyahayanaieche@gmail.com">Contacter</a></button>
                   </div>  
                 </div>

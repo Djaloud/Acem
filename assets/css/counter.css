@@ -1,0 +1,85 @@
+.wrapper{
+    position: absolute;
+    width: 150px;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-wrap: wrap;
+    font-family: "Poppins";
+    justify-content: space-around;
+    gap: 10px;
+    align-items: center;
+
+
+}
+.counter{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
+    font-size: 15px;
+    border-radius: 100%;
+    background-color: rgb(16, 13, 41);
+    border-bottom: 10px solid rgba(92, 239, 197, 0.866);
+    box-shadow: 0 0 25px -17px #000;
+}
+.counter i{
+    color: rgba(92, 239, 197, 0.866);
+    font-size: 2.5em;
+    text-align: center;
+}
+
+span.num{
+    color: rgb(255, 255, 255);
+    display: grid;
+    place-items: center;
+    font-weight: 500;
+    font-size: 3em;
+}
+span.text {
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+    text-align: center;
+    justify-content: space-around;
+    pad: 0.7em 0;
+    font-weight: 400;
+    line-height: 0;
+}
+@media screen and (max-widht: 1024px){
+    .wrapper{
+        width: 85vw;
+    }
+    .counter{
+        height:26vmin;
+        width: 26vmin;
+        font-size:12px;
+    }
+}
+
+@media screen and (max-widht: 768px){
+    .wrapper{
+        width: 90vw;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .counter{
+        height:30vmin;
+        width: calc(50% - 40px);
+        font-size:14px;
+    }
+}
+@media screen and (max-widht: 480px){
+    .wrapper{
+        gap: 15px;
+    }
+    .counter{
+        height:25vmin;
+        width: 100%;
+        font-size:8px;
+    }
+}

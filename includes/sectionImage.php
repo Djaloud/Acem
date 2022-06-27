@@ -175,7 +175,7 @@
                               data-splitout="none" 
                               data-responsive_offset="on" 
                               data-elementdelay="0.05" 
-                              style="z-index: 6; white-space: nowrap;">Solidarité & Fraternité </div>
+                              style="z-index: 6; white-space: nowrap;">Solidarité & Excellence </div>
               <!-- LAYER NR. 3 -->
               <div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-0" 
                               id="slide-18-layer-4" 

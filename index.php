@@ -9,10 +9,10 @@
     <div class="row ">
       <div class="col-md-4 ">
         <div class="logo1">
-          <a href="index.php"><img src="<?php echo URLROOT; ?>/assets/images/photo/BE/1.jpg" alt="logo" /></a>
+          <img src="<?php echo URLROOT; ?>/assets/images/photo/BE/1.jpg">
         </div>
-        <div class="full" style="margin-top:10px;">
-          <h3 class="border-bottom">MOT DU PRESIDENT </h3>
+        <div class="full" style="margin-top:5px;">
+          <h3 class="border-bottom pres">MOT DU PRESIDENT </h3>
           <p>Chers étudiants, chers partenaires, chers collaborateurs, chers membres ;</p>
           <p>C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relever en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
 
@@ -20,22 +20,22 @@
           </p>
 
 
-            </div>
-          </div>
-          <div class="col-md-8 border-left">
-            <div class="full margin_bottom_30">
-              <div class="accordion border_circle">
-                <div class="bs-example">
-                  <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                      <div class="panel-heading">
-                        <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href=""><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse collapse in show">
-                        <div class="panel-body" >
-                          <p >
-                            L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
-                          </br>
+        </div>
+      </div>
+      <div class="col-md-8 border-left">
+        <div class="full margin_bottom_30">
+          <div class="accordion border_circle">
+            <div class="bs-example">
+              <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseA"><i class="fa fa-bar-chart" aria-hidden="true"></i> Presentation ACEM<i class="fa fa-angle-down"></i></a> </p>
+                  </div>
+                  <div id="collapseA" class="panel-collapse collapse in show">
+                    <div class="panel-body">
+                      <p>
+                        L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
+                        </br>
                         Ainsi, chaque ville universitaire, où résident des Comoriens, constitue une Section Régionale (S.R) de l’ACEM. Lorsque les membres de cette dernière atteignent un nombre supérieur à 20, ils élisent un Bureau de la S.R, qui sera constitué de 5 membres : </p>
 
                       <div>
@@ -69,16 +69,16 @@
                         </li>
                         </p>
                         <li>
-                          <p><i class="fa fa-check-circle"></i> Comité Elargi : constitué du Président, du VP, du Coordinateur ainsi qu’aux SG des différentes S.R.
+                          <p><i class="fa fa-check-circle"></i> Comité Elargi : constitué du Président, du VP, du Coordinateur ainsi qu’aux SG des différentes S.R ;
                         </li>
                         </p>
 
                         <li>
-                          <p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice Président (V.P) et du Commissaire aux comptes (C.C).
+                          <p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice-Président (V.P) et du Commissaire aux comptes (C.C) ;
                         </li>
                         </p>
                         <li>
-                          <p><i class="fa fa-check-circle"></i>Section Régionale : dirigée et représentée par le Bureau de la S.R.
+                          <p><i class="fa fa-check-circle"></i>Section Régionale : dirigée et représentée par le Bureau de la S.R ;
                         </li>
                         </p>
 
@@ -95,6 +95,33 @@
                 </div>
               </div>
             </div>
+            <!-- COUNTER -->
+            <div classe="wrapper mr-2">
+              <div class="counter mr-2">
+                <i class="bi bi-mortarboard-fill"></i>
+                <span class="num" data-val="750">000</span>
+                <span class="text">Etudiants </span>
+              </div>
+
+              <div class="counter mr-2">
+                <i class="bi bi-building"></i>
+                <span class="num" data-val="26">00</span>
+                <span class="text">Villes</span>
+              </div>
+
+              <div class="counter mr-2">
+                <i class="bi bi-gear-fill"></i>
+                <span class="num" data-val="40">00</span>
+                <span class="text">Années</span>
+              </div>
+
+              <div class="counter mr-2">
+                <i class="bi bi-layout-wtf"></i>
+                <span class="num" data-val="13">00</span>
+                <span class="text">Sections</span>
+              </div>
+            </div>
+            <!-- END COUNTER -->
           </div>
         </div>
       </div>
@@ -110,53 +137,53 @@
 
 
 <!-- fin president -->
-<!-- section -->
+
+<!-- section devise-->
 <div class="section padding_layout_1">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="full ">
-          <div class="main_heading text_align_center border-bottom">
+          <div class="main_heading text_align_center">
             <h2>NOTRE DEVISE</h2>
-
           </div>
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-        <div class="full text_align_center margin_bottom_30">
+    <div class="row border-bottom">
+      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 ">
+        <div class="full text_align_center margin_bottom_20">
           <div class="center">
             <div class="icon"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/egalite2.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">EGALITE</h4>
           <p>Convaincus de la nécessité d’une organisation pour la défense des intérêts matériaux et
-            moraux de notre communauté</p>
+            moraux de notre association</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-        <div class="full text_align_center margin_bottom_30">
+        <div class="full text_align_center margin_bottom_20">
           <div class="center">
             <div class="icon"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/sol.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">SOLIDARITE</h4>
-          <p>Considérant le nombre croissant des comoriens étudiant</p>
+          <p>Considérant le nombre croissant des étudiants comoriens, l'association se deploit pour être au service de ces derniers</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-        <div class="full text_align_center margin_bottom_30">
+        <div class="full text_align_center margin_bottom_20">
           <div class="center">
             <div class="icon"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/ex.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">EXCELLENCE</h4>
           <p>Considérant la nécessité d’une action commune efficace qui puisse impliquer les processus de
-            développement intellectuel de notre communauté</p>
+            développement intellectuel de notre association</p>
         </div>
       </div>
 
     </div>
 
-    <!--section 1 membre-->
+    <!--section Membre BE-->
 
     <div class="section padding_layout_1">
       <div class="container">
@@ -164,9 +191,9 @@
         <div class="row">
           <div class="col-md-12">
             <div class="full">
-              <div class="main_heading text_align_left">
+              <div class="main_heading text_align_center">
                 <h2>MEMBRES DU BUREAU EXECUTIF DE L'A.C.E.M</h2>
-                <p class="large">UNE TRES BONNE EQUIPE POUR UN BON FUTUR</p>
+                <p class="large">Une équipe dynamique pour un très bon futur </p>
               </div>
             </div>
           </div>
@@ -177,10 +204,9 @@
 
           <!--- deuxieme ligne-->
           <div class="row">
-
             <div class="col-md-4 col-sm-6">
               <div class="full team_blog_colum">
-                <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/BE/1.jpg" alt="#"> </div>
+                <div class="it_be_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/BE/1.jpg" alt="#"> </div>
                 <div class="team_feature_head">
                   <h4>PRESIDENT<br>Toihere Dachiroudine </h4>
                   <button type="button" class="btn btn-primary"><a href="mailto:toiherdachiroudine@gmail.com">Contacter</a></button>
@@ -190,16 +216,16 @@
 
             <div class="col-md-4 col-sm-6">
               <div class="full team_blog_colum">
-                <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/BE/3.jpg" alt="#"> </div>
+                <div class="it_be_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/BE/3.jpg" alt="#"> </div>
                 <div class="team_feature_head">
-                  <h4>VICE PRESIDENT<br>Sidi Ahmed Djawad </h4>
+                  <h4>VICE-PRESIDENT<br>Sidi Ahmed Djawad </h4>
                   <button type="button" class="btn btn-primary"><a href="mailto:djaoidahmedsidi@gmail.com">Contacter</a></button>
                 </div>
               </div>
             </div>
             <div class="col-md-4 col-sm-6">
               <div class="full team_blog_colum">
-                <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/BE/2.jpg" alt="#"> </div>
+                <div class="it_be_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/BE/2.jpg" alt="#"> </div>
                 <div class="team_feature_head">
                   <h4>COMISSAIRE AUX COMPTES<br>Attoumane Abou Bacar </h4>
                   <button type="button" class="btn btn-primary"><a href="mailto:attoumaneaboubacar@gmail.com">Contacter</a></button>
@@ -212,7 +238,7 @@
       </div>
     </div>
   </div>
-  <!-- end section1 Membre-->
+  <!-- end section Membre BE-->
 
 
 
@@ -303,33 +329,20 @@
   </div>
 </div>
 <!-- end section -->
-<!-- section -->
+<!-- section sponsors -->
 <div class="section padding_layout_1" style="padding: 30px 0;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="full">
-          <ul class="brand_list">
-            <li><a href="https://www.amci.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/AMCI.png" alt="#" /></a></li>
-            
-            <li><a href="https://cesam-centrale.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/CESAM.jpg" alt="#" /></a></li>
-            <li><a href="https://incodev.org/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/INCODEV.png" alt="#" /></a></li>
-           
-            <li><a href="https://beit-salam.km/symboles-de-letat/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SC.png" alt="#" /></a></li>
-             <li><a href="https://supmti.ac.ma/"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SUP-MTI.png" alt="#" /></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col-md-12">
-        <div class="full">
-          <ul class="brand_list">
-            
-          
-            <li><a href="https://www.wafaassurance.ma/fr"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Wfs.png" alt="#" /></a></li>
-          </ul>
+        <div class="sponsors_list">
+          <!-- <ul class=""> -->
+          <a href="https://beit-salam.km/symboles-de-letat/" target="_blank"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Ambassade.png" alt="Ambassade de l'Union des Comores au Maroc" /></a>
+          <a href="https://www.amci.ma/" target="_blank"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/AMCI.png" alt="Agance Marocaine de Coopération Internationale" /></a>
+          <a href="https://cesam-centrale.ma/" target="_blank"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/CESAM.png" alt="CESAM Centrale" /></a>
+          <a href="https://incodev.org/" target="_blank"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/INCODEV.png" alt="INCODEV" /></a>
+          <a href="https://supmti.ac.ma/" target="_blank"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/SUP-MTI.png" alt="Sup-Mti" /></a>
+          <a href="https://www.wafaassurance.ma/fr" target="_blank"><img class="img-resp" src="<?php echo URLROOT; ?>/assets/images/sponsors/Wfs.png" alt="Wafa-Assurance" /></a>
+          <!-- </ul> -->
         </div>
       </div>
     </div>

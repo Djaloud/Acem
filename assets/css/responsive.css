@@ -1458,10 +1458,10 @@
    		       
 	}
 	.logo1 img {
-		width: 230px;
+		width: 150px;
+		height: 150px;
 		position: relative;
-   		height: 160px;
-        border-radius: 30%;
+        border-radius: 100%;
 	}
 	.cleaning .logo img {
        height: auto;
@@ -1560,7 +1560,7 @@
         margin-right: 10px;
      }
 	 #navbar_menu.small-screen #menu-button {
-        top: -80px;
+        top: -76px;
     }
 	.search_icon {
     top: -74px;
