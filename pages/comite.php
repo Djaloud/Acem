@@ -1,19 +1,11 @@
 <?php require '../bootstrap.php'; ?>
 <!-- inner page banner -->
-<div id="inner_banner" class="section inner_banner_section">
+<div id="inner_banner" class="section inner_banner_section_comite">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="full">
-          <div class="title-holder">
-            <div class="title-holder-cell text-left">
-              <h1 class="page-title">COMITE SCIENTIFIQUE</h1>
-              <ol class="breadcrumb">
-                <li><a href="<?php echo URLROOT; ?>/pages/comite.php">Comité Scientifique (CS)</a></li>
 
-              </ol>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -31,7 +23,7 @@
 
             <div class="blog_feature_cantant">
               <p class="blog_head">Le Comité Scientifique (CS) </p>
-              <p>Créé en 2009 mais officiellement lancé en 2010, le Comité Scientifique est un organe non exécutif de l’ACEM. Il est chargé de proposer, planifier et organiser toutes les activités à caractère scientifique. Abdourazak IBRAHIM fut le premier coordinateur du Comité scientifique. Le 05 Mars 2022 un "document cadre" du comité scientifique est approuvé par l’ensemble des membres du comité élargi de l’ACEM.
+              <p>Créé en 2009 mais officiellement lancé en 2010, le Comité Scientifique est un organe non exécutif de l’ACEM. Il est chargé de proposer, planifier et organiser toutes les activités à caractère scientifique. M. <b>Abdourazak IBRAHIM</b> fut le premier coordinateur du Comité Scientifique. Le 05 Mars 2022 un "document cadre" du Comité Scientifique est approuvé par l’ensemble des membres du Comité Elargi de l’ACEM.
               </p>
 
             </div>
@@ -117,7 +109,7 @@
                       </li>
 
                       <li>
-                        <p><i class="fa fa-check-circle"></i> le Bulletin d’information annuel de l’ACEM « Le Karthala » ; </p>
+                        <p><i class="fa fa-check-circle"></i> le bulletin d’information annuel de l’ACEM « Le Karthala » ; </p>
                       </li>
                       <li>
                         <p><i class="fa fa-check-circle"></i> la coordination des structures régionales qui le composent ; </p>
@@ -138,8 +130,8 @@
                 </div>
                 <div id="collapseOne4" class="panel-collapse collapse in">
                   <div class="panel-body">
-                    <p> Le Comité Scientifique est composé de trois (3) catégories de membres : les membres actifs, les ambassadeurs et les membres d’honneurs. La qualité de membre du Comité Scientifique est acquise par la remise d’une attestation signée par le Président de l’ACEM.
-                      Les membres actifs, prévus par les statuts de l’ACEM, sont au nombre de quinze (15). Ils sont nommés, pour une durée de deux (2) ans renouvelables, par le Président de l’ACEM après consultation des différents membres du Comité Scientifique.
+                    <p> Le Comité Scientifique est composé de trois (3) catégories de membres : les <b>membres actifs</b>, les <b>ambassadeurs</b> et les <b>membres d’honneurs</b>. La qualité de membre du Comité Scientifique est acquise par la remise d’une attestation signée par le Président de l’ACEM.</br>
+                      Les membres actifs, prévus par les statuts de l’ACEM, sont au nombre de <b>quinze (15)</b>. Ils sont nommés, pour une durée de <b>deux (2) ans</b> renouvelables, par le Président de l’ACEM après consultation des différents membres du Comité Scientifique. </br>
                       Peut être membre actif toute personne physique d’origine comorienne, étudiant (e) ou stagiaire, impliquée dans les activités à caractère scientifiques, résidant dans le territoire marocain et qui s’acquitte de sa cotisation d’adhésion à l’ACEM.
                     </p>
                   </div>
@@ -172,15 +164,42 @@
 
         <div class="row">
           <div class="col-md-12">
-            <div class="full">
-              <div class="main_heading text_align_left">
-                <h2>MEMBRES DU COMITE SCIENTIFIQUE</h2>
-              </div>
+            <div class="main_heading1 text_align_left">
+              <h2>MEMBRES DU COMITE SCIENTIFIQUE</h2>
             </div>
           </div>
         </div>
+        <!-- ----------- MEMBRE ACTIF -------------- -->
 
         <div class="row">
+          <div class="col-md-12">
+            <div class="full ml-3 mr-4">
+              <div class="main_heading text_align_left">
+                <h3><i class="bi bi-people-fill"></i> Membres actifs :</h3>
+                <!-- <button type="button" class="btn btn-info pull-right mr-3"><a href="http://acemtech.org">Lire des articles <i class="fa fa-angle-right"></i></a></button> -->
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/2.jpg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>Coordinateur par interim <br>Mohamed Issihaka </h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:Issihaka96@gmail.com ">Contacter</a></button>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/16.jpeg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>Raportrice <br>Naifa Mohamadi</h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              </div>
+            </div>
+          </div>
+
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/1.jpg" alt="#"> </div>
@@ -193,30 +212,10 @@
 
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/3.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/4.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>HICHEM ABOUBACAR</h4>
-                <button type="button" class="btn btn-primary"><a href="mailto:aboubacarhichem@gmail.com">Contacter</a></button>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3 col-sm-6">
-            <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/6.jpg" alt="#"> </div>
-              <div class="team_feature_head">
-                <h4>Membre actif<br>MAHAMOUD Abdallah </h4>
-                <button type="button" class="btn btn-primary"><a href="mailto:amc1997mbeni@gmail.com">Contacter</a></button>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-3 col-sm-6">
-            <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/7.jpg" alt="#"> </div>
-              <div class="team_feature_head">
-                <h4>Ambassadeur<br>Moussa Nafly Affandi I.</h4>
-                <button type="button" class="btn btn-primary"><a href="mailto:naims269@gmail.com">Contacter</a></button>
+                <h4>Membre actif<br>Sidi Ahmed Djawad </h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:djaoidahmedsidi@gmail.com">Contacter</a></button>
               </div>
             </div>
           </div>
@@ -225,10 +224,10 @@
         <div class="row" style="margin-top:40px;">
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/2.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/3.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Coordinateur par interim <br>Mohamed issihaka </h4>
-                <button type="button" class="btn btn-primary"><a href="mailto:Issihaka96@gmail.com ">Contacter</a></button>
+                <h4>Membre actif<br>Hichem Aboubacar</h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:aboubacarhichem@gmail.com">Contacter</a></button>
               </div>
             </div>
           </div>
@@ -237,7 +236,7 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/8.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>Heikal Afraitane</h4>
+                <h4>Rédacteur ACEM Tech<br>Heikal Afraitane</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:heikalafraitane@gmail.com">Contacter</a></button>
               </div>
             </div>
@@ -257,7 +256,7 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/10.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>ALIHAMIDI Imam </h4>
+                <h4>Membre actif<br>Alihamidi Imam </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:imam.alihamidi@uit.ac.ma">Contacter</a></button>
               </div>
             </div>
@@ -268,10 +267,10 @@
         <div class="row" style="margin-top:40px;">
           <div class="col-md-3 col-sm-6">
             <div class="full team_blog_colum">
-              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/4.jpg" alt="#"> </div>
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/6.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>Sidi Ahmed Djawad </h4>
-                <button type="button" class="btn btn-primary"><a href="mailto:djaoidahmedsidi@gmail.com">Contacter</a></button>
+                <h4>Membre actif<br>Mahamoud Abdallah </h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:amc1997mbeni@gmail.com">Contacter</a></button>
               </div>
             </div>
           </div>
@@ -290,7 +289,7 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/15.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>YOUSSOUF Ismael</h4>
+                <h4>Membre actif<br>Youssouf Ismael</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:Mouniiryss09@gmail.com">Contacter</a></button>
               </div>
             </div>
@@ -300,7 +299,7 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/11.jpeg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>AHZER BIANRIF TARMIDI</h4>
+                <h4>Membre actif<br>Ahzer Bianrif Tarmidi</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:abianrifa@hotmail.fr">Contacter</a></button>
               </div>
             </div>
@@ -313,8 +312,27 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/12.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Membre actif<br>SAANYANE MOUSSA OMAR </h4>
+                <h4>Membre actif<br>Saanyane Moussa Omar </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:saanta2020@hotmail.com">Contacter</a></button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- ----------- AMBASSADEUR -------------- -->
+        <div class="row" style="margin-top:40px;">
+          <div class="col-md-12 mr-4">
+            <div class="full ml-3">
+              <div class="main_heading text_align_left">
+                <h3><i class="bi bi-person-workspace"></i> Ambassadeurs :</h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/7.jpg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>Ambassadeur (Comores)<br>Moussa Nafly Affandi I.</h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:naims269@gmail.com">Contacter</a></button>
               </div>
             </div>
           </div>
@@ -323,7 +341,7 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/13.jpg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Ambassadrice <br>Djohar Irna</h4>
+                <h4>Ambassadrice (France)<br>Djohar Irna</h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:irnadjo@gmail.com">Contacter</a></button>
               </div>
             </div>
@@ -333,12 +351,11 @@
             <div class="full team_blog_colum">
               <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/cs/14.jpeg" alt="#"> </div>
               <div class="team_feature_head">
-                <h4>Ambassadeur <br>Amri Salim Houmadi </h4>
+                <h4>Ambassadeur (Comores)<br>Amri Salim Houmadi </h4>
                 <button type="button" class="btn btn-primary"><a href="mailto:salimamri95@gmail.com">Contacter</a></button>
               </div>
             </div>
           </div>
-
         </div>
       </div>
 

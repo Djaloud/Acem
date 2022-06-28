@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="full">
-          <div class="main_heading text_align_center">
+          <div class="main_heading1 text_align_center">
             <h2>Documents officiels de l'ACEM.</h2>
 
           </div>

@@ -1,14 +1,14 @@
 <!-- section -->
-<div class="section padding_layout_1 testmonial_section white_fonts">
+<div class="section padding_layout_1 testmonial_section ">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 pull-right">
-        <div class="row">
+        <div class="row white_fonts">
           <div class="col-md-12">
             <div class="full">
               <div class="main_heading text_align_left">
-                <h2 style="text-transform: none;">ACTUALITES ET ANNONCES</h2>
-                <p class="large">Soyez au plus près de l'actualité en suivant notre fil info </p>
+                <h2 style="text-transform: none;">ANNONCES</h2>
+                <p class="large-left">Soyez au plus près des annonces en suivant notre fil information </p>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@
 
                   <div class="carousel-item ">
                     <div class="testimonial-container">
-                      <div class="testimonial-content ml-2"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #fff;" target="_blank">Bourse d’études Belgique 2021: Masters et formations à la Fédération Wallonie-Bruxelles.</a> </div>
+                      <div class="testimonial-content ml-2"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #fff;" target="_blank">Bourse d’études Belgique 2021: </br>Masters et formations à la Fédération Wallonie-Bruxelles.</a> </div>
                       <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-belgique.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                       <div class="testimonial-meta ml-2">
                         <h4>7 janvier 2021</h4>
@@ -73,11 +73,11 @@
 
                   <div class="carousel-item ">
                     <div class="testimonial-container ">
-                      <div class="testimonial-content ml-2"> <a href="" style="color: #fff;" target="_blank">L'ACEM SR Mohammedia organise "Un Bal Masqué" le 17 Juillet 2022.</a> </div>
+                      <div class="testimonial-content ml-2"> <a href="" style="color: #fff;" target="_blank">L'ACEM SR Mohammedia organise "Un Bal Masqué" le 17 Juillet 2022.</br>Entrée : 100dh</a> </div>
                       <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/balMasqué.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                       <div class="testimonial-meta ml-2">
                         <h4>25 juin 2022</h4>
-                        <span class="testimonial-position"><a href="https://youtu.be/U9Tjxv0EJII " style="color: #ffcccc;" target="_blank">En savoir plus .</a></span>
+                        <span class="testimonial-position"><a href="https://youtu.be/U9Tjxv0EJII " style="color: #ffcccc;" target="_blank">Acheter votre billet .</a></span>
                       </div>
                     </div>
                   </div>
@@ -94,7 +94,7 @@
       <div class="col-lg-4 pull-left">
         <div class="full ">
           <div class="main_heading text_align_left">
-            <h2 style="text-transform: none;">EVENEMENT A VENIR</h2>
+            <h2 style="text-transform: none; color:white;">EVENEMENT A VENIR</h2>
           </div>
           <div class="row">
             <?php require APPROOT . '/includes/evenements.php'; ?>

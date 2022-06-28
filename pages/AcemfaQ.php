@@ -28,7 +28,7 @@
           </div>
         </div>
 
-        <div class="full margin_bottom_30 collapse in" style="margin-top:-70px;" id="r1">
+        <div class="full margin_bottom_20 collapse in" style="margin-top:-90px;" id="r1">
           <div class="accordion border_circle">
             <div class="bs-example">
               <div class="panel-group" id="accordion">
@@ -80,7 +80,7 @@
                         &nbsp;- Un formulaire de demande d'hébergement dûment rempli (à retirer à la cité universitaire internationale de Rabat) ;<br>
                         &nbsp;- Une copie de l'attestation d'inscription à défaut une copie de l'autorisation d'inscription ;<br>
                         &nbsp;- Une copie du passeport ;<br>
-                        &nbsp;-Deux (2) photos d'identité.
+                        &nbsp;- Deux (2) photos d'identité.
                       </p>
                     </div>
                   </div>
@@ -154,7 +154,7 @@
           </div>
         </div>
 
-        <div class="full margin_bottom_30 collapse in" style="margin-top:-70px;" id="r2">
+        <div class="full margin_bottom_20 collapse in" style="margin-top:-90px;" id="r2">
           <div class="accordion border_circle">
             <div class="bs-example">
               <div class="panel-group" id="accordion">
@@ -170,7 +170,6 @@
                   </div>
                 </div>
 
-
                 <div class="panel panel-default">
                   <div class="panel-heading">
                     <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne10">Quelles sont les conditions pour être assuré par Wafa-Assurance à travers l’AMCI ? <i class="fa fa-angle-down"></i></a> </p>
@@ -181,7 +180,6 @@
                     </div>
                   </div>
                 </div>
-
 
                 <div class="panel panel-default">
                   <div class="panel-heading">
@@ -218,14 +216,10 @@
                   </div>
                   <div id="collapseOne12" class="panel-collapse collapse">
                     <div class="panel-body">
-                      <p>Le délai est de 3 mois après la fin de votre traitement. A respecter!</p>
+                      <p>Le délai est de <b>3 mois</b> après la fin de votre traitement. A respecter!</p>
                     </div>
                   </div>
                 </div>
-
-
-
-
 
                 <div class="panel panel-default">
                   <div class="panel-heading">
@@ -240,18 +234,16 @@
                   </div>
                 </div>
 
-
                 <div class="panel panel-default">
                   <div class="panel-heading">
                     <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne42">Quel est le délai de remboursement ? <i class="fa fa-angle-down"></i></a> </p>
                   </div>
                   <div id="collapseOne42" class="panel-collapse collapse">
                     <div class="panel-body">
-                      <p> Le délai de remboursement est de 15 jours normalement. Toutefois, comme toute administration, il se pourrait qu’il ait quelques retards. Il faut donc avoir un peu de patience. </p>
+                      <p> Le délai de remboursement est de <b>15 jours</b> normalement. Toutefois, comme toute administration, il se pourrait qu’il ait quelques retards. Il faut donc avoir un peu de patience. </p>
                     </div>
                   </div>
                 </div>
-
 
                 <div class="panel panel-default">
                   <div class="panel-heading">
@@ -262,17 +254,10 @@
                       <p> Avec Wafa-Assurance, vous avez un numéro d’assistance 24h/24, 7j/7 qui s’affiche juste ici et que vous pouvez contacter à chaque fois que vous avez besoin d’une prise en charge urgente. <br>
                         Imaginez que vous êtes malade et incapable de vous rendre seul à l’hôpital, vous pouvez contacter Wafa-Assurance qui va dépêcher une ambulance pour vous amenez soit dans une clinique de votre choix ou dans une clinique conventionnée. Vous aurez dans la rubrique Assurance l’ensemble des cliniques, pharmacies et labo qui ont une convention avec Wafa-Assurance. <br>
                         Les cliniques qui ont signé une convention avec Wafa-Assurance facilitent la prise en charge et vous permettent d’avoir accès au traitement en ayant peu de moyen financier.
-
-
-
                       </p>
                     </div>
                   </div>
                 </div>
-
-
-
-
               </div>
             </div>
           </div>
@@ -296,7 +281,7 @@
           </div>
         </div>
 
-        <div class="full margin_bottom_30 collapse in" style="margin-top:-70px;" id="r3">
+        <div class="full margin_bottom_20 collapse in" style="margin-top:-90px;" id="r3">
           <div class="accordion border_circle">
             <div class="bs-example">
               <div class="panel-group" id="accordion">
@@ -311,7 +296,6 @@
                     </div>
                   </div>
                 </div>
-
 
                 <div class="panel panel-default">
                   <div class="panel-heading">
@@ -339,9 +323,6 @@
                   </div>
                 </div>
 
-
-
-
                 <div class="panel panel-default">
                   <div class="panel-heading">
                     <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne4ND">Quel montant maximum de la caisse de santé peut être accordé ? <i class="fa fa-angle-down"></i></a> </p>
@@ -351,12 +332,10 @@
                       <p>Bien ; pour cette question, deux cas sont envisagés :
                         Si vous êtes un étudiant d’un établissement privé, le montant maximum sera de 1000 dh. <br>
                         Si vous êtes dans un établissement public par contre, celui-ci sera de 700 dh maximum.
-
                       </p>
                     </div>
                   </div>
                 </div>
-
 
                 <div class="panel panel-default">
                   <div class="panel-heading">
@@ -393,7 +372,6 @@
                   </div>
                 </div>
 
-
                 <div class="panel panel-default">
                   <div class="panel-heading">
                     <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne8V">Est-ce uniquement une caisse qui sera détenue par le Bureau Central de l’ACEM ? <i class="fa fa-angle-down"></i></a> </p>
@@ -410,9 +388,6 @@
           </div>
         </div>
       </div>
-
-
-
     </div>
   </div>
 

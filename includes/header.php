@@ -129,7 +129,8 @@
                       <li><a href="<?php echo URLROOT; ?>/pages/sections/Oujda">Oujda </a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/sections/Rabat_sale">Rabat-Salé</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/sections/Settat">Settat</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tanger_Tetouan">Tanger</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tanger">Tanger</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tetouan">Tétouan</a></li>
                     </ul>
                   </li>
 
@@ -150,7 +151,7 @@
                   </li>
                   <li> <a href="#"><i class="bi bi-bookshelf"></i> Bibliothèque</a>
                     <ul>
-                      <li><a href="<?php echo URLROOT; ?>/pages/article">Articles</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/article">Articles Statut</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/documents">Documents</a></li>
                     </ul>
                   </li>

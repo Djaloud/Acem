@@ -7,9 +7,9 @@
         <div class="full">
           <div class="title-holder">
             <div class="title-holder-cell text-left">
-              <h1 class="page-title">SECTION</h1>
+              <h1 class="page-title">Section Kenitra</h1>
               <ol class="breadcrumb">
-                <li><a href="i<?php echo URLROOT; ?>">Acceuil</a></li>
+                <li><a href="i<?php echo URLROOT; ?>">Accueil</a></li>
                 <li class="active">Kenitra</li>
               </ol>
             </div>
@@ -26,27 +26,41 @@
 
 <div class="section padding_layout_1">
   <div class="container">
-
     <div class="full margin_bottom_30">
       <div class="accordion border_circle">
         <div class="info_section">
-          <i class="fa fa-users" aria-hidden="true"> Membres</i> : 120 <br>
-          <a class="fa fa-instagram" href="https://www.instagram.com/acem_kenitra/?hl=fr" title="Instagram ACEM" target="_blank"> acem_kenitra</a> <br>
-          <i class="fa fa-envelope-o"> acemkenitra@gmail.com</i>
+
+          <!-- INFO SECTION -->
+          <div classe="wrapper mr-4 mb-4">
+            <div class="counterSection mr-3 mb-2">
+              <i class="bi bi-mortarboard-fill"></i>
+              <span class="num" data-val="120">000</span>
+              <span class="text mt-1">Etudiants </span>
+            </div>
+            <div class="infoSection mr-2">
+              <h4>Contacts :</h4>
+              <i class="bi bi-instagram"></i><a href="https://www.instagram.com/acem_kenitra/?hl=fr" title="Instagram ACEM" target="_blank"> acem_kenitra</a> <br>
+              <i class="bi bi-envelope-plus"></i><a href="mailto:acemkenitra@gmail.com"> acemkenitra@gmail.com</a>
+            </div>
+          </div>
+          <!-- END INFO SECTION -->
+
         </div>
         <div class="bs-example">
           <div class="panel-group" id="accordion">
             <div class="panel panel-default">
-              <div class="panel-heading">
+              <div class="panel-heading mt-3">
                 <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION DE KENITRA <i class="fa fa-angle-down"></i></a> </p>
               </div>
-              <div id="collapseOne" class="panel-collapse collapse in show">
+              <div id="collapseOne" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <p class="large"> Soucieux de vouloir créer l’harmonie sociale de tout natif comorien résidant à Kenitra. Compte tenu de la nécessité d’avoir une structure associative au sein de la communauté estudiantine comorienne à Kenitra, sous la base du respect mutuel, de l’honneur, et de la dignité. L’ACEM (Association Comorienne des Etudiants au Maroc) a su mobiliser l’intérêt d’un vaste groupe des jeunes étudiant Comoriens au Maroc.</p>
+                  <p class="large"> Soucieux de vouloir créer l’harmonie sociale de tout natif comorien résidant à Kenitra. Compte tenu de la nécessité d’avoir une structure associative au sein de la communauté estudiantine comorienne à Kenitra,
+                    sous la base du respect mutuel, de l’honneur, et de la dignité. L’ACEM (Association Comorienne des Etudiants au Maroc) a su mobiliser l’intérêt d’un vaste groupe des jeunes étudiant Comoriens au Maroc.</p>
 
-                  <p class="large">En 2012, l’ACEM-Kenitra a accueilli la 10ème édition de la journée scientifique et culturelle de l’étudiant comorien au Maroc et puis en 2018 la 16ème édition. En 2017, l’ACEM-Kenitra a initié un colloque sur l’étudiant comorien au Maroc dont la première Edition est organisé à Kenitra du 02 au 3 sept 2017 sous le thème : «Le devenir de l’étudiant comorien au Maroc » à l’Université Ibn Tofail.
+                  <p class="large">En 2012, l’ACEM-SR Kenitra a accueilli la 10ème édition du Week-end Scientifique et Culturel de l’étudiant comorien au Maroc et puis en 2018 la 16ème édition.
+                    </br> En 2017, Cette dernière a initié le Colloque sur l’étudiant comorien au Maroc, ainsi a organisé la première Edition à Kenitra le 02 et 3 septembre 2017 sous le thème : «Le devenir de l’étudiant comorien au Maroc » à l’Université Ibn Tofail.
                   </p>
-                  <p class="large">Aujourd’hui l’ACEM-Kenitra a pu créer une harmonie au sein de la communauté comorienne au Royaume Chérifien du Maroc à Kenitra. Elle rassemble plus de 150 adhérents bénévoles résidants à Kenitra.
+                  <p class="large">Aujourd’hui l’ACEM-SR Kenitra a pu créer une harmonie au sein de la communauté comorienne au Royaume Chérifien du Maroc. Elle rassemble actuellement plus de 150 adhérents bénévoles résidants à Kenitra.
                   </p>
                 </div>
               </div>

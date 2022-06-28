@@ -1250,13 +1250,15 @@
        text-align: center;
     }
 	
-	.main_heading.text_align_right::after {
+	.main_heading.text_align_right::after,
+	.main_heading1.text_align_right::after {
        margin-right: auto;
     }
-	.main_heading.text_align_left::after {
+	.main_heading.text_align_left::after,
+	.main_heading1.text_align_left::after {
        margin-left: auto;
     }
-	.main_heading.text_align_left,.main_heading.text_align_right {
+	.main_heading.text_align_left,.main_heading.text_align_right,.main_heading1.text_align_left,.main_heading1.text_align_right {
        text-align: center;
     }
 	

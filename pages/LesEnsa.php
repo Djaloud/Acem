@@ -24,7 +24,7 @@
       <div class="col-lg-6 col-md-6 col-sm-12 about_cont_blog">
         <div class="full text_align_left">
           <h3>ENSA MAROC</h3>
-          <p>ENSA Maroc est un réseau des Écoles Nationales des Sciences Appliquées (ENSA) du Maroc.Il constitue le plus grand réseau des Écoles d'Ingénieurs du Maroc. En effet, ce réseau comprend 11 ENSA à travers le Royaume : <br>Agadir, Al Hoceima, El Jadida, Fès, Kenitra, Khouribga, Marrakech, Oujda, Safi, Tanger et Tétouan. Le Forum ENSA Maroc, organisé par les élèves ingénieurs de l'ENSA d'Agadir, constitue une première rencontre de haut niveau entre élèves ingénieurs, enseignants chercheurs et cadres administratifs du réseau des Écoles Nationales des Sciences Appliquées à travers le Royaume.ENSA Maroc a pour objectif de former des ingenieurs en :<br></p>
+          <p>ENSA Maroc est un réseau des Écoles Nationales des Sciences Appliquées (ENSA) du Maroc. Il constitue le plus grand réseau des Écoles d'Ingénieurs du Maroc. En effet, ce réseau comprend 11 ENSA à travers le Royaume : <br>Agadir, Al Hoceima, El Jadida, Fès, Kenitra, Khouribga, Marrakech, Oujda, Safi, Tanger et Tétouan. Le Forum ENSA Maroc, organisé par les élèves ingénieurs de l'ENSA d'Agadir, constitue une première rencontre de haut niveau entre élèves ingénieurs, enseignants chercheurs et cadres administratifs du réseau des Écoles Nationales des Sciences Appliquées à travers le Royaume.ENSA Maroc a pour objectif de former des ingenieurs en :<br></p>
           <ul>
             <li><i class="fa fa-check-circle"></i>Génie des systèmes de télécommunications et réseaux.</li>
             <li><i class="fa fa-check-circle"></i>Génie informatique.</li>
@@ -67,7 +67,7 @@
 
     <div class="row rowX">
 
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-5">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Agadir.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -77,7 +77,7 @@
         </div>
       </div>
 
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Marrakech.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -86,7 +86,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Oujda.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -95,12 +95,7 @@
           </div>
         </div>
       </div>
-
-
-    </div>
-
-    <div class="row rowX ">
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Tetouan.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -110,7 +105,10 @@
         </div>
       </div>
 
-      <div class="col-md-4 col-sm-6">
+    </div>
+
+    <div class="row rowX ">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Tanger.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -119,8 +117,15 @@
           </div>
         </div>
       </div>
-
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
+        <div class="full team_blog_colum1">
+          <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Khouribga.jpeg" alt="#"> </div>
+          <div class="team_feature_head">
+            <button type="button" class="btn btn-secondary"><a href="http://ensak.usms.ac.ma/ensak/" style="color: #fff;">Visiter le site</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Safi.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -129,20 +134,7 @@
           </div>
         </div>
       </div>
-    </div>
-
-
-    <div class="row rowX">
-      <div class="col-md-4 col-sm-6">
-        <div class="full team_blog_colum1">
-          <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Khouribga.jpeg" alt="#"> </div>
-          <div class="team_feature_head">
-            <button type="button" class="btn btn-secondary"><a href="http://ensak.usms.ac.ma/ensak/" style="color: #fff;">Visiter le site</a></button>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Alhoceima.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -151,8 +143,11 @@
           </div>
         </div>
       </div>
+    </div>
 
-      <div class="col-md-4 col-sm-6">
+    <div class="row rowX">
+
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Eljadida.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -161,10 +156,7 @@
           </div>
         </div>
       </div>
-    </div>
-
-    <div class="row rowX">
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Fes.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -173,8 +165,7 @@
           </div>
         </div>
       </div>
-
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Kenitra.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -183,8 +174,7 @@
           </div>
         </div>
       </div>
-
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Berchid.jpeg" alt="#"> </div>
           <div class="team_feature_head">
@@ -195,9 +185,8 @@
       </div>
     </div>
 
-
     <div class="row rowX">
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-3 col-sm-6">
         <div class="full team_blog_colum1">
           <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/ImageEnsa/Benimellal.jpeg" alt="#"> </div>
           <div class="team_feature_head">

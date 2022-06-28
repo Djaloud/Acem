@@ -11,6 +11,60 @@
 
 
 }
+
+/* ---------- POUR LES SECTION ---------- */
+
+.counterSection{
+    width: 125px;
+    height: 125px;
+    display: flex;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
+    font-size: 13px;
+    border-radius: 10%;
+    background-color: rgb(16, 13, 41);
+    border-bottom: 10px solid #098409;
+    box-shadow: 0 0 25px -17px #000;
+}
+
+.infoSection{
+    width: 300px;
+    height: 125px;
+    display: block;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0.5em;
+    position: relative;
+    font-size: 17px;
+    border-radius: 5%;
+    background-color: rgb(16, 13, 41);
+    border-bottom: 10px solid #098409;
+    box-shadow: 0 0 25px -17px #000;
+    text-align: left;
+    /* transition: translate(0, -20px);
+    transition-duration: 2s; */
+}
+
+.infoSection:hover,
+.counterSection:hover{
+    transform: scale(1.2);
+}
+.counterSection i{
+    color: #0caf0c;
+    font-size: 2.6em;
+    text-align: center;
+}
+
+/* ---------- POUR LES SECTION ---------- */
+
 .counter{
     width: 150px;
     height: 150px;
@@ -28,7 +82,7 @@
     border-bottom: 10px solid rgba(92, 239, 197, 0.866);
     box-shadow: 0 0 25px -17px #000;
 }
-.counter i{
+.counter i {
     color: rgba(92, 239, 197, 0.866);
     font-size: 2.5em;
     text-align: center;
@@ -50,11 +104,19 @@ span.text {
     font-weight: 400;
     line-height: 0;
 }
+
+/* ---------------- RESPONSIVE COUNTER ----------------- */
+
 @media screen and (max-widht: 1024px){
     .wrapper{
         width: 85vw;
     }
     .counter{
+        height:26vmin;
+        width: 26vmin;
+        font-size:12px;
+    }
+    .counterSection{
         height:26vmin;
         width: 26vmin;
         font-size:12px;
@@ -72,12 +134,22 @@ span.text {
         width: calc(50% - 40px);
         font-size:14px;
     }
+    .counterSection{
+        height:30vmin;
+        width: calc(50% - 40px);
+        font-size:14px;
+    }
 }
 @media screen and (max-widht: 480px){
     .wrapper{
         gap: 15px;
     }
     .counter{
+        height:25vmin;
+        width: 100%;
+        font-size:8px;
+    }
+    .counterSection{
         height:25vmin;
         width: 100%;
         font-size:8px;

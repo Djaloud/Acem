@@ -8,9 +8,9 @@
         <div class="full">
           <div class="title-holder">
             <div class="title-holder-cell text-left">
-              <h1 class="page-title">SECTION</h1>
+              <h1 class="page-title">Section Agadir</h1>
               <ol class="breadcrumb">
-                <li><a href="<?php echo URLROOT; ?>">Acceuil</a></li>
+                <li><a href="<?php echo URLROOT; ?>">Accueil</a></li>
                 <li class="active">Agadir</li>
               </ol>
             </div>
@@ -28,19 +28,30 @@
 <div class="section padding_layout_1">
   <div class="container">
 
-
-
     <div class="full margin_bottom_30">
       <div class="accordion border_circle">
-        <div class="info_section">
-          <i class="fa fa-users" aria-hidden="true"> Membres</i> : 41 (4 Sidifni) <br>
-          <a class="fa fa-instagram" href="https://www.instagram.com/acem_agadir/?hl=fr" title="Instagram ACEM" target="_blank"> acem_agadir</a> <br>
-          <i class="fa fa-envelope-o"> acemagadir@gmail.com</i>
+        <div class="info_section margin_bottom_5">
+
+          <!-- INFO SECTION -->
+          <div classe="wrapper mr-4 mb-4">
+            <div class="counterSection mr-3 mb-2">
+              <i class="bi bi-mortarboard-fill"></i>
+              <span class="num" data-val="41">000</span>
+              <span class="text mt-1">Etudiants </span>
+            </div>
+            <div class="infoSection mr-2">
+              <h4>Contacts :</h4>
+              <i class="bi bi-instagram"></i><a href="https://www.instagram.com/acem_agadir/?hl=fr" title="Instagram ACEM" target="_blank"> acem_agadir</a> <br>
+              <i class="bi bi-envelope-plus"></i><a href="mailto:acemagadir@gmail.com"> acemagadir@gmail.com</a>
+            </div>
+          </div>
+          <!-- END INFO SECTION -->
+
         </div>
         <div class="bs-example">
           <div class="panel-group" id="accordion">
             <div class="panel panel-default">
-              <div class="panel-heading">
+              <div class="panel-heading mt-3">
                 <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION D'AGADIR <i class="fa fa-angle-down"></i></a> </p>
               </div>
               <div id="collapseOne" class="panel-collapse collapse in">
@@ -48,9 +59,8 @@
                   <p class="large"> L’Association des Comoriens Etudiant au Maroc (ACEM) fut créée le 31 décembre
                     1981 à Casablanca, puis en suite une idée de décentralisation en section régionale
                     a vu le jour telle est le cas de la ville d’Agadir. En 2018 fut ouverte la section
-                    régionale d’Agadir dont elle a connu comme premier secrétaire général, Mr AMRI
-                    SALIM HOUMADI ; et en suite 3 autres étudiants ont brigué ce poste dont :</p>
-
+                    régionale d’Agadir dont elle a connu comme premier Secrétaire Général, <b>Mr Amri
+                      Salim Houmdi</b> ; et en suite 3 autres étudiants ont brigué ce poste dont :</p>
 
                   <table class="table" style="margin-top:20px;">
                     <thead>
@@ -95,11 +105,11 @@
                   </table>
 
 
-                  <p class="large"> A part les journées d’intégration qui est toujours faite, Deux activités ont été organisé sous le mandat de Mr Dhoubidane Said Boussry et sous le second mandat de Mr Amri Salim Houmadi à savoir :
+                  <p class="large"> A part les Journées d’intégration qui est toujours faite, deux(2) activités ont été organisé sous le mandat de Mr Dhoubidane Said Boussry et sous le second mandat de Mr Amri Salim Houmadi à savoir :
 
                   <ul style="margin-left: 10px;">
                     <li style="margin-top:10px;">
-                      <p><i class="fa fa-check-circle"></i> En 2018, la mini journée culturelle des comoriens d’Agadir.</p>
+                      <p><i class="fa fa-check-circle"></i> En 2018, la mini Journée Culturelle des comoriens d’Agadir.</p>
                     </li>
                     <li>
                       <p><i class="fa fa-check-circle"></i>En 2019, la mini journée culturelle des comoriens d’Agadir.</p>
@@ -127,7 +137,7 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sous-sections/Agadir/1.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>SECRETAIRE GENERAL<br>Tadjidine mohamed </h4>
+              <h4>SECRETAIRE GENERAL<br>Tadjidine Mohamed </h4>
               <button type="button" class="btn btn-primary"><a href="mailto:mohamedtadjidine97@gmail.com">Contacter</a></button>
             </div>
           </div>
@@ -147,7 +157,7 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sous-sections/Agadir/3.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CONTROLEUR GENERAL<br>FAHAMI BNI ILIASSA </h4>
+              <h4>CONTROLEUR GENERAL<br>Fahami Bni Illiassa </h4>
               <button type="button" class="btn btn-primary"><a href="mailto:bniilyassefahmi@gmail.com">Contacter</a></button>
             </div>
           </div>
@@ -166,7 +176,7 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sous-sections/Agadir/4.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>TRESORERIE GENERAL<br>Nadjida Ahamadi Soulaïmana </h4>
+              <h4>TRESORERIERE GENERALE<br>Nadjida Ahamadi Soulaïmana </h4>
               <button type="button" class="btn btn-primary"><a href="mailto:yuriskaynadjida@gmail.com">Contacter</a></button>
             </div>
           </div>

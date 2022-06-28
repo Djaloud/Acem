@@ -42,7 +42,7 @@
                 ainsi assure tous les étudiants étrangers au Maroc. L’assurance maladie concerne donc tous les étudiants
                 immatriculés à l’AMCI avec ou sans bourse. Pour les boursiers.... </p>
               <div class="bottom_info">
-                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo URLROOT; ?>/assets/docs/pdfs/ASSURANCE_MALADIE.pdf" target="_blank">En savoir plus<i class="fa fa-angle-right"></i></a></div>
+                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo URLROOT; ?>/pages/AcemfaQ#r2">En savoir plus<i class="fa fa-angle-right"></i></a></div>
               </div>
             </div>
           </div>
@@ -58,17 +58,17 @@
             <p>Wafa Assurance est une compagnie marocaine d'assurance qui fait partie du groupe Al Mada. Depuis 2008, l'entité est leader du secteur de l'assurance au Maroc et depuis 2014 dans le monde Arabe. Depuis décembre 2017, AL MADA est l'actionnaire majoritaire de Wafa Assurance</p>
           </div>
           <div class="side_bar_blog">
-            <h4>Liens utils </h4>
+            <h4>Fichiers utils </h4>
             <div class="recent_post">
               <ul>
                 <li>
-                  <p class="post_head">Comment bénéficier l'assurance Wafa-Assurance ?</p>
+                  <p class="post_head">Consulter les principales prestations de Finassure : </p>
                   <div class="bottom_info">
-                    <div class="pull-left"><a class="btn sqaure_bt" style="padding-block-end: 10px; padding-right:5px; padding-left:5px;" href="https://www.youtube.com/watch?v=OPvGhs0VYkA" target="_blank"> Visionner <i class="fa fa-play"></i></a></div>
+                    <div class="pull-left"><a class="btn sqaure_bt" style="padding-block-end: 10px; padding-right:5px; padding-left:5px;" href="<?php echo URLROOT; ?>/assets/docs/pdfs/Flyer.pdf" target="_blank"> Télécharger <i class="fa fa-download"></i></a></div>
                   </div>
                   <p class="post_date">
                     <i class="fa fa-calendar" aria-hidden="true"></i> 11 Février 2022 </br>
-                    <i class="fa fa-youtube" aria-hidden="true"></i> Vidéo
+                    <i class="bi bi-filetype-pdf"></i> pdf
                   </p>
                 </li>
 
@@ -79,7 +79,7 @@
                   </div>
                   <p class="post_date">
                     <i class="fa fa-calendar" aria-hidden="true"></i> 11 Avril 2022 </br>
-                    <i class="fa fa-file" aria-hidden="true"></i> Document
+                    <i class="bi bi-filetype-xls"></i> xls
                   </p>
                 </li>
 
@@ -90,7 +90,7 @@
                   </div>
                   <p class="post_date">
                     <i class="fa fa-calendar" aria-hidden="true"></i> 11 Avril 2022 </br>
-                    <i class="fa fa-file" aria-hidden="true"></i> Document
+                    <i class="bi bi-filetype-xlsx"></i> xlsx
                   </p>
                 </li>
 

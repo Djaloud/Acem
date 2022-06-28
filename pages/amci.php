@@ -55,27 +55,56 @@ require '../bootstrap.php';
           }
           if (!empty($ligne)) {
 
-            echo '<table  class="table table-bordered">';
-            echo '<tr class="bg-success"> <th>Nom et Prenom</th><th>Code</th></tr>';
-            echo "<tr>";
-            echo "<td>" . $ligne["nom_prenom"] . "</td>";
-            echo "<td>" . $ligne["cd1"] . " | " . $ligne["cd2"] . "</td>";
-            echo "</tr>";
-            echo "<tr>";
-            echo "<td>Suivez-nous sur les réseaux sociaux et abonnez-vous à nos pages.</td>";
-            echo '<td><li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="ACEM FAQ" target="_blank"></a></li>
-              <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram" target="_blank"></a></li> 
-              <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook" target="_blank"></a></li></td> ';
-            echo "</tr>";
+            echo '<table class="table table-bordered">
+                    <tr class="bg-success">
+                      <th>Nom et Prenom</th>
+                      <th>Code</th>
+                    </tr>
+                    <tr>
+                      <td>' . $ligne["nom_prenom"] . '</td>
+                      <td>' . $ligne["cd1"] . '|' . $ligne["cd2"] . '</td>
+                    </tr>
+                    <tr>
+                      <td> Suivez-nous sur les réseaux sociaux. </td>
+                      <td> 
+                        <ul class="list-inline">
+                          <li><a class="fa fa-facebook" href="https://www.facebook.com/acemmaroc" title="Facebook ACEM" target="_blank"></a></li>
+                          <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="Youtube ACEM" target="_blank"></a></li>
+                          <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"></a></li>
+                        </ul>
+                      </td>
+                    </tr>';
           } else {
-            echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n &apos; est pas diponible ou bien veuillez vérifier que c &apos; est le bon matricule .</h1>';
+            echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n &apos; est pas disponible ou bien veuillez vérifier que c &apos; est le bon matricule .</h1>';
           }
         }
         ?>
+        <!-- 
+        echo '<table class="table table-bordered">';
+          echo '<tr class="bg-success">
+            <th>Nom et Prenom</th>
+            <th>Code</th>
+          </tr>';
+          echo "<tr>";
+            echo "<td>" . $ligne["nom_prenom"] . "</td>";
+            echo "<td>" . $ligne["cd1"] . " | " . $ligne["cd2"] . "</td>";
+            echo "</tr>";
+          echo "<tr>";
+            echo "<td>Suivez-nous sur les réseaux sociaux et abonnez-vous à nos pages.</td>";
+            echo '<td>
+              <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="ACEM FAQ" target="_blank"></a></li>
+              <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram" target="_blank"></a></li>
+              <li><a class="fa fa-facebook" href="https://web.facebook.com/profile.php?id=100010335430962" title="Facebook" target="_blank"></a></li>
+            </td> ';
+            echo "</tr>";
+          } else {
+          echo '<h1 style="text-align:center;color:#63c76a;">Votre code de bourse n &apos; est pas disponible ou bien veuillez vérifier que c &apos; est le bon matricule .</h1>';
+          }
+          }
+          ?> -->
 
 
         </table>
-
       </div>
     </div>
   </div>

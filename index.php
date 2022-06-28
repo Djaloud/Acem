@@ -13,10 +13,10 @@
         </div>
         <div class="full" style="margin-top:5px;">
           <h3 class="border-bottom pres">MOT DU PRESIDENT </h3>
-          <p>Chers étudiants, chers partenaires, chers collaborateurs, chers membres ;</p>
-          <p>C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relever en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
+          <p class="pres">Chers étudiants, chers partenaires, chers collaborateurs, chers membres ;</p>
+          <p class="pres">C’est pour moi un immense honneur que de présider cette très belle association qui a pour devise Egalité-Fraternité-Excellence. Etre à la tête d’une association qui a 41 ans d’existence et d’histoire est à la fois un privilège et un défi de taille à relever en tant que responsable suprême. J’ai l’avantage de compter sur une équipe dynamique et active, et ensemble, mains dans les mains, nous allons relever les différents challenges de notre génération. </p>
 
-          <p>Nous comptons énormément sur les représentants actuels ainsi qu’aux futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
+          <p class="pres">Nous comptons énormément sur les représentants actuels ainsi qu’aux futurs pour l’amélioration continuelle de cette plateforme et pour la pérennité de cette noble famille afin que tout un chacun trouve satisfaction. Je vous remercie !
           </p>
 
 
@@ -55,7 +55,7 @@
                           </li>
                           <li>
                             </p>
-                            <p><i class="fa fa-check-circle"></i> Le Contrôleur Générale.
+                            <p><i class="fa fa-check-circle"></i> Le Contrôleur Général.
                           </li>
 
                         </ul>
@@ -69,12 +69,12 @@
                         </li>
                         </p>
                         <li>
-                          <p><i class="fa fa-check-circle"></i> Comité Elargi : constitué du Président, du VP, du Coordinateur ainsi qu’aux SG des différentes S.R ;
+                          <p><i class="fa fa-check-circle"></i> Comité Elargi : constitué du Président, du Vice-Président (V.P), du Coordinateur ainsi qu’aux SG des différentes Sections Régionales ;
                         </li>
                         </p>
 
                         <li>
-                          <p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice-Président (V.P) et du Commissaire aux comptes (C.C) ;
+                          <p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice-Président (V.P) et du Commissaire aux Comptes (C.C) ;
                         </li>
                         </p>
                         <li>
@@ -144,7 +144,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="full ">
-          <div class="main_heading text_align_center">
+          <div class="main_heading1 text_align_center">
             <h2>NOTRE DEVISE</h2>
           </div>
         </div>
@@ -191,9 +191,9 @@
         <div class="row">
           <div class="col-md-12">
             <div class="full">
-              <div class="main_heading text_align_center">
-                <h2>MEMBRES DU BUREAU EXECUTIF DE L'A.C.E.M</h2>
-                <p class="large">Une équipe dynamique pour un très bon futur </p>
+              <div class="main_heading1 text_align_center">
+                <h2>Membres du Bureau Execitif de l'A.C.E.M</h2>
+                <p class="large-center">Une équipe dynamique pour un très bon futur </p>
               </div>
             </div>
           </div>
@@ -249,7 +249,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="full">
-            <div class="main_heading text_align_left">
+            <div class="main_heading1 text_align_left">
               <h2>Quelques Evenements</h2>
             </div>
           </div>
@@ -263,10 +263,10 @@
               <p><i class="fa fa-clock-o"></i> Le 16 Decembre 2020</p>
             </div>
             <div class="blog_feature_head">
-              <h4>Premier anniversaire du consulat General </h4>
+              <h4>Premier anniversaire du Consulat Général à Laâyoune </h4>
             </div>
             <div class="blog_feature_cont">
-              <p> Cette manifestation se decline sous forme de webinaire auquel prennent part des personnalités politiques , des associations et des entrepreneurs.</p>
+              <p> Cette manifestation se décline sous forme de webinaire auquel prennent part des personnalités politiques , des associations et des entrepreneurs.</p>
             </div>
           </div>
         </div>
@@ -277,10 +277,10 @@
               <p><i class="fa fa-clock-o"></i> Le 17 Novembre 2021</p>
             </div>
             <div class="blog_feature_head">
-              <h4>Journée internationale de l'Etudiant</h4>
+              <h4>Journée Internationale de l'Etudiant</h4>
             </div>
             <div class="blog_feature_cont">
-              <p>A l'occasion de la journée internationale de l'Etudiant; l'ACEM, à travers son bureau exécutif, souhaite un excellent parcours académique à tous ses membres. Elle saisit de cette même opportunité pour réitérer sa volonté d'accompagner inlassablement les étudiants Comoriens dans leurs démarches administratives, académiques et autres.
+              <p>A l'occasion de la Journée Internationale de l'Etudiant ; l'ACEM, à travers son Bureau Exécutif, souhaite un excellent parcours académique à tous ses membres. Elle saisit de cette même opportunité pour réitérer sa volonté d'accompagner inlassablement les étudiants Comoriens dans leurs démarches administratives, académiques et autres.
                 Cordialement !</p>
             </div>
           </div>
@@ -289,10 +289,10 @@
           <div class="full blog_colum">
             <div class="blog_feature_img"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/Housni_MOHAMED_ABDOU.jpeg" alt="#" /> </div>
             <div class="post_time">
-              <p><i class="fa fa-clock-o"></i> LUNDI 26 OCTOBRE 2020</p>
+              <p><i class="fa fa-clock-o"></i> Le 26 Octobre 2020</p>
             </div>
             <div class="blog_feature_head">
-              <h4>Inauguration de l'ambassade des comores à Rabat</h4>
+              <h4>Inauguration de l'Ambassade de l'Union des Comores à Rabat</h4>
             </div>
             <div class="blog_feature_cont">
               <p>Rabat, (MAEC) - L'Ambassade de l’Union des Comores au Maroc a été inaugurée, lundi 26 octobre, lors d’une cérémonie organisée à Rabat.
