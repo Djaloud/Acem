@@ -64,14 +64,13 @@ require '../bootstrap.php';
                       <td>' . $ligne["nom_prenom"] . '</td>
                       <td>' . $ligne["cd1"] . '|' . $ligne["cd2"] . '</td>
                     </tr>
-                    <tr>
+                    <tr class="list-inline">
                       <td> Suivez-nous sur les réseaux sociaux. </td>
-                      <td> 
-                        <ul class="list-inline">
-                          <li><a class="fa fa-facebook" href="https://www.facebook.com/acemmaroc" title="Facebook ACEM" target="_blank"></a></li>
-                          <li><a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="Youtube ACEM" target="_blank"></a></li>
-                          <li><a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"></a></li>
-                        </ul>
+                      <td>
+                        <li><a class="fa fa-facebook" href="https://www.facebook.com/acemmaroc" title="Facebook ACEM" target="_blank"></a>
+                          <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw" title="Youtube ACEM" target="_blank"></a>
+                          <a class="fa fa-instagram" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"></a>
+                        </li>
                       </td>
                     </tr>';
           } else {

@@ -5143,7 +5143,15 @@ footer ul.social_icons {
 	opacity:0;
 
 }
-
+.list-inline{
+    font-size: 18px;
+	color: #098409;
+	line-height: 20px;
+	text-align:center;
+}
+.list-inline li>a{
+	color: #098409;
+}
 /* .event a:hover span.event-date{
 	opacity:0;
 	transition-duration: 2s;
