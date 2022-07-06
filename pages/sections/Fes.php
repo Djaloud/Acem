@@ -36,6 +36,10 @@
               <span class="num" data-val="150">000</span>
               <span class="text mt-1">Etudiants </span>
             </div>
+            <div class="counterSection mr-3 mb-2">
+              <i class="bi bi-building"></i>
+              <a class="text" href="http://www.usmba.ac.ma" target="_blank"><span class="mt-1">Université Sidi Mohammed Ben Abdellah</span></a>
+            </div>
             <div class="infoSection mr-2">
               <h4>Contacts :</h4>
               <i class="bi bi-instagram"></i><a href="https://www.instagram.com/acem_fes/?hl=fr" title="Instagram ACEM" target="_blank"> acem_fes</a> <br>

@@ -99,7 +99,7 @@
     <div class="header_bottom">
       <div class="container">
         <div class="row">
-          <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+          <div class="col-lg-1 col-md-12 col-sm-12 col-xs-12">
             <!-- logo start -->
             <div class="logo"> <a href="<?php echo URLROOT; ?>"><img src="<?php echo URLROOT; ?>/assets/images/acem-logo.png" alt="logo" /></a>
 
@@ -107,7 +107,7 @@
 
             <!-- logo end -->
           </div>
-          <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+          <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12">
             <!-- menu start -->
             <div class="menu_side">
               <div id="navbar_menu">
@@ -137,7 +137,7 @@
 
                   <li> <a href="#"><i class="bi bi-mortarboard"></i> Vies estudiantines</a>
                     <ul>
-                      <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank">Enseignement supérieur</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/EnsSup">Enseignement supérieur</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa">ENSA</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/amci.php">Bourse AMCI</a></li>
                       <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
@@ -147,6 +147,12 @@
                     <ul>
                       <li><a href="http://acemtech.org/" target="_blank">ACEM Tech</a></li>
                       <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM FaQ</a> </li>
+                    </ul>
+                  </li>
+                  <li> <a href="#"><i class="bi bi-ui-radios"></i> Activités</a>
+                    <ul>
+                      <li><a href="http://acemtech.org/wsc-marrakech-2022/" target="_blank">Weekend Scientifique & Culturel</a></li>
+                      <li><a href="">Colloque</a></li>
                     </ul>
                   </li>
                   <li> <a href="#"><i class="bi bi-bookshelf"></i> Bibliothèque</a>

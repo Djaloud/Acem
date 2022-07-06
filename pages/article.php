@@ -11,15 +11,14 @@
           <div class="blog_feature_cont">
             <p style="font-size:19px;">Nous, élèves, étudiants et stagiaires comoriens au Maroc:<br></p>
           </div>
-          <ul>
-            <li><i class="fa fa-check-circle"></i>- Considérant les problèmes et les difficultés que nous rencontrons ;</li>
-            <li><i class="fa fa-check-circle"></i>- Considérant le nombre croissant des comoriens étudiant <strike>et le manque d’une mission diplomatique permanente comorienne au Maroc </strike>;</li>
-            <li><i class="fa fa-check-circle"></i>- Conscients des potentialités intellectuelles et culturelles dont recèle la communauté comorienne ;</li>
-            <li><i class="fa fa-check-circle"></i>- Considérant la nécessité d’une action commune efficace qui puisse impliquer les processus de développement intellectuel de notre communauté ;</li>
-            <li><i class="fa fa-check-circle"></i>- Convaincus de la nécessité d’une organisation pour la défense des intérêts matériaux et moraux de notre communauté ;</li>
-            <li><i class="fa fa-check-circle"></i>- Vu le Dahir n° 1-58-376 du 3 Joumada 1375 correspondant au 15 Novembre 1958 règlementant le droit d’association tel qu’il a été modifié et complété par le Dahir portant loi n° 1 :73 :283 du 6 Rabia 1-1393(10 Avril 1973) et le Dahir portant loi n° 75-00 -206 du 12 Joumada 1-1423 promulguée le 23 Juillet 2002 ;</li>
-            <li>Avons décidé à la suite de l’Assemblée Générale tenue le 31/12/1981 à Casablanca la création d’une association dont les buts et les objectifs sont définis dans les présents statuts révisés le 28 Août 2016.</li>
-
+          <ul class="none">
+            <li> - Considérant les problèmes et les difficultés que nous rencontrons ;</li>
+            <li> - Considérant le nombre croissant des comoriens étudiant <strike>et le manque d’une mission diplomatique permanente comorienne au Maroc </strike>;</li>
+            <li> - Conscients des potentialités intellectuelles et culturelles dont recèle la communauté comorienne ;</li>
+            <li> - Considérant la nécessité d’une action commune efficace qui puisse impliquer les processus de développement intellectuel de notre communauté ;</li>
+            <li> - Convaincus de la nécessité d’une organisation pour la défense des intérêts matériaux et moraux de notre communauté ;</li>
+            <li> - Vu le Dahir n° 1-58-376 du 3 Joumada 1375 correspondant au 15 Novembre 1958 règlementant le droit d’association tel qu’il a été modifié et complété par le Dahir portant loi n° 1 :73 :283 du 6 Rabia 1-1393(10 Avril 1973) et le Dahir portant loi n° 75-00 -206 du 12 Joumada 1-1423 promulguée le 23 Juillet 2002 ;</li>
+            <li>Avons décidé à la suite de l’Assemblée Générale tenue le <b>31 Décembre 1981</b> à <b>Casablanca</b> la création d’une association dont les buts et les objectifs sont définis dans les présents statuts révisés le <b>28 Août 2016</b>.</li>
 
           </ul>
         </div>

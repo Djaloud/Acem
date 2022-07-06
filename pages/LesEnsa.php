@@ -8,7 +8,10 @@
           <div class="title-holder">
             <div class="title-holder-cell text-left">
               <h1 class="page-title1">Ecole Nationale des Sciences Appliquées</h1>
-
+              <ol class="breadcrumb">
+                <li><a href="<?php echo URLROOT; ?>">Vies estudiantines</a></li>
+                <li class="breadcrumb-item" aria-current="page">ENSA</li>
+              </ol>
             </div>
           </div>
         </div>
@@ -26,14 +29,14 @@
           <h3>ENSA MAROC</h3>
           <p>ENSA Maroc est un réseau des Écoles Nationales des Sciences Appliquées (ENSA) du Maroc. Il constitue le plus grand réseau des Écoles d'Ingénieurs du Maroc. En effet, ce réseau comprend 11 ENSA à travers le Royaume : <br>Agadir, Al Hoceima, El Jadida, Fès, Kenitra, Khouribga, Marrakech, Oujda, Safi, Tanger et Tétouan. Le Forum ENSA Maroc, organisé par les élèves ingénieurs de l'ENSA d'Agadir, constitue une première rencontre de haut niveau entre élèves ingénieurs, enseignants chercheurs et cadres administratifs du réseau des Écoles Nationales des Sciences Appliquées à travers le Royaume.ENSA Maroc a pour objectif de former des ingenieurs en :<br></p>
           <ul>
-            <li><i class="fa fa-check-circle"></i>Génie des systèmes de télécommunications et réseaux.</li>
-            <li><i class="fa fa-check-circle"></i>Génie informatique.</li>
-            <li><i class="fa fa-check-circle"></i>Génie des systèmes électroniques et automatique.</li>
-            <li><i class="fa fa-check-circle"></i>Génie industriel et logistique.</li>
-            <li><i class="fa fa-check-circle"></i>Génie des systèmes électroniques et automatique.</li>
-            <li><i class="fa fa-check-circle"></i>Génie Eco-Énergétique et Environnement Industriel.</li>
-            <li><i class="fa fa-check-circle"></i>Génie électrique.</li>
-            <li><i class="fa fa-check-circle"></i>Génie civil.</li>
+            <li>Génie des systèmes de télécommunications et réseaux.</li>
+            <li>Génie informatique.</li>
+            <li>Génie des systèmes électroniques et automatique.</li>
+            <li>Génie industriel et logistique.</li>
+            <li>Génie des systèmes électroniques et automatique.</li>
+            <li>Génie Eco-Énergétique et Environnement Industriel.</li>
+            <li>Génie électrique.</li>
+            <li>Génie civil.</li>
 
           </ul>
         </div>
@@ -49,7 +52,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="full">
-          <div class="main_heading1 text_align_center">
+          <div class="main_heading text_align_center">
             <p class="large">
             <h3>Ecole Nationales des Sciences Appliquées Au Maroc.<h3>
                 </p>

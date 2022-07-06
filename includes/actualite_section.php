@@ -29,9 +29,9 @@
                 <div class="carousel-inner">
                   <div class="carousel-item active">
                     <div class="testimonial-container">
-                      <div class="testimonial-content ml-2"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#fff;" target="_blank">L’Association des Comoriens Etudiant au Maroc, vous ouvre les portes de son univers à travers ce compte YouTube..</a> </div>
-                      <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/acem.jpg" class="img-responsive" alt="#" width="10%" height="10%"> </div>
-                      <div class="testimonial-meta ml-2">
+                      <div class="testimonial-content ml-4"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-germany-2021-bachelors-and-masters-degree-program-at-university-of-stuttgart/" style="color:#fff;" target="_blank">L’Association des Comoriens Etudiant au Maroc, vous ouvre les portes de son univers à travers ce compte YouTube..</a> </div>
+                      <div class="testimonial-photo ml-3"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/acem.jpg" class="img-responsive" alt="#" width="10%" height="10%"> </div>
+                      <div class="testimonial-meta ml-4">
                         <h4>11 fevrier 2022</h4>
                         <span class="testimonial-position"><a href="https://www.youtube.com/channel/UCMOQ_y1cG15Trx3aznd-uYw/featured" style="color:#ffcccc;" target="_blank">En savoir plus.</a></span>
                       </div>
@@ -40,9 +40,9 @@
 
                   <div class="carousel-item ">
                     <div class="testimonial-container">
-                      <div class="testimonial-content ml-2"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color: #fff;" target="_blank">Bourse de Recherche Zurich 2021: Programme postdoctoral à l'Ecole polytechnique fédérale de Zurich.</a> </div>
-                      <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-suisse.png" class="img-responsive" alt="#" width="150" height="150"> </div>
-                      <div class="testimonial-meta ml-2">
+                      <div class="testimonial-content ml-4"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color: #fff;" target="_blank">Bourse de Recherche Zurich 2021: Programme postdoctoral à l'Ecole polytechnique fédérale de Zurich.</a> </div>
+                      <div class="testimonial-photo ml-3"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-suisse.png" class="img-responsive" alt="#" width="150" height="150"> </div>
+                      <div class="testimonial-meta ml-4">
                         <h4>7 janvier 2021</h4>
                         <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-de-recherche-zurich-2021-postdoctoral-program-at-swiss-federal-institute-of-technology-zurich/" style="color: #ffcccc;" target="_blank">En savoir plus.</a></span>
                       </div>
@@ -51,9 +51,9 @@
 
                   <div class="carousel-item ">
                     <div class="testimonial-container">
-                      <div class="testimonial-content ml-2"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #fff;" target="_blank">Bourse d’études Belgique 2021: </br>Masters et formations à la Fédération Wallonie-Bruxelles.</a> </div>
-                      <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-belgique.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
-                      <div class="testimonial-meta ml-2">
+                      <div class="testimonial-content ml-4"> <a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #fff;" target="_blank">Bourse d’études Belgique 2021: </br>Masters et formations à la Fédération Wallonie-Bruxelles.</a> </div>
+                      <div class="testimonial-photo ml-3"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/bourse-belgique.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                      <div class="testimonial-meta ml-4">
                         <h4>7 janvier 2021</h4>
                         <span class="testimonial-position"><a href="https://www.bourses-etudiants.ma/bourse/bourse-detudes-belgium-2021-masters-and-training-programmes-at-the-federation-wallonia-brussels/ " style="color: #ffcccc;" target="_blank">En savoir plus.</a></span>
                       </div>
@@ -62,9 +62,9 @@
 
                   <div class="carousel-item ">
                     <div class="testimonial-container ">
-                      <div class="testimonial-content ml-2"> <a href="https://youtu.be/U9Tjxv0EJII" style="color: #fff;" target="_blank">L'Artiste Awax-Victorious a sortie un freestyle KOMORIEN "Mchinda Freestyle" à l'occasion de la fête de la musique.</a> </div>
-                      <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/Awax.jpeg" class="img-responsive" alt="#" width="150" height="150"> </div>
-                      <div class="testimonial-meta ml-2">
+                      <div class="testimonial-content ml-4"> <a href="https://youtu.be/U9Tjxv0EJII" style="color: #fff;" target="_blank">L'Artiste Awax-Victorious a sortie un freestyle KOMORIEN "Mchinda Freestyle" à l'occasion de la fête de la musique.</a> </div>
+                      <div class="testimonial-photo ml-3"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/Awax.jpeg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                      <div class="testimonial-meta ml-4">
                         <h4>24 juin 2022</h4>
                         <span class="testimonial-position"><a href="https://youtu.be/U9Tjxv0EJII " style="color: #ffcccc;" target="_blank">Visionner .</a></span>
                       </div>
@@ -73,9 +73,9 @@
 
                   <div class="carousel-item ">
                     <div class="testimonial-container ">
-                      <div class="testimonial-content ml-2"> <a href="" style="color: #fff;" target="_blank">L'ACEM SR Mohammedia organise "Un Bal Masqué" le 17 Juillet 2022.</br>Entrée : 100dh</a> </div>
-                      <div class="testimonial-photo"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/balMasqué.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
-                      <div class="testimonial-meta ml-2">
+                      <div class="testimonial-content ml-4"> <a href="" style="color: #fff;" target="_blank">L'ACEM SR Mohammedia organise "Un Bal Masqué" le 17 Juillet 2022.</br>Entrée : 100dh</a> </div>
+                      <div class="testimonial-photo ml-3"> <img src="<?php echo URLROOT; ?>/assets/images/it_service/balMasqué.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                      <div class="testimonial-meta ml-4">
                         <h4>25 juin 2022</h4>
                         <span class="testimonial-position"><a href="https://youtu.be/U9Tjxv0EJII " style="color: #ffcccc;" target="_blank">Acheter votre billet .</a></span>
                       </div>

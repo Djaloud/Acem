@@ -40,6 +40,10 @@
               <span class="num" data-val="24">000</span>
               <span class="text mt-1">Etudiants</span>
             </div>
+            <div class="counterSection mr-3 mb-2">
+              <i class="bi bi-building"></i>
+              <a class="text" href="http://www.uae.ac.ma" target="_blank"><span class="mt-1">Université Abdelmalek Essaadi</span></a>
+            </div>
             <div class="infoSection mr-2">
               <h4>Contacts :</h4>
               <i class="bi bi-instagram"></i><a href="https://www.instagram.com/acemtantet/?hl=fr" title="Instagram ACEM" target="_blank"> acemtantet</a> <br>

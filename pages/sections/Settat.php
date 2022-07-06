@@ -37,6 +37,10 @@
               <span class="num" data-val="44">000</span>
               <span class="text mt-1">Etudiants </span>
             </div>
+            <div class="counterSection mr-3 mb-2">
+              <i class="bi bi-building"></i>
+              <a class="text" href="http://www.uh1.ac.ma" target="_blank"><span class="mt-1">Université Hassan Premier</span></a>
+            </div>
             <div class="infoSection mr-2">
               <h4>Contacts :</h4>
               <i class="bi bi-instagram"></i><a href="https://www.instagram.com/acem_settat/?hl=fr" title="Instagram ACEM" target="_blank"> acem_settat</a> <br>
