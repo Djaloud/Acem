@@ -33,7 +33,7 @@
           </div>
           <ul class="footer-menu">
             <li><a href="<?php echo URLROOT; ?>/pages/article.php"><i class="fa fa-angle-right"></i> Articles</a></li>
-            <li><a href="<?php echo URLROOT; ?>/pages/document.php"><i class="fa fa-angle-right"></i> Documents</a></li>
+            <li><a href="<?php echo URLROOT; ?>/pages/documents.php"><i class="fa fa-angle-right"></i> Documents</a></li>
           </ul>
         </div>
         <div class="col-md-3 ">
