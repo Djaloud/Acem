@@ -114,39 +114,39 @@
                 <ul class="first-ul">
 
                   <li> <a href="<?php echo URLROOT; ?>"><i class="bi bi-house-door-fill"></i> Accueil</a> </li>
-                  <li> <a href="<?php echo URLROOT; ?>/pages/comite"><i class="bi bi-people"></i> C.Scientifique</a> </li>
+                  <li> <a href="<?php echo URLROOT; ?>/comite"><i class="bi bi-people"></i> C.Scientifique</a> </li>
 
                   <li><a href="#"><i class="bi bi-inboxes"></i> Sections</a>
                     <ul>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir">Agadir</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca">Casablanca </a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Eljadida">El jadida</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Fes">Fès</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Kenitra">Kenitra </a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Marrakech">Marrakech</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Meknes">Meknès</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Mohamedia">Mohammedia </a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Oujda">Oujda </a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Rabat_sale">Rabat-Salé</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Settat">Settat</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tanger">Tanger</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tetouan">Tétouan</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Agadir">Agadir</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Casablanca">Casablanca </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Eljadida">El jadida</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Fes">Fès</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Kenitra">Kenitra </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Marrakech">Marrakech</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Meknes">Meknès</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Mohamedia">Mohammedia </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Oujda">Oujda </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Rabat_sale">Rabat-Salé</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Settat">Settat</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Tanger">Tanger</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/sections/Tetouan">Tétouan</a></li>
                     </ul>
                   </li>
 
 
                   <li> <a href="#"><i class="bi bi-mortarboard"></i> Vies estudiantines</a>
                     <ul>
-                      <li><a href="<?php echo URLROOT; ?>/pages/EnsSup">Enseignement supérieur</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa">ENSA</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/amci.php">Bourse AMCI</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/EnsSup">Enseignement supérieur</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/LesEnsa">ENSA</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/amci.php">Bourse AMCI</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/assurance">Assurance AMCI</a></li>
                     </ul>
                   </li>
                   <li> <a href="#"><i class="bi bi-diagram-2"></i> Annexes</a>
                     <ul>
                       <li><a href="http://acemtech.org/" target="_blank">ACEM Tech</a></li>
-                      <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM FaQ</a> </li>
+                      <li> <a href="<?php echo URLROOT; ?>/AcemfaQ">ACEM FaQ</a> </li>
                     </ul>
                   </li>
                   <li> <a href="#"><i class="bi bi-ui-radios"></i> Activités</a>
@@ -157,8 +157,8 @@
                   </li>
                   <li> <a href="#"><i class="bi bi-bookshelf"></i> Bibliothèque</a>
                     <ul>
-                      <li><a href="<?php echo URLROOT; ?>/pages/article">Articles Statut</a></li>
-                      <li><a href="<?php echo URLROOT; ?>/pages/documents">Documents</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/article">Articles Statut</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/documents">Documents</a></li>
                     </ul>
                   </li>
                 </ul>

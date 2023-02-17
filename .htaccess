@@ -1,7 +1,12 @@
 # Hiding '.php' from url
+
+
 RewriteEngine On
+RewriteBase /Acem
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ pages/$1.php [NC,L] 
 
 # Hiding '.html' from url
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
