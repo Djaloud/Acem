@@ -8,10 +8,10 @@
         <div class="full">
           <div class="title-holder">
             <div class="title-holder-cell text-left">
-              <h1 class="page-title">Section Tétouan</h1>
+              <h1 class="page-title">Section Béni Mellal</h1>
               <ol class="breadcrumb">
                 <li><a href="<?php echo URLROOT; ?>">Accueil</a></li>
-                <li class="active">Tétouan</li>
+                <li class="active">Béni Mellal</li>
               </ol>
             </div>
           </div>
@@ -34,7 +34,7 @@
         <div class="info_section">
 
           <!-- INFO SECTION -->
-          <div classe="wrapper mr-4 mb-4">
+          <!-- <div classe="wrapper mr-4 mb-4">
             <div class="counterSection mr-3 mb-2">
               <i class="bi bi-mortarboard-fill"></i>
               <span class="num" data-val="24">000</span>
@@ -49,7 +49,7 @@
               <i class="bi bi-instagram"></i><a href="https://www.instagram.com/acemtantet/?hl=fr" title="Instagram ACEM" target="_blank"> acemtantet</a> <br>
               <i class="bi bi-envelope-plus"></i><a href="mailto:acem.tetouan@gmail.com"> acem.tetouan@gmail.com</a>
             </div>
-          </div>
+          </div> -->
           <!-- END INFO SECTION -->
 
         </div>
@@ -57,7 +57,7 @@
           <div class="panel-group" id="accordion">
             <div class="panel panel-default">
               <div class="panel-heading mt-3">
-                <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION DE TÉTOUAN <i class="fa fa-angle-down"></i></a> </p>
+                <p class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">HISTORIQUE DE LA SECTION DE Béni Mellal <i class="fa fa-angle-down"></i></a> </p>
               </div>
               <div id="collapseOne" class="panel-collapse collapse in">
                 <div class="panel-body">
@@ -82,28 +82,28 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>SECRETAIRE GENERAL<br>Taoufik Mohamed OUSSEINI SABITI</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:taoufikmhd2019@gmail.com">Contacter</a></button>
+              <h4>SECRETAIRE GENERAL<br>Fouad Ibrahim Abdou Amir</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:fouadibramih@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
 
-        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SOCIO-CULTUREL<br>Anlime Mohamed</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:mohamedanlime@gmail.com">Contacter</a></button>
+              <h4>CHARGE SOCIO-CULTUREL<br></h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:#">Contacter</a></button>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/4.PNG" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>TRESORERIE GENERAL<br>Wahid Mohamed Ali</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:whdmohamedali@gmail.com">Contacter</a></button>
+              <h4>TRESORERIE GENERAL<br>Riama Sayiri Darmine</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:riamasayirid@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
@@ -118,8 +118,8 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CONTROLEUR GENERAL<br>Djamal moussa</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:moussadjamal51@gmail.com">Contacter</a></button>
+              <h4>CONTROLEUR GENERAL<br>ADABI SOILIHI ABDOULKARIM </h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:abdoulkarimsoilihi2@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
@@ -128,8 +128,8 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SPORTIF<br>Soilahoudine Mohamed</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:ammarmed333@gmail.com">Contacter</a></button>
+              <h4>CHARGE SPORTIF<br>ZAYAD SALIM</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:zayadsalim26@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
@@ -138,7 +138,7 @@
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SPORTIF ET COMMUNICATION<br></h4>
+              <h4>CHARGE DE LA COMMUNICATION<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:#">Contacter</a></button>
             </div>
           </div>

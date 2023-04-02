@@ -92,10 +92,10 @@
 
 
     <div class="row rowX">
-      <!--- deuxieme ligne-->
+      <!--- premiere ligne-->
       <div class="row">
 
-        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Meknes/Charfia_Mohamed.jpg" alt="#"> </div>
             <div class="team_feature_head">
@@ -103,9 +103,9 @@
               <button type="button" class="btn btn-primary"><a href="mailto:Charfiacheikh99@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Meknes/Ali_Mfoihaya.jpeg" alt="#"> </div>
             <div class="team_feature_head">
@@ -113,9 +113,9 @@
               <button type="button" class="btn btn-primary"><a href="mailto:alimfoihayadjaoid@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Meknes/Saïd_rannia.jpeg" alt="#"> </div>
             <div class="team_feature_head">
@@ -123,7 +123,7 @@
               <button type="button" class="btn btn-primary"><a href="mailto:rannia140699@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </div>
@@ -134,7 +134,7 @@
       <!--- deuxieme ligne-->
       <div class="row">
 
-        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Meknes/Ali_kole.jpg" alt="#"> </div>
             <div class="team_feature_head">
@@ -142,17 +142,27 @@
               <button type="button" class="btn btn-primary"><a href="mailto:Saidnasur3459@gmail.com ">Contacter</a></button>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-md-4 col-sm-6">
+        <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
             <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Meknes/Hatem_Mohamed.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SPORTIF ET COMMUNICATION<br>Hatem Mohamed Ali </h4>
+              <h4>CHARGE SPORTIF<br>Hatem Mohamed Ali </h4>
               <button type="button" class="btn btn-primary"><a href="mailto:hatemohamed01@gmail.com ">Contacter</a></button>
             </div>
           </div>
-        </div>
+        </div> -->
+
+        <!-- <div class="col-md-4 col-sm-6">
+          <div class="full team_blog_colum">
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Meknes/Hatem_Mohamed.jpg" alt="#"> </div>
+            <div class="team_feature_head">
+              <h4>CHARGE DE LA COMMUNICATION<br>Hatem Mohamed Ali </h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:hatemohamed01@gmail.com ">Contacter</a></button>
+            </div>
+          </div>
+        </div> -->
 
 
       </div>
