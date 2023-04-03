@@ -77,7 +77,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/jadida/1.png" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERAL<br>SAIDOU MIRADJI</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:saidoumiradji40@gmail.com">Contacter</a></button>
@@ -87,7 +87,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/2.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/jadida/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SOCIO-CULTUREL<br>Anass Ibrahim</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:zannoun269@gmail.com">Contacter</a></button>
@@ -97,7 +97,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/3.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/jadida/3.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERAL<br>Toihir Mohamed Toihir Djamalilail</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:mohatoihir26@gmail.com">Contacter</a></button>
@@ -116,7 +116,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/jadida/4.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>TRESORIER GENERAL<br>Rouchd Hassani</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:rouchdhassani@gmail.com">Contacter</a></button>
@@ -126,7 +126,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/jadida/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SPORTIF<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -136,7 +136,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/jadida/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/jadida/6.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGEE DE LA COMMUNICATION<br>Chakira Ali Mze Madjidat</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:chakiramadjidat@gmail.com">Contacter</a></button>

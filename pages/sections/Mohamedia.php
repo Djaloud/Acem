@@ -77,7 +77,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/mohammedia/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERAL<br>Aboubacar Nassim</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:nassimaboubacar@gmail.com">Contacter</a></button>
@@ -87,7 +87,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/2.png" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/mohammedia/2.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGEE SOCIO-CULTURELLE<br>Mchangama Rifouanti</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:rifouanti72@gmail.com">Contacter</a></button>
@@ -97,7 +97,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/3.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/mohammedia/3.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERAL<br>Kassim bacar</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:kassimzell8@gmail.com">Contacter</a></button>
@@ -116,7 +116,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/mohammedia/4.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>TRESORIERE GENERALE<br>Ahamada Maoulida</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:maoulidaahamada310@gmail.com">Contacter</a></button>
@@ -126,7 +126,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/mohammedia/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SPORTIF<br>Abdou Assoumani Soufiane</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:Jakobathoumani@gmail.com">Contacter</a></button>
@@ -136,7 +136,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/mohammedia/6.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/mohammedia/6.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE DE LA COMMUNICATION<br>SOILAHOU SAID</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ridjali.saidsoilahou@gmail.com">Contacter</a></button>

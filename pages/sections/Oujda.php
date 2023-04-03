@@ -77,7 +77,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/oujda/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERAL<br>Bacari Azad</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ziazad.94@gmail.com">Contacter</a></button>
@@ -87,7 +87,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/oujda/2.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGEE SOCIO-CULTURELLE<br>Hidjirati Anli</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ahidjrati@gmail.com">Contacter</a></button>
@@ -97,7 +97,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/oujda/3.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/3.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERAL<br>Kamardine Mohamed Radjay</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:kamardinemohamedradjay1@gmail.com">Contacter</a></button>
@@ -116,7 +116,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/oujda/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/4.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>TRESORERIE GENERAL<br>Ahmed Binti Houdjrat</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ahmedbintihoudjrat@gmail.com">Contacter</a></button>
@@ -126,7 +126,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/oujda/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SPORTIF<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -136,7 +136,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/oujda/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE DE LA COMMUNICATION<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>

@@ -80,7 +80,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/beni_mellal/1.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERAL<br>Fouad Ibrahim Abdou Amir</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:fouadibramih@gmail.com">Contacter</a></button>
@@ -90,7 +90,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/2.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/beni_mellal/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SOCIO-CULTUREL<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:#">Contacter</a></button>
@@ -100,23 +100,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/4.PNG" alt="#"> </div>
-            <div class="team_feature_head">
-              <h4>TRESORERIE GENERAL<br>Riama Sayiri Darmine</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:riamasayirid@gmail.com">Contacter</a></button>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row rowX">
-      <!--- deuxieme ligne-->
-      <div class="row">
-
-      <div class="col-md-4 col-sm-6">
-          <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/beni_mellal/3.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERAL<br>ADABI SOILIHI ABDOULKARIM </h4>
               <button type="button" class="btn btn-primary"><a href="mailto:abdoulkarimsoilihi2@gmail.com">Contacter</a></button>
@@ -124,25 +108,44 @@
           </div>
         </div>
 
-        <div class="col-md-4 col-sm-6">
-          <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
-            <div class="team_feature_head">
-              <h4>CHARGE SPORTIF<br>ZAYAD SALIM</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:zayadsalim26@gmail.com">Contacter</a></button>
-            </div>
-          </div>
-        </div>
+      <div class="row rowX">
+        <!--- deuxieme ligne-->
+        <div class="row">
 
-        <!-- <div class="col-md-4 col-sm-6">
-          <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
-            <div class="team_feature_head">
-              <h4>CHARGE DE LA COMMUNICATION<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:#">Contacter</a></button>
+          <div class="col-md-4 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/beni_mellal/4.jpg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>TRESORERIE GENERAL<br>Riama Sayiri Darmine</h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:riamasayirid@gmail.com">Contacter</a></button>
+              </div>
             </div>
           </div>
-        </div> -->
+
+          <div class="col-md-4 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/beni_mellal/5.jpeg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>CHARGE SPORTIF<br>ZAYAD SALIM</h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:zayadsalim26@gmail.com">Contacter</a></button>
+              </div>
+            </div>
+          </div>
+
+          <!-- <div class="col-md-4 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/beni_mellal/6.jpeg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>CHARGE DE LA COMMUNICATION<br></h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:#">Contacter</a></button>
+              </div>
+            </div>
+          </div> -->
+
+        </div>
+      </div>
+
+        
 
       </div>
     </div>

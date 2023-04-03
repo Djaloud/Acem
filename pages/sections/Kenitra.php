@@ -82,7 +82,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/kenitra/1.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/kenitra/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERAL<br>Kalfallahou Ibrahim</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:kalfallahou@gmail.com">Contacter</a></button>
@@ -92,7 +92,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/kenitra/2.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/kenitra/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SOCIO-CULTUREL<br>Houssamoudine FAHAROUDINE</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:houssfakolt@gmail.com">Contacter</a></button>
@@ -102,7 +102,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/kenitra/3.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/kenitra/3.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERAL<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -121,7 +121,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/kenitra/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/kenitra/4.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>TRESORIER GENERAL<br>labbe abdourahim charif</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:fakricharif2017@gmail.com">Contacter</a></button>
@@ -131,7 +131,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/kenitra/5.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/kenitra/5.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SPORTIF<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -141,7 +141,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/kenitra/5.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/kenitra/6.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE DE LA COMMUNICATION<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>

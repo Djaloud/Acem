@@ -101,7 +101,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/rs/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERAL<br>Nair Said Msaidie</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:nsaid2957@gmail.com">Contacter</a></button>
@@ -111,7 +111,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/rs/2.JPG" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/2.JPG" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGÉE SOCIO-CULTUREL<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -121,7 +121,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/rs/3.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/3.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERAL<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -140,7 +140,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/rs/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/4.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>TRESORIERE GENERALE<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -150,7 +150,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/rs/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SPORTIF<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
@@ -160,7 +160,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/rs/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE DE LA COMMUNICATION<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>

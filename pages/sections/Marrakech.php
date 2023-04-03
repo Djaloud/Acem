@@ -78,7 +78,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Marrakech/NASSEAU_MOÏSE.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/marrakech/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>SECRETAIRE GENERALE<br>Hasnaa Mohamed </h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ridhoinehasnaa@gmail.com">Contacter</a></button>
@@ -88,7 +88,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Marrakech/Houmais_Said.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/marrakech/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SOCIO-CULTUREL<br>Amine Ahamada Kari</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:aak47babyes@gmail.com">Contacter</a></button>
@@ -98,7 +98,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Marrakech/Hikmat_C.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/marrakech/3.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CONTROLEUR GENERALE<br>CHEDLI CHAMOU</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:chedlichamou@gmail.com">Contacter</a></button>
@@ -117,7 +117,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Marrakech/Noura_ahmed.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/marrakech/4.jpeg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>TRESORIERE GENERALE<br>Anzlati Ismael Imani</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ismailanzlat@gmail.com">Contacter</a></button>
@@ -127,7 +127,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Marrakech/Alhadad_Moussa.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/marrakech/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE SPORTIF<br>ASSADILLAH MOHAMED</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:mohamedassadillah145@gmail.com">Contacter</a></button>
@@ -137,7 +137,7 @@
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/Marrakech/Alhadad_Moussa.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/marrakech/6.jpg" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGE DE LA COMMUNICATION<br></h4>
               <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
