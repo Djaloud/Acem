@@ -74,8 +74,8 @@
       </div>
     </div>
 
-    <div class="row rowX">
       <!--- premiere ligne-->
+    <div class="row rowX">
       <div class="row">
 
         <div class="col-md-4 col-sm-6">
@@ -108,8 +108,10 @@
           </div>
         </div>
 
-      <div class="row rowX">
+      </div>
+    </div>
         <!--- deuxieme ligne-->
+      <div class="row rowX">
         <div class="row">
 
           <div class="col-md-4 col-sm-6">

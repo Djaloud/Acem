@@ -87,7 +87,7 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/2.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/oujda/uf.png" alt="#"> </div>
             <div class="team_feature_head">
               <h4>CHARGEE SOCIO-CULTURELLE<br>Hidjirati Anli</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:ahidjrati@gmail.com">Contacter</a></button>
