@@ -107,6 +107,9 @@
             </div>
           </div>
         </div>
+        
+        </div>
+    </div>
 
     <div class="row rowX">
       <!--- deuxieme ligne-->
