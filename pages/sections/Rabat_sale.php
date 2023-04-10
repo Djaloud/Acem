@@ -109,15 +109,15 @@
           </div>
         </div>
 
-        <!-- <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/2.JPG" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/um.png" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGÉE SOCIO-CULTUREL<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              <h4>CHARGÉE SOCIO-CULTUREL<br>Mounir abdoulkarim</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:mounirabdoulkarim13@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div> -->
+        </div>
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
@@ -138,15 +138,15 @@
       <!--- deuxieme ligne-->
       <div class="row">
 
-        <!-- <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/uf.png" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>TRESORIERE GENERALE<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              <h4>TRESORIERE GENERALE<br>Asma Mohamed Sirry</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:mohamedsirryasma@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div> -->
+        </div>
 
         <!-- <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
@@ -158,15 +158,15 @@
           </div>
         </div> -->
 
-        <!-- <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/rs/uf.png" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE DE LA COMMUNICATION<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              <h4>CHARGE DE LA COMMUNICATION<br>Mohamed sitti Rahma</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:mohamedsaidsittirahma@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div> -->
+        </div>
 
       </div>
     </div>
