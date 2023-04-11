@@ -23,27 +23,27 @@
   <!-- site icons -->
   <link rel="icon" href="favicon.ico" type="image/gif" />
   <!-- bootstrap css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/bootstrap.min.css" />
   <!-- bootstrap icon -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
   <!-- Site css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/style.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/style.css" />
   <!-- responsive css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/responsive.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/responsive.css" />
   <!-- colors css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/colors1.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/colors1.css" />
   <!-- custom css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/custom.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/custom.css" />
   <!-- wow Animation css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/animate.css" />
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/main.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/animate.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/main.css" />
   <!-- counter css -->
-  <link rel="stylesheet" href="<?= URLROOT ?>/assets/css/counter.css" />
+  <link rel="stylesheet" href="<?php echo URLROOT; ?>/assets/css/counter.css" />
 
   <!-- revolution slider css -->
-  <link rel="stylesheet" type="text/css" href="<?= URLROOT ?>/assets/revolution/css/settings.css" />
-  <link rel="stylesheet" type="text/css" href="<?= URLROOT ?>/assets/revolution/css/layers.css" />
-  <link rel="stylesheet" type="text/css" href="<?= URLROOT ?>/assets/revolution/css/navigation.css" />
+  <link rel="stylesheet" type="text/css" href="<?php echo URLROOT; ?>/assets/revolution/css/settings.css" />
+  <link rel="stylesheet" type="text/css" href="<?php echo URLROOT; ?>/assets/revolution/css/layers.css" />
+  <link rel="stylesheet" type="text/css" href="<?php echo URLROOT; ?>/assets/revolution/css/navigation.css" />
 
   <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -101,7 +101,7 @@
         <div class="row">
           <div class="col-lg-1 col-md-12 col-sm-12 col-xs-12">
             <!-- logo start -->
-            <div class="logo"> <a href="<?= URLROOT ?>"><img src="<?= URLROOT ?>/assets/images/acem-logo.png" alt="logo" /></a>
+            <div class="logo"> <a href="<?php echo URLROOT; ?>"><img src="<?php echo URLROOT; ?>/assets/images/acem-logo.png" alt="logo" /></a>
 
             </div>
 
@@ -113,40 +113,40 @@
               <div id="navbar_menu">
                 <ul class="first-ul">
 
-                  <li> <a href="<?= URLROOT ?>"><i class="bi bi-house-door-fill"></i> Accueil</a> </li>
-                  <li> <a href="<?= URLROOT ?>/comite"><i class="bi bi-people"></i> C.Scientifique</a> </li>
+                  <li> <a href="<?php echo URLROOT; ?>"><i class="bi bi-house-door-fill"></i> Accueil</a> </li>
+                  <li> <a href="<?php echo URLROOT; ?>/pages/comite"><i class="bi bi-people"></i> C.Scientifique</a> </li>
 
                   <li><a href="#"><i class="bi bi-inboxes"></i> Sections</a>
                     <ul>
-                      <li><a href="<?= URLROOT ?>/sections/Agadir">Agadir</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Casablanca">Casablanca </a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Eljadida">El jadida</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Fes">Fès</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Kenitra">Kenitra </a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Marrakech">Marrakech</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Meknes">Meknès</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Mohamedia">Mohammedia </a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Oujda">Oujda </a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Rabat_sale">Rabat-Salé</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Settat">Settat</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Tanger">Tanger</a></li>
-                      <li><a href="<?= URLROOT ?>/sections/Tetouan">Tétouan</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Agadir">Agadir</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Casablanca">Casablanca </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Eljadida">El jadida</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Fes">Fès</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Kenitra">Kenitra </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Marrakech">Marrakech</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Meknes">Meknès</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Mohamedia">Mohammedia </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Oujda">Oujda </a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Rabat_sale">Rabat-Salé</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Settat">Settat</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tanger">Tanger</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/sections/Tetouan">Tétouan</a></li>
                     </ul>
                   </li>
 
 
                   <li> <a href="#"><i class="bi bi-mortarboard"></i> Vies estudiantines</a>
                     <ul>
-                      <li><a href="<?= URLROOT ?>/EnsSup">Enseignement supérieur</a></li>
-                      <li><a href="<?= URLROOT ?>/LesEnsa">ENSA</a></li>
-                      <li><a href="<?= URLROOT ?>/amci.php">Bourse AMCI</a></li>
-                      <li><a href="<?= URLROOT ?>/assurance">Assurance AMCI</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/EnsSup">Enseignement supérieur</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa">ENSA</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/amci.php">Bourse AMCI</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/assurance">Assurance AMCI</a></li>
                     </ul>
                   </li>
                   <li> <a href="#"><i class="bi bi-diagram-2"></i> Annexes</a>
                     <ul>
                       <li><a href="http://acemtech.org/" target="_blank">ACEM Tech</a></li>
-                      <li> <a href="<?= URLROOT ?>/AcemfaQ">ACEM FaQ</a> </li>
+                      <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ">ACEM FaQ</a> </li>
                     </ul>
                   </li>
                   <li> <a href="#"><i class="bi bi-ui-radios"></i> Activités</a>
@@ -157,8 +157,8 @@
                   </li>
                   <li> <a href="#"><i class="bi bi-bookshelf"></i> Bibliothèque</a>
                     <ul>
-                      <li><a href="<?= URLROOT ?>/article">Articles Statut</a></li>
-                      <li><a href="<?= URLROOT ?>/documents">Documents</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/article">Articles Statut</a></li>
+                      <li><a href="<?php echo URLROOT; ?>/pages/documents">Documents</a></li>
                     </ul>
                   </li>
                 </ul>
