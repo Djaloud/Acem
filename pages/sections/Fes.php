@@ -81,38 +81,38 @@
     </div>
 
     <div class="row rowX">
-      <!--- premiere ligne-->
+      <!--- deuxieme ligne-->
       <div class="row">
-
-        <!-- <div class="col-md-4 col-sm-6">
-          <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/fes/1.jpg" alt="#"> </div>
-            <div class="team_feature_head">
-              <h4>SECRETAIRE GENERAL<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
-            </div>
-          </div>
-        </div> -->
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/fes/2.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/fes/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SOCIO-CULTUREL<br>ANISS ALI MOHAMED</h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:alimohamedaniss1@gmail.com">Contacter</a></button>
+              <h4>SECRETAIRE GENERAL<br>Ali Mohamed</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:Aliboinamohamed95@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
 
-        <!-- <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/fes/3.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/fes/2.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CONTROLEUR GENERAL<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              <h4>CHARGE SOCIO-CULTUREL<br>Soilahoudine Mohamed Fodjo</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:fodjosoilahou@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div> -->
+        </div>
+
+        <div class="col-md-4 col-sm-6">
+          <div class="full team_blog_colum">
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/fes/3.jpg" alt="#"> </div>
+            <div class="team_feature_head">
+              <h4>CONTROLEUR GENERAL<br>Ali Mohamed </h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:mohamedaligach@gmail.com">Contacter</a></button>
+            </div>
+          </div>
+        </div>
 
       </div>
     </div>
@@ -123,35 +123,25 @@
       <!--- deuxieme ligne-->
       <div class="row">
 
-        <!-- <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/fes/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/fes/4.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>TRESORIER GENERAL<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              <h4>TRESORIER GENERAL<br>Saandi Mahamoud Abdallah</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:Saandi.ma@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="col-md-4 col-sm-6">
+        <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/fes/5.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/fes/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SPORTIF<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+              <h4>CHARGE SPORTIF ET COMMUNICATION<br>Idaroussi Abdillah Mmadi </h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:Idaroussi1994@gmail.com">Contacter</a></button>
             </div>
           </div>
-        </div> -->
-
-        <!-- <div class="col-md-4 col-sm-6">
-          <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/fes/6.jpg" alt="#"> </div>
-            <div class="team_feature_head">
-              <h4>CHARGE DE LA COMMUNICATION<br></h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
-            </div>
-          </div>
-        </div> -->
+        </div>
 
 
       </div>
