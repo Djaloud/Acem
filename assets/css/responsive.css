@@ -1268,15 +1268,8 @@
 	.service_blog {
     margin-bottom: 30px;
 }
-.home_be {
-	height: 850px;
-}
-.team_feature_head {
-	height: fit-content;
-}
 .team_blog_colum {
 	margin-bottom: 30px;
-	grid-row-gap: 30px;
 }
 .team_blog_colum1 {
 	margin-bottom: 30px;

@@ -5,7 +5,7 @@
 /*------------------------------------------------------------------
 		[Table of contents]
 
-	1.  IMPORT FONTS
+		1.  IMPORT FONTS
     2.  IMPORT FILES
 	3.  BASIC
     4.  LOADER
@@ -4053,6 +4053,10 @@ footer ul.social_icons {
 	margin-right: 10px;
 }
 
+.team_feature_head {
+	text-align: center;
+}
+
 .team_feature_social {
 	float: left;
 	width: 100%;
@@ -5164,20 +5168,8 @@ footer ul.social_icons {
 	left: -24px;
 }
 
-.team_blog_colum {
-	height: 100%;
-	display: grid;
-	grid-template-rows: 2fr 1fr;
-	grid-row-gap: 10px;
-}
-
-.team_feature_head {
-	text-align: center;
-}
-
 .it_be_img img {
 	width: 100%;
-	height: 100%;
 	border-radius: 50px;
 }
 .it_team_img img {

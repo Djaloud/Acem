@@ -131,7 +131,6 @@
   </div>
 
   <!-- end section -->
-  
 
 
 
@@ -205,7 +204,7 @@
 
             <!--- deuxieme ligne-->
             <div class="row">
-              <div class="col-md-3 col-sm-6 mb-4 home_be">
+              <div class="col-md-3 col-sm-6">
                 <div class="full team_blog_colum">
                   <div class="it_be_img"> <img class="img" src="<?php echo URLROOT; ?>/assets/images/photo/BE/1.jpg" alt="#"> </div>
                   <div class="team_feature_head">
@@ -215,7 +214,7 @@
                 </div>
               </div>
 
-              <div class="col-md-3 col-sm-6 mb-4 home_be">
+              <div class="col-md-3 col-sm-6">
                 <div class="full team_blog_colum">
                   <div class="it_be_img"> <img class="img" src="<?php echo URLROOT; ?>/assets/images/photo/BE/3.jpg" alt="#"> </div>
                   <div class="team_feature_head">
@@ -224,7 +223,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-3 col-sm-6 mb-4 home_be">
+              <div class="col-md-3 col-sm-6">
                 <div class="full team_blog_colum">
                   <div class="it_be_img"> <img class="img" src="<?php echo URLROOT; ?>/assets/images/photo/BE/2.jpg" alt="#"> </div>
                   <div class="team_feature_head">
@@ -234,7 +233,7 @@
                 </div>
               </div>
 
-              <div class="col-md-3 col-sm-6 mb-4 home_be">
+              <div class="col-md-3 col-sm-6">
                 <div class="full team_blog_colum">
                   <div class="it_be_img"> <img class="img" src="<?php echo URLROOT; ?>/assets/images/photo/BE/4.jpg" alt="#"> </div>
                   <div class="team_feature_head">
