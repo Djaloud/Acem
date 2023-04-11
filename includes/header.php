@@ -119,6 +119,7 @@
                   <li><a href="#"><i class="bi bi-inboxes"></i> Sections</a>
                     <ul>
                       <li><a href="<?= URLROOT ?>/sections/Agadir">Agadir</a></li>
+                      <li><a href="<?= URLROOT ?>/sections/Beni_mellal">Béni Mellal</a></li>
                       <li><a href="<?= URLROOT ?>/sections/Casablanca">Casablanca </a></li>
                       <li><a href="<?= URLROOT ?>/sections/Eljadida">El jadida</a></li>
                       <li><a href="<?= URLROOT ?>/sections/Fes">Fès</a></li>

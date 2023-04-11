@@ -91,24 +91,14 @@
     </div>
 
     <div class="row rowX">
-      <!--- deuxieme ligne-->
+      <!--- premiere ligne-->
       <div class="row">
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/casablanca/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/casablanca/1.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>SECRETAIRE GENERAL<br>Mohamed Soilihi Houdhoif </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:msoilihi747@gmail.com">Contacter</a></button>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-4 col-sm-6">
-          <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/casablanca/2.jpg" alt="#"> </div>
-            <div class="team_feature_head">
-              <h4>CHARGE SOCIO-CULTUREL<br>Ghalid Mohamed Bacar </h4>
+              <h4>SECRETAIRE GENERAL<br>Ghalid Mohamed Bacar</h4>
               <button type="button" class="btn btn-primary"><a href="mailto:mohamedbacarghalid@gmail.com">Contacter</a></button>
             </div>
           </div>
@@ -116,10 +106,20 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/casablanca/3.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/casablanca/2.JPG" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CONTROLEUR GENERAL<br>Djasma Ahamada Bedja </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:djasmaa2019@gmail.com">Contacter</a></button>
+              <h4>CHARGE SOCIO-CULTUREL<br>Abdoul_karim Hamidou</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:abdoulkarim431hamidou@gmail.fr">Contacter</a></button>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 col-sm-6">
+          <div class="full team_blog_colum">
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/casablanca/3.jpeg" alt="#"> </div>
+            <div class="team_feature_head">
+              <h4>CONTROLEUR GENERAL<br>HAKIM IBRAHIM CHANDO</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:comores2018hakim@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
@@ -135,24 +135,33 @@
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/casablanca/4.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/casablanca/4.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>TRESORIERE GENERALE<br>Ghaniya Mohamadi </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:ghaniyamohamadi3@gmail.com">Contacter</a></button>
+              <h4>TRESORIERE GENERALE<br>Hassane Fatima Mounia</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:hsnftmmounia@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/casablanca/5.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/casablanca/5.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SPORTIF ET COMMUNICATION<br> Amir Dine Chamir </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:chamiramirdine@gmail.com">Contacter</a></button>
+              <h4>CHARGE SPORTIF<br>Imad-Eddine Saïd Mladjao</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:imadeddinesaidmladjao@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
 
+        <div class="col-md-4 col-sm-6">
+          <div class="full team_blog_colum">
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/casablanca/6.jpg" alt="#"> </div>
+            <div class="team_feature_head">
+              <h4>CHARGE DE LA COMMUNICATION<br>Balquis Mohamed</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:">Contacter</a></button>
+            </div>
+          </div>
+        </div>
 
       </div>
     </div>

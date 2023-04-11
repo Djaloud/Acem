@@ -75,55 +75,79 @@
     </div>
 
     <div class="row rowX">
-      <!--- deuxieme ligne-->
+      <!--- premiere ligne-->
       <div class="row">
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/1.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/tetouan/1.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>SECRETAIRE GENERAL<br>Mohamed El Foutouh Soulaimana </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:elfoutouh7@gmail.com">Contacter</a></button>
+              <h4>SECRETAIRE GENERAL<br>Taoufik Mohamed OUSSEINI SABITI</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:taoufikmhd2019@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/2.jpg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/tetouan/2.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SOCIO-CULTUREL<br>Youssouf Abdouraouf </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:youssouf.abdouraouf4@gmail.com">Contacter</a></button>
+              <h4>CHARGE SOCIO-CULTUREL<br>Anlime Mohamed</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:mohamedanlime@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/4.PNG" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/tetouan/3.jpeg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>TRESORERIE GENERAL<br>Nousroi Daoud Abdallah </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:daoudnousroi@gmail.com">Contacter</a></button>
+              <h4>CONTROLEUR GENERAL<br>Djamal moussa</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:moussadjamal51@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
-      </div>
+        
+        </div>
     </div>
 
     <div class="row rowX">
       <!--- deuxieme ligne-->
       <div class="row">
 
+          <div class="col-md-4 col-sm-6">
+            <div class="full team_blog_colum">
+              <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/tetouan/4.jpg" alt="#"> </div>
+              <div class="team_feature_head">
+                <h4>TRESORERIE GENERAL<br>Wahid Mohamed Ali</h4>
+                <button type="button" class="btn btn-primary"><a href="mailto:whdmohamedali@gmail.com">Contacter</a></button>
+              </div>
+            </div>
+          </div>
 
         <div class="col-md-4 col-sm-6">
           <div class="full team_blog_colum">
-            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/photo/tetouan/3.jpeg" alt="#"> </div>
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/tetouan/5.jpg" alt="#"> </div>
             <div class="team_feature_head">
-              <h4>CHARGE SPORTIF ET COMMUNICATION<br>Fazul M'madina Amirdine </h4>
-              <button type="button" class="btn btn-primary"><a href="mailto:mmadinafazul16@gmail.com">Contacter</a></button>
+              <h4>CHARGE SPORTIF<br>Soilahoudine Mohamed</h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:ammarmed333@gmail.com">Contacter</a></button>
             </div>
           </div>
         </div>
+
+        <!-- <div class="col-md-4 col-sm-6">
+          <div class="full team_blog_colum">
+            <div class="it_team_img"> <img class="img-responsive" src="<?php echo URLROOT; ?>/assets/images/sections/tetouan/6.jpeg" alt="#"> </div>
+            <div class="team_feature_head">
+              <h4>CHARGE SPORTIF ET COMMUNICATION<br></h4>
+              <button type="button" class="btn btn-primary"><a href="mailto:#">Contacter</a></button>
+            </div>
+          </div>
+        </div> -->
+        
+      </div>
+    </div>
+
       </div>
     </div>
   </div>
