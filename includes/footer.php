@@ -8,7 +8,7 @@
           </div>
           <ul class="footer-menu">
             <li><a href="http://acemtech.org/" target="_blank"><i class="fa fa-angle-right"></i> ACEM Tech</a></li>
-            <li> <a href="<?= URLROOT ?>/AcemfaQ"><i class="fa fa-angle-right"></i> ACEM FaQ</a> </li>
+            <li> <a href="<?php echo URLROOT; ?>/pages/AcemfaQ.php"><i class="fa fa-angle-right"></i> ACEM FaQ</a> </li>
           </ul>
         </div>
 
@@ -17,23 +17,25 @@
             <h2>VIES ESTUDIANTINES</h2>
           </div>
           <ul class="footer-menu">
-            <li><a href="<?= URLROOT ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank"><i class="fa fa-angle-right"></i> Enseignement supérieur</a></li>
-            <li><a href="<?= URLROOT ?>/LesEnsa"><i class="fa fa-angle-right"></i> ENSA</a></li>
-            <li><a href="<?= URLROOT ?>/amci"><i class="fa fa-angle-right"></i> Bourse AMCI</a></li>
-            <li><a href="<?= URLROOT ?>/assurance"><i class="fa fa-angle-right"></i> Assurance AMCI</a></li>
+            <li><a href="<?php echo URLROOT; ?>/assets/docs/pdfs/Enseignement_superieur.pdf" target="_blank"><i class="fa fa-angle-right"></i> Enseignement supérieur</a></li>
+            <li><a href="<?php echo URLROOT; ?>/pages/LesEnsa.php"><i class="fa fa-angle-right"></i> ENSA</a></li>
+            <li><a href="<?php echo URLROOT; ?>/pages/amci.php"><i class="fa fa-angle-right"></i> Bourse AMCI</a></li>
+            <li><a href="<?php echo URLROOT; ?>/pages/assurance.php"><i class="fa fa-angle-right"></i> Assurance AMCI</a></li>
           </ul>
         </div>
+
+
+
 
         <div class="col-md-3 ">
           <div class="main-heading left_text">
             <h2>BIBLIOTHEQUE</h2>
           </div>
           <ul class="footer-menu">
-            <li><a href="<?= URLROOT ?>/article"><i class="fa fa-angle-right"></i> Articles</a></li>
-            <li><a href="<?= URLROOT ?>/documents"><i class="fa fa-angle-right"></i> Documents</a></li>
+            <li><a href="<?php echo URLROOT; ?>/pages/article.php"><i class="fa fa-angle-right"></i> Articles</a></li>
+            <li><a href="<?php echo URLROOT; ?>/pages/documents.php"><i class="fa fa-angle-right"></i> Documents</a></li>
           </ul>
         </div>
-
         <div class="col-md-3 ">
           <div class="main-heading left_text">
             <h2>CONTACT</h2>
@@ -46,6 +48,8 @@
             <a class="mr-3" href="https://www.instagram.com/acem_officiel/?hl=fr" title="Instagram ACEM" target="_blank"><i class="bi bi-instagram"></i></a>
           </p>
         </div>
+
+
       </div>
 
       <div class="cprt">
@@ -54,33 +58,34 @@
           </script>
         </p>
       </div>
+
+
+
     </div>
 </footer> <!-- end footer -->
-
-
 <!-- counter js -->
-<script src="<?= URLROOT ?>/assets/js/counter.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/js/counter.js"></script>
 <!-- js section -->
-<script src="<?= URLROOT ?>/assets/js/jquery.min.js"></script>
-<script src="<?= URLROOT ?>/assets/js/bootstrap.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/js/jquery.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/js/bootstrap.min.js"></script>
 <!-- menu js -->
-<script src="<?= URLROOT ?>/assets/js/menumaker.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/js/menumaker.js"></script>
 <!-- wow animation -->
-<script src="<?= URLROOT ?>/assets/js/wow.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/js/wow.js"></script>
 <!-- custom js -->
-<script src="<?= URLROOT ?>/assets/js/custom.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/js/custom.js"></script>
 <!-- revolution js files -->
-<script src="<?= URLROOT ?>/assets/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="<?= URLROOT ?>/assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="<?php echo URLROOT; ?>/assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
 <!-- map js -->
 
 <!-- google map js -->
