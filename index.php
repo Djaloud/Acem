@@ -34,9 +34,9 @@
                     <div id="collapseA" class="panel-collapse collapse in show">
                       <div class="panel-body">
                         <p>
-                          L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
+                        L’ACEM (Association des Comoriens Étudiant au Maroc), crée le 31 Décembre 1981 à Casablanca, est une organisation à but non lucratif qui a comme ambition de regrouper en son sein tous étudiants et stagiaires comoriens au Maroc et ayant comme devise: <strong>Egalité - Solidarité - Excellence.</strong>
                           </br>
-                          Ainsi, chaque ville universitaire, où résident des Comoriens, constitue une Section Régionale (S.R) de l’ACEM. Lorsque les membres de cette dernière atteignent un nombre supérieur à 20, ils élisent un Bureau de la S.R, qui sera constitué de 5 membres : </p>
+                        Ainsi, chaque ville universitaire, où résident des Comoriens, constitue une Section Régionale (S.R) de l’ACEM. Lorsque les membres de cette dernière atteignent un nombre supérieur à 20, ils élisent un Bureau de la S.R, qui sera constitué de 6 membres : </p>
 
                         <div>
                           <ul>
@@ -47,7 +47,7 @@
                               <p><i class="fa fa-check-circle"></i> Le Chargé des affaires socioculturelles et estudiantines</p>
                             </li>
                             <li>
-                              <p><i class="fa fa-check-circle"></i> Le Chargé sportif et de la communication </p>
+                              <p><i class="fa fa-check-circle"></i> Le Chargé des affaires sportif </p>
                             </li>
                             <li>
                               </p>
@@ -55,7 +55,11 @@
                             </li>
                             <li>
                               </p>
-                              <p><i class="fa fa-check-circle"></i> Le Contrôleur Général.
+                              <p><i class="fa fa-check-circle"></i> Le Contrôleur Général
+                            </li>
+                            <li>
+                              </p>
+                              <p><i class="fa fa-check-circle"></i> Le Chargé de la Communication. 
                             </li>
 
                           </ul>
@@ -74,7 +78,7 @@
                           </p>
 
                           <li>
-                            <p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice-Président (V.P) et du Commissaire aux Comptes (C.C) ;
+                            <p><i class="fa fa-check-circle"></i> Bureau Exécutif : constitué du Président, Vice-Président (V.P), Commissaire aux Comptes (C.C) et du Chargé de la Communication;
                           </li>
                           </p>
                           <li>
